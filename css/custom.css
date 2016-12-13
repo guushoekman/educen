@@ -17,3 +17,7 @@
 .check-subchapter {
 	margin-left: 10px;
 }
+
+.toc li {
+	padding-bottom: 5px;
+}
