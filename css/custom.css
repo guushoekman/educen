@@ -1,23 +1,16 @@
-.navbar {
-	border-radius: 0;
+/*Page Search
+------------------------------------*/
+/*Search Block*/
+.header .logo img {
+	width: 150px;
+	margin: 5px 0;
 }
 
-.navbar-brand {
-	padding: 5px 15px;
+.search-block {
+	padding: 120px 0;
+	background: url(../img/banner.jpg) 50% 0 repeat fixed;		
 }
 
-.container-fluid {
-	padding: 0;
-}
-
-.dl-custom-handbook input {
-	margin-right: 4px;
-}
-
-.check-subchapter {
-	margin-left: 10px;
-}
-
-.toc li {
-	padding-bottom: 5px;
+.header {
+	border-bottom: solid 2px #fff;
 }
