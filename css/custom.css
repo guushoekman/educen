@@ -46,3 +46,25 @@
 .header .navbar-nav > li > a:hover, .header .navbar-nav > .active > a {
 	border-bottom: solid 2px #3498db;
 }
+
+.breadcrumbs {
+	background: url(../img/breadcrumbs.png) repeat;
+	border-top: solid 1px #eee;
+}
+
+.breadcrumb li.active, .breadcrumb li a:hover {
+	color: #3498db;
+}
+
+.city-profile img {
+	border-radius: 5px;
+	width: 100%;
+}
+
+.city-profile {
+	border-radius: 5px;
+}
+
+.city-profile dt {
+	padding-left: 0;
+}
