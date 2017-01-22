@@ -25,6 +25,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/app.css">
 	<link rel="stylesheet" href="css/blocks.css">
+	<link rel="stylesheet" href="css/timeline.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/custom.css">
 
@@ -32,41 +33,43 @@
 
 <body>
 	<div class="wrapper">
-		<!--=== Header ===-->
-		<div class="header">
+	<!--=== Header ===-->
+	<div class="header">
+		<div class="container">
+			<!-- Logo -->
+			<a class="logo" href="index.html">
+				<img src="img/logo-small.png" alt="Logo">
+			</a>
+			<!-- End Logo -->
+
+			<!-- Toggle get grouped for better mobile display -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="fa fa-bars"></span>
+			</button>
+			<!-- End Toggle -->
+		</div><!--/end container-->
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
 			<div class="container">
-				<!-- Logo -->
-				<a class="logo" href="index.html">
-					<img src="img/logo-small.png" alt="Logo">
-				</a>
-				<!-- End Logo -->
-
-				<!-- Toggle get grouped for better mobile display -->
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="fa fa-bars"></span>
-				</button>
-				<!-- End Toggle -->
+				<ul class="nav navbar-nav">
+					<li>
+						<a href="case-studies.html">Case studies</a>
+					</li>
+					<li>
+						<a href="#">About</a>
+					</li>
+				</ul>
 			</div><!--/end container-->
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
-				<div class="container">
-					<ul class="nav navbar-nav">
-						<li>
-							<a href="#"><i class="fa fa-book" aria-hidden="true"></i> Case studies</a>
-						</li>
-					</ul>
-				</div><!--/end container-->
-			</div><!--/navbar-collapse-->
-		</div>
-		<!--=== End Header ===-->
-		<div class="breadcrumbs">
+		</div><!--/navbar-collapse-->
+	</div>
+	<!--=== End Header ===-->		<div class="breadcrumbs">
 			<div class="container">
 				<h1 class="pull-left">L'Aquila case study</h1>
 				<ul class="pull-right breadcrumb">
 					<li><a href="index.html">Home</a></li>
-					<li><a href="">Case studies</a></li>
+					<li><a href="case-studies.html">Case studies</a></li>
 					<li class="active">L'Aquila</li>
 				</ul>
 			</div>
@@ -134,6 +137,60 @@
 					</p>
 					<p>
 						This Manual documents the activities undertaken with aim of producing the aforementioned improvements. The scope of this manual is twofold. On the one hand, it illustrates the main results obtained during the implementation of the EDUCEN activities. This part of the manual aims at enabling the scientific transferability in other CS of the methods and tools adopted in L’Aquila. The main audience of this part of the manual is the technical and scientific community involved in supporting the management of the different phases of the DRR. On the other hand, the manual aims at collecting and structuring the experiences and lessons learned from the main actors, both institutional and non-institutional, enabling the process of mutual learning, which is the main scope of the EDUCEN projects.
+					</p>
+					<h3>Key phases</h3>
+					<ul class="timeline-v2">
+						<li class="equal-height-columns">
+							<i class="cbp_tmicon rounded-x hidden-xs"></i>
+							<div class="cbp_tmlabel equal-height-column">
+								<h2>Knowledge elicitation</h2>
+								<div class="row">
+									<div class="col-md-12">
+										<p>
+											Modeling activities required a careful integration of the scientific knowledge available in literature with expert knowledge, which was elicited through semi-structured interviews, according to participatory work principles. Literature evidences were used to develop the first version of the conceptual model identifying the main cause-effect relationships. The domain experts, both institutional actors and citizens directly involved in emergency activities, cooperated in the knowledge elicitation and preliminary modelling phases.
+										</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="equal-height-columns">
+							<i class="cbp_tmicon rounded-x hidden-xs"></i>
+							<div class="cbp_tmlabel equal-height-column">
+								<h2>Conceptual modeling</h2>
+								<div class="row">
+									<div class="col-md-12">
+										<p>
+											The experts involved in modeling activities (institutional actors, researchers and citizens) were clustered in two different groups in order to support on one hand the phase of conceptual model building and on the other the definition of the stock and flow model, with its consequential calibration and validation. 
+										</p>
+										<p>
+											The process of group model building started from the conceptual model definition, representing the sum of cause-effect chains influencing the stock and flow model. In order to gather the fundamental individual and collective knowledge, the domain experts integrated the conceptual model, adding or deleting variables and modifying links. The modelling process ended when no new concepts and/or relationships emerged after a number of interviews and researchers supported the global model design. The interviews were carried out limiting bias in expert knowledge collection: particular attention was made on problem framing (to reduce subjectivity and ambiguity), availability issues (the tendency to overestimate the magnitude of recent/familiar events) and anchoring (systematic underestimation of uncertainty/variability).
+										</p>
+										<p>
+											Specifically, the experts were asked to describe the main variables and to properly connect them according to the expected influences. They were also asked to provide a quantitative interpretation of all the considered variables (even non-physical ones, such as knowledge level) and of their potential states. Finally, they were asked to describe the dynamic evolution of the variables, the main causes of these changes and the potential effects.
+										</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="equal-height-columns">
+							<i class="cbp_tmicon rounded-x hidden-xs"></i>
+							<div class="cbp_tmlabel equal-height-column">
+								<h2>SDM model building</h2>
+								<div class="row">
+									<div class="col-md-12">
+										<p>
+											The conceptual model was then used as a basis for the development of the stock-and-flow model. A first subset of variables was defined referring to the conceptual model, i.e. level of knowledge, available economic resources, water demand (from both population on site and population in shelter camps), level of service/loss of service. Such variables were modeled as stocks, according to the SDM methodology, since they describe the accumulation or depletion of both physical and non-physical resources. Another subset of variables was defined and modeled as ‘conveyors’ using the collected knowledge. Those variables are related to either externally specified conditions (e.g. ‘intensity of the hazard’), or to actions/policies that can be implemented and may have an influence on resilience levels (e.g. increasing the training level of employees, implement monitoring activities, availability of GIS and database).
+										</p>
+										<p>
+											The general structure of the model was then discussed with a sub-group of experts, who reviewed the variables and their relationships. Additionally, a quantitative calibration was performed referring to L’Aquila earthquake case study. A few key stocks were selected for calibration (e.g. ‘water deficit’), and their dynamic evolution was simulated. Experts were asked to identify for each variable a scatter plot to build an expected trend. The comparison between the expected and the predicted trend allowed the calibration of the key equations used in the model. Small deviations were attributed to the difficulties in collecting reliable data. Nevertheless, the experts considered these deviations as minor.
+										</p>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+					<p>
+						The topology of critical infrastructures, such as water distribution systems, can be easily described through the definition of a network of nodes connected by links. The structure of the network itself reflects the characteristics of the underlying network of users of the service, both in terms of spatial pattern and in terms of service requirements and expected performances (e.g. the nodes reflect the water demand). The topology and the functionality are thus two strictly intertwined aspects of the operation of the whole system. It is worth to consider that this underlying pattern of users, and their specific needs, evolves with time during the whole emergency, and thus the network should be flexible enough to provide a sufficient level of service, although somehow limited, even in case of dramatic changes in some conditions (e.g. extensive damages in the network).
 					</p>
 				</div>
 			</div>

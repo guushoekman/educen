@@ -82,3 +82,30 @@ blockquote:hover, blockquote.text-right:hover {
     position: fixed;
     top: 20px;
 }
+
+.header .navbar-nav > .active > a {
+	color: #3498db;
+}
+
+.timeline-v2:before, .timeline-v2 > li .cbp_tmicon {
+	left: 2%;
+}
+
+.timeline-v2 > li .cbp_tmlabel {
+	margin: 0 0 25px 4%
+}
+
+.timeline-v2 > li .cbp_tmicon {
+	background: #3498db;
+}
+
+.timeline-v2 > li .cbp_tmlabel h2 {
+	font-size: 17px;
+}
+
+@media screen and (max-width: 47.2em) {
+	.timeline-v2 > li .cbp_tmlabel {
+    padding: 1em;
+    font-weight: 400;
+    margin: 0 0 30px 0;
+}
