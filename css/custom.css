@@ -79,8 +79,16 @@ blockquote:hover, blockquote.text-right:hover {
 }
 
 .fixed-to-top {
-    position: fixed;
-    top: 20px;
+  position: fixed;
+  top: 20px;
+  padding: 0 15px;
+  width: 390px;
+}
+
+@media (max-width: 1200px) {
+	.fixed-to-top {
+    width: 323.33px;
+	}
 }
 
 .header .navbar-nav > .active > a {
