@@ -116,4 +116,9 @@ blockquote:hover, blockquote.text-right:hover {
     padding: 1em;
     font-weight: 400;
     margin: 0 0 30px 0;
+	}
+}
+
+.case-studies .block-grid-v2-info {
+	margin-bottom: 20px;
 }
