@@ -1,0 +1,47 @@
+---
+layout: base
+---
+<div class="breadcrumbs">
+  <div class="container">
+    <h1 class="pull-left">{{ page.city }} case study</h1>
+    <ul class="pull-right breadcrumb">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="case-studies.html">Case studies</a></li>
+      <li class="active">{{ page.city }}</li>
+    </ul>
+  </div>
+</div>
+
+<div class="bg-grey">
+  <div class="container content-md">
+    <div class="row city-profile">
+      <div class="col-md-4">
+        <img src="/img/{{ page.city | downcase }}.jpg">
+      </div>
+      <div class="col-md-4">
+        <h2>{{ page.city }}, {{ page.country }}</h2>
+        <p>
+          {{ page.intro }}
+        </p>
+      </div>
+      <div class="col-md-4">
+        <img src="/img/{{ page.city | downcase }}-map.svg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container content-md case-study-content">
+  <div class="row">
+    <div class="col-md-4 table-of-contents hidden-xs hidden-sm">
+      <ul class="list-unstyled toc-list">
+        {% for chapter in page.chapters %}
+        <li><a href="#chapter-{{ chapter.number }}">{{ chapter.number }} {{ chapter.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div id="study-content" class="col-md-8">
+      {{ content }}
+    </div>
+  </div>
+</div>
