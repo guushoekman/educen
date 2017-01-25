@@ -24,12 +24,12 @@ layout: base
 				{% for study in site.case-studies limit:3 %}
 				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
 					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="/img/{{ study.city | downcase }}.jpg" alt="">
+						<img class="img-responsive rounded-top" src="img/{{ study.city | downcase }}.jpg" alt="">
 					</div>
 					<div class="block-grid-v2-info rounded-bottom">
 						<h3>{{ study.city }}</h3>
 						<p>{{ study.intro | truncate: 160 }}</p>
-						<a class="btn-u btn-u-default" href="/case-studies/{{ study.city | downcase }}.html">Read more</a>
+						<a class="btn-u btn-u-default" href="case-studies/{{ study.city | downcase }}.html">Read more</a>
 					</div>
 				</li>
 				{% endfor %}
