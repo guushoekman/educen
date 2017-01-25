@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+title: CSS stylesheet
 ---
 @import
   "app",
@@ -30,7 +30,7 @@
 		  rgba(0, 0, 0, 0.3), 
 		  rgba(0, 0, 0, 0.3)
 		),
-		url(/img/banner.jpg) 50% 0 repeat fixed;		
+		url({{ site.github.url }}/img/banner.jpg) 50% 0 repeat fixed;		
 }
 
 .search-block .logo {
