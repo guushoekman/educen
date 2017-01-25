@@ -1,6 +1,23 @@
-/*Page Search
-------------------------------------*/
-/*Search Block*/
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import
+  "app",
+  "block-grid",
+  "breadcrumbs",
+  "header-default",
+  "page-search",
+  "timeline",
+  "style",
+  "blue"
+;
+
+.header {
+	box-shadow: 0 1px 1px #ccc;
+	background-color: #fcfcfc;
+	border-bottom: solid 2px #fcfcfc;
+}
+
 .header .logo img {
 	height: 35px;
 	margin: 5px 0;
@@ -13,17 +30,13 @@
 		  rgba(0, 0, 0, 0.3), 
 		  rgba(0, 0, 0, 0.3)
 		),
-		url(../img/banner.jpg) 50% 0 repeat fixed;		
+		url(/img/banner.jpg) 50% 0 repeat fixed;		
 }
 
 .search-block .logo {
 	width: 100%;
 	max-width: 350px;
 	margin-bottom: 20px;
-}
-
-.header {
-	border-bottom: solid 2px #fff;
 }
 
 .block-grid-v1 {
@@ -48,7 +61,7 @@
 }
 
 .breadcrumbs {
-	background: url(../img/breadcrumbs.png) repeat;
+	background: url(/img/breadcrumbs.png) repeat;
 	border-top: solid 1px #eee;
 }
 

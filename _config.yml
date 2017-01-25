@@ -1,0 +1,39 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: EDUCEN
+email:
+url:
+baseurl: 
+description: EDUCEN
+twitter:
+  username: educen
+logo: /img/logo.png
+
+gems:
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: _sass
+
+collections:
+  case-studies:
+    output: true
+  domains:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /img/banner_5.png
+
+# Build settings
+markdown: kramdown
+exclude: [vendor]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="header-fixed header-fixed-space-default">
+    <div class="wrapper">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      $(window).scroll(function() {
+
+          if ($(this).scrollTop() > 460){  
+              $('.table-of-contents').addClass("fixed-to-top");
+              $('#study-content').addClass("col-md-offset-4");
+          }
+          else{
+              $('.table-of-contents').removeClass("fixed-to-top ");
+              $('#study-content').removeClass("col-md-offset-4");
+          }
+      });
+    </script>
+
+  </body>
+
+</html>

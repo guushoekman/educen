@@ -1,73 +1,6 @@
-<!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
-<head>
-	<title>EDUCEN</title>
-
-	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
-	<meta name="author" content="">
-
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="favicon.ico">
-
-	<!-- Web Fonts -->
-	<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
-
-	<!-- CSS Global Compulsory -->
-	<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/header-default.css">
-	<link rel="stylesheet" href="css/page-search.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/app.css">
-	<link rel="stylesheet" href="css/blocks.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/custom.css">
-
-</head>
-
-<body>
-	<div class="wrapper">
-		<!--=== Header ===-->
-		<div class="header">
-			<div class="container">
-				<!-- Logo -->
-				<a class="logo" href="index.html">
-					<img src="img/logo-small.png" alt="Logo">
-				</a>
-				<!-- End Logo -->
-
-				<!-- Toggle get grouped for better mobile display -->
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="fa fa-bars"></span>
-				</button>
-				<!-- End Toggle -->
-			</div><!--/end container-->
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
-				<div class="container">
-					<ul class="nav navbar-nav">
-						<li>
-							<a href="domains.html">Domains</a>
-						</li>
-						<li>
-							<a href="case-studies.html">Case studies</a>
-						</li>
-						<li>
-							<a href="#">About</a>
-						</li>
-					</ul>
-				</div><!--/end container-->
-			</div><!--/navbar-collapse-->
-		</div>
-		<!--=== End Header ===-->
-
+---
+layout: base
+---
 		<!--=== Search Block ===-->
 		<div class="search-block parallaxBg">
 			<div class="container">
@@ -86,38 +19,20 @@
 
 		<!--=== Container Part ===-->
 		<div class="container content-md">
-			<h1>Case studies <a class="btn-u btn-u-default btn-u-xs" href="case-studies.html">See all</a></h1>
+			<h1>Case studies <a class="btn-u btn-u-default btn-u-xs" href="case-studies">See all</a></h1>
 			<ul class="row block-grid-v2">
+				{% for study in site.case-studies limit:3 %}
 				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
 					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/dordrecht.jpg" alt="">
+						<img class="img-responsive rounded-top" src="/img/{{ study.city | downcase }}.jpg" alt="">
 					</div>
 					<div class="block-grid-v2-info rounded-bottom">
-						<h3>Dordrecht</h3>
-						<p>Excepturi sint occaecati cupiditate non provident, at vero eos et accusamus et iusto odio..</p>
-						<a class="btn-u btn-u-default" href="dordrecht.html">Read more</a>
+						<h3>{{ study.city }}</h3>
+						<p>{{ study.intro | truncate: 160 }}</p>
+						<a class="btn-u btn-u-default" href="/case-studies/{{ study.city | downcase }}.html">Read more</a>
 					</div>
 				</li>
-				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
-					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/istanbul.jpg" alt="">
-					</div>
-					<div class="block-grid-v2-info rounded-bottom">
-						<h3>Istanbul</h3>
-						<p>Excepturi sint occaecati cupiditate non provident, at vero eos et accusamus et iusto odio..</p>
-						<a class="btn-u btn-u-default" href="istanbul.html">Read more</a>
-					</div>
-				</li>
-				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
-					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/laquila.jpg" alt="">
-					</div>
-					<div class="block-grid-v2-info rounded-bottom">
-						<h3>L'Aquila</h3>
-						<p>Excepturi sint occaecati cupiditate non provident, at vero eos et accusamus et iusto odio..</p>
-						<a class="btn-u btn-u-default" href="laquila.html">Read more</a>
-					</div>
-				</li>
+				{% endfor %}
 			</ul>
 		</div><!--/container-->
 		<!--=== Container Part ===-->
@@ -183,18 +98,3 @@
 				</ul>
 			</div>
 		</div>
-
-	</div><!--/End Wrapepr-->
-
-	<!-- JS Global Compulsory -->
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/jquery-migrate.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="js/smoothScroll.js"></script>
-	<!--[if lt IE 9]>
-	<script src="assets/plugins/respond.js"></script>
-	<script src="assets/plugins/html5shiv.js"></script>
-	<script src="assets/plugins/placeholder-IE-fixes.js"></script>
-	<![endif]-->
-</body>
-</html>
