@@ -5,8 +5,8 @@ layout: base
   <div class="container">
     <h1 class="pull-left">{{ page.city }} case study</h1>
     <ul class="pull-right breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li><a href="/case-studies">Case studies</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="case-studies">Case studies</a></li>
       <li class="active">{{ page.city }}</li>
     </ul>
   </div>
@@ -16,7 +16,7 @@ layout: base
   <div class="container content-md">
     <div class="row city-profile">
       <div class="col-md-4">
-        <img src="/img/{{ page.city | downcase }}.jpg">
+        <img src="../img/{{ page.city | downcase }}.jpg">
       </div>
       <div class="col-md-4">
         <h2>{{ page.city }}, {{ page.country }}</h2>
@@ -25,7 +25,7 @@ layout: base
         </p>
       </div>
       <div class="col-md-4">
-        <img src="/img/{{ page.city | downcase }}-map.svg">
+        <img src="../img/{{ page.city | downcase }}-map.svg">
       </div>
     </div>
   </div>
