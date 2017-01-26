@@ -12,6 +12,8 @@
   "blue"
 ;
 
+// index //
+
 .header {
 	box-shadow: 0 1px 1px #ccc;
 	background-color: #fcfcfc;
@@ -33,13 +35,20 @@
 		url({{ site.baseurl }}/img/banner.jpg) 50% 0 fixed;	
 	background-size: cover;
 
-
 	.logo {
 		width: 100%;
 		max-width: 350px;
 		margin-bottom: 20px;
 	}
 }
+
+	.curated-manual {
+		a {
+			background-color: #ccc;
+			min-height: 50px;
+		}
+
+	}
 
 .block-grid-v1 {
 	padding-bottom: 15px;
