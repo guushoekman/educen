@@ -16,11 +16,11 @@
 	box-shadow: 0 1px 1px #ccc;
 	background-color: #fcfcfc;
 	border-bottom: solid 2px #fcfcfc;
-}
-
-.header .logo img {
-	height: 35px;
-	margin: 5px 0;
+	
+	.logo img {
+		height: 35px;
+		margin: 5px 0;
+	}
 }
 
 .search-block {
@@ -30,13 +30,15 @@
 		  rgba(0, 0, 0, 0.3), 
 		  rgba(0, 0, 0, 0.3)
 		),
-		url({{ site.github.url }}/img/banner.jpg) 50% 0 repeat fixed;		
-}
+		url({{ site.baseurl }}/img/banner.jpg) 50% 0 fixed;	
+	background-size: cover;
 
-.search-block .logo {
-	width: 100%;
-	max-width: 350px;
-	margin-bottom: 20px;
+
+	.logo {
+		width: 100%;
+		max-width: 350px;
+		margin-bottom: 20px;
+	}
 }
 
 .block-grid-v1 {
@@ -52,38 +54,22 @@
 	padding-bottom: 40px;
 }
 
-.header .navbar-nav > li:hover > a {
-	color: #3498db;
-}
-
-.header .navbar-nav > li > a:hover, .header .navbar-nav > .active > a {
-	border-bottom: solid 2px #3498db;
-}
-
 .breadcrumbs {
-	background: url(/img/breadcrumbs.png) repeat;
+	background: url({{ site.baseurl }}/img/breadcrumbs.png) repeat;
 	border-top: solid 1px #eee;
-}
-
-.breadcrumb li.active, .breadcrumb li a:hover {
-	color: #3498db;
-}
-
-.city-profile img {
-	border-radius: 5px;
-	width: 100%;
 }
 
 .city-profile {
 	border-radius: 5px;
-}
 
-.city-profile dt {
-	padding-left: 0;
-}
+	img {
+		border-radius: 5px;
+		width: 100%;
+	}
 
-blockquote:hover, blockquote.text-right:hover {
-	border-color: #3498db;
+	dt {
+		padding-left: 0;
+	}
 }
 
 .btn-read-more {
@@ -93,7 +79,7 @@ blockquote:hover, blockquote.text-right:hover {
 
 .fixed-to-top {
   position: fixed;
-  top: 20px;
+  top: 60px;
   padding: 0 15px;
   width: 390px;
 }
@@ -104,20 +90,12 @@ blockquote:hover, blockquote.text-right:hover {
 	}
 }
 
-.header .navbar-nav > .active > a {
-	color: #3498db;
-}
-
 .timeline-v2:before, .timeline-v2 > li .cbp_tmicon {
 	left: 2%;
 }
 
 .timeline-v2 > li .cbp_tmlabel {
 	margin: 0 0 25px 4%
-}
-
-.timeline-v2 > li .cbp_tmicon {
-	background: #3498db;
 }
 
 .timeline-v2 > li .cbp_tmlabel h2 {

@@ -17,7 +17,7 @@ The Case Study refers to the disastrous 6.3 earthquake which struck L’Aquila c
 
 The aim of this manual is to collect, structure and enable the transferability of the experiences carried out in the L’Aquila Case Study during the implementation of the EDUCEN project. In order to enhance the readability of the manual, the performed activities have been clustered in two main groups:
 
-The cluster for the analysis of the network of interaction among different emergency responders, which aimed at mapping and analysing the complex network of interactions taking place in case of emergency. To this aim, storyline approach, cognitive mapping and social network analysis methods were sequentially implemented.
+<blockquote>The cluster for the analysis of the network of interaction among different emergency responders, which aimed at mapping and analysing the complex network of interactions taking place in case of emergency. To this aim, storyline approach, cognitive mapping and social network analysis methods were sequentially implemented.</blockquote>
 
 The cluster for the analysis of soft and hard infrastructure resilience, which aimed at better comprehend how soft and hard infrastructures interact in order to make the whole urban system more resilient in case of disaster. To this aim, system dynamic modelling and graph theory were adopted.  
 
