@@ -21,14 +21,16 @@ layout: base
 			<h3>
 				Browse the site or read a curated manual for: 
 			</h3>
-			<div class="row">	
-				<a href="#" class="col-sm-2 policy-maker">Policy maker</a>
-				<a href="#" class="col-sm-2 civil-servant">Civil servant</a>
-				<a href="#" class="col-sm-2 responder">Disaster responder</a>
-				<a href="#" class="col-sm-2 city-expert">City expert</a>
-				<a href="#" class="col-sm-2 trainer">Trainer and exercise designer</a>
-				<a href="#" class="col-sm-2 gatekeeper">Local gatekeeper</a>
-			</div>
+			<ul class="row block-grid-v2">
+				{% for target in site.audience %}
+				<li class="col-md-2 col-sm-4 md-margin-bottom-30">
+					<div class="block-grid-v2-info rounded-bottom center-block">
+						<img src="img/{{ target.image }}.png">
+						<a class="btn-u btn-u-default btn-u-sm" href="#">{{ target.name }}</a>
+					</div>
+				</li>
+				{% endfor %}
+			</ul>
 		</div>
 
 

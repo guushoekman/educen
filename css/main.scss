@@ -44,9 +44,12 @@
 
 	.curated-manual {
 		a {
-			background-color: #ccc;
-			min-height: 50px;
+			border: 1px solid #efefef;
+			&:hover {
+				border: 1px solid #ccc;
+			}
 		}
+
 
 	}
 

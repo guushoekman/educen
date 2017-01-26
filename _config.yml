@@ -26,6 +26,8 @@ collections:
     output: true
   domains:
     output: true
+  audience:
+    output: false
 
 defaults:
   -
