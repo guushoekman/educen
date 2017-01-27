@@ -43,11 +43,11 @@
 }
 
 	.curated-manual {
+		img {
+			margin-bottom: 5px;
+		}
 		a {
-			border: 1px solid #efefef;
-			&:hover {
-				border: 1px solid #ccc;
-			}
+			display: block;
 		}
 
 
