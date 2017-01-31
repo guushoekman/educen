@@ -46,7 +46,7 @@ layout: base
 					<div class="block-grid-v2-info rounded-bottom">
 						<h3>{{ study.city }}</h3>
 						<p>{{ study.intro | truncate: 160 }}</p>
-						<a class="btn-u btn-u-default" href="case-studies/{{ study.city | downcase }}.html">Read more</a>
+						<a class="btn-u btn-u-default" href="{{ site.baseurl }}{{ study.url }}">Read more</a>
 					</div>
 				</li>
 				{% endfor %}
