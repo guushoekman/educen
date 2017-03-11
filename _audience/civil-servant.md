@@ -1,4 +1,4 @@
 ---
 name: Civil servant
-image: gatekeeper
+image: gatekeeper.png
 ---

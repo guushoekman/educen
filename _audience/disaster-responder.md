@@ -1,4 +1,4 @@
 ---
 name: Disaster responder
-image: responder
+image: responder.png
 ---

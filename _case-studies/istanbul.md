@@ -2,6 +2,7 @@
 layout: case-study
 city: Istanbul
 country: Turkey
+image: istanbul.jpg
 intro: Something about Istanbul
 chapters:
 - number: 1

@@ -16,7 +16,7 @@ layout: base
   <div class="container content-md">
     <div class="row city-profile">
       <div class="col-md-4">
-        <img src="../img/{{ page.city | downcase }}.jpg">
+        <img src="{{ site.baseurl }}/img/case-studies/{{ page.image }}">
       </div>
       <div class="col-md-4">
         <h2>{{ page.city }}, {{ page.country }}</h2>
@@ -25,7 +25,7 @@ layout: base
         </p>
       </div>
       <div class="col-md-4">
-        <img src="../img/{{ page.city | downcase }}-map.svg">
+        <img src="{{ site.baseurl }}/img/case-studies/{{ page.city | downcase }}-map.svg">
       </div>
     </div>
   </div>

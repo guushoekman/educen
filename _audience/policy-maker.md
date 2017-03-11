@@ -1,4 +1,4 @@
 ---
 name: Policy maker
-image: policy-maker
+image: policy-maker.png
 ---

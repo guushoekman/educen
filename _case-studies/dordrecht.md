@@ -2,6 +2,7 @@
 layout: case-study
 city: Dordrecht
 country: Netherlands
+image: dordrecht.jpg
 intro: Something about Dordrecht
 chapters:
 - number: 1

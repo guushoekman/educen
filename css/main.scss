@@ -14,6 +14,57 @@
 
 // index //
 
+.front-page {
+	.search-block {
+		padding: 100px 0;
+		margin-bottom: 0;
+		background: 
+			linear-gradient(
+			  rgba(0, 0, 0, 0.3), 
+			  rgba(0, 0, 0, 0.3)
+			),
+			url({{ site.baseurl }}/img/banner.jpg) 50% 0 fixed;	
+		background-size: cover;
+
+		.logo {
+			width: 100%;
+			max-width: 350px;
+			margin-bottom: 20px;
+		}
+	}
+	.intro {
+		padding: 15px;
+	}
+	.domains {
+		.col-domain {
+			padding-left: 0;
+			padding-right: 0;
+			.domain-wrapper {
+				position: relative;
+				img {
+					width: 100%;
+				}
+				img.black {
+					opacity: 0.5;
+					position: absolute;
+					left: 0;
+					top: 0;
+				}
+				.domain-text {
+					color: #fff;
+					position: absolute;
+					width: 100%;
+					padding: 0 10%;
+					text-align: center;
+					font-size: 2em;
+					top: 35%;
+					z-index: 1000;
+				}
+			}
+		}
+	}
+}
+
 .header {
 	box-shadow: 0 1px 1px #ccc;
 	background-color: #fcfcfc;
@@ -25,22 +76,7 @@
 	}
 }
 
-.search-block {
-	padding: 100px 0;
-	background: 
-		linear-gradient(
-		  rgba(0, 0, 0, 0.3), 
-		  rgba(0, 0, 0, 0.3)
-		),
-		url({{ site.baseurl }}/img/banner.jpg) 50% 0 fixed;	
-	background-size: cover;
 
-	.logo {
-		width: 100%;
-		max-width: 350px;
-		margin-bottom: 20px;
-	}
-}
 
 	.curated-manual {
 		img {

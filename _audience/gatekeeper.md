@@ -1,4 +1,4 @@
 ---
 name: Local gatekeeper
-image: gatekeeper
+image: gatekeeper.png
 ---

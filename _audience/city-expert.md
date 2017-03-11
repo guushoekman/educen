@@ -1,4 +1,4 @@
 ---
 name: City expert
-image: expert
+image: expert.png
 ---

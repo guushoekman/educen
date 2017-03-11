@@ -2,6 +2,7 @@
 layout: case-study
 city: Volos
 country: Greece
+image: volos.jpg
 intro: Something about Volos
 chapters:
 - number: 1

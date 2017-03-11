@@ -1,4 +1,4 @@
 ---
 name: Trainer
-image: trainer
+image: trainer.png
 ---

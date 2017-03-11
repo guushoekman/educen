@@ -1,117 +1,99 @@
 ---
 layout: base
 ---
-		<!--=== Search Block ===-->
-		<div class="search-block parallaxBg">
-			<div class="container">
-				<div class="col-md-8 col-md-offset-2">
-					<img class="logo" src="img/logo.png" alt="Logo">
-					<h1>Working with local and organizational culture in Disaster Risk Reduction</h1>
-				</div>
+<div class="front-page">
+	
+	<div class="search-block parallaxBg">
+		<div class="container">
+			<div class="col-md-8 col-md-offset-2">
+				<img class="logo" src="img/logo.png" alt="Logo">
+				<h1>Working with local and organizational culture in Disaster Risk Reduction</h1>
 			</div>
-		</div><!--/container-->
-		<!--=== End Search Block ===-->
+		</div>
+	</div>
+
+	<div class="intro">
 		<div class="container">
 			<h3>
 				EDUCEN is an EU-funded collaboration and support action focussing on the role of culture in disaster management and risk. It is a consortium consisting of 10 participant organizations from 7 different European countries. 
 			</h3>
 		</div>
+	</div>
 
-		<div class="container curated-manual">
-			<h3>
-				Browse the site or read a curated manual for a: 
-			</h3>
-			<ul class="row block-grid-v2">
-				{% for target in site.audience %}
-				<li class="col-md-2 col-sm-4 md-margin-bottom-30">
-					<div class="block-grid-v2-info rounded-bottom center-block">
-						<img src="img/{{ target.image }}.png">
-						<a class="btn-u btn-u-default btn-u-sm" href="#">{{ target.name }}</a>
+	<div class="container">
+		<div class="row domains">
+			{% assign order = site.domains | sort: 'order' %}
+			{% for domain in order %}
+				<a class="col-md-4 col-sm-6 col-domain" href="#">
+					<div class="domain-wrapper">
+						<h2 class="domain-text">{{ domain.title }}</h2>
+						<img class="img-responsive black" src="img/domains/black.png">
+						<img class="img-responsive" src="img/domains/{{ domain.image }}" alt="{{ domain.title }}">
 					</div>
-				</li>
-				{% endfor %}
-			</ul>
+				</a>
+			{% endfor %}
 		</div>
+	</div>
 
+	<div class="container content-md">
+		<h1>Case studies <a class="btn-u btn-u-default btn-u-xs" href="case-studies">See all</a></h1>
+		<ul class="row block-grid-v2">
+			{% for study in site.case-studies %}
+			<li class="col-md-4 col-sm-6 md-margin-bottom-30">
+				<div class="easy-block-v1">
+					<img class="img-responsive rounded-top" src="img/case-studies/{{ study.image }}" alt="{{ study.city }}">
+				</div>
+				<div class="block-grid-v2-info rounded-bottom">
+					<h3>{{ study.city }}</h3>
+					<p>{{ study.intro | truncate: 160 }}</p>
+					<a class="btn-u btn-u-default" href="{{ site.baseurl }}{{ study.url }}">Read more</a>
+				</div>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
 
-		<!--=== Container Part ===-->
+	<div class="bg-grey">
 		<div class="container content-md">
-			<h1>Case studies <a class="btn-u btn-u-default btn-u-xs" href="case-studies">See all</a></h1>
-			<ul class="row block-grid-v2">
-				{% for study in site.case-studies limit:3 %}
-				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
-					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/{{ study.city | downcase }}.jpg" alt="">
-					</div>
-					<div class="block-grid-v2-info rounded-bottom">
-						<h3>{{ study.city }}</h3>
-						<p>{{ study.intro | truncate: 160 }}</p>
-						<a class="btn-u btn-u-default" href="{{ site.baseurl }}{{ study.url }}">Read more</a>
-					</div>
-				</li>
-				{% endfor %}
-			</ul>
-		</div><!--/container-->
-		<!--=== Container Part ===-->
-		<div class="container content-md">
-			<h1>Domains <a class="btn-u btn-u-default btn-u-xs" href="#">See all</a></h1>
-			<ul class="row block-grid-v2">
-				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
-					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/culture.jpg" alt="">
-					</div>
-					<div class="block-grid-v2-info rounded-bottom">
-						<h3>Culture and risk</h3>
-						<p>Recognizing cultural issues in disaster risk reduction</p>
-						<a class="btn-u btn-u-default" href="#">Read more</a>
-					</div>
-				</li>
-				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
-					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/city.jpg" alt="">
-					</div>
-					<div class="block-grid-v2-info rounded-bottom">
-						<h3>City</h3>
-						<p>How hard and soft infrastructures interrelate in urban emergencies</p>
-						<a class="btn-u btn-u-default" href="#">Read more</a>
-					</div>
-				</li>
-				<li class="col-md-4 col-sm-6 md-margin-bottom-30">
-					<div class="easy-block-v1">
-						<img class="img-responsive rounded-top" src="img/catastrophe.jpg" alt="">
-					</div>
-					<div class="block-grid-v2-info rounded-bottom">
-						<h3>Catastrophe</h3>
-						<p>Identifying cultural traits of disaster affected actors</p>
-						<a class="btn-u btn-u-default" href="#">Read more</a>
-					</div>
-				</li>
-			</ul>
-		</div>
-
-		<div class="bg-grey">
-			<div class="container content-md">
-				<ul class="list-row">
-					<li class="md-margin-bottom-30">
-						<div class="content-boxes-v3 block-grid-v1 rounded">
-							<div class="content-boxes-in-v3">
-								<h2>About EDUCEN</h2>
-								<p>
-									EDUCEN is an EU-funded collaboration and support action focussing on the role of culture in disaster management and risk. EDUCEN is a consortium consisting of 10 participant organizations from 7 different European countries. 
-								</p>
-								<p>
-									Central to the EDUCEN project is the idea that cultures, the ’soft infrastructure’, hold important assets to disaster-affected communities; disaster managers and disaster-affected people alike. Our premise is that culture and cultural diversity are not just a challenge creating barriers, but are in fact reservoirs of assets that people have available to them to prevent, mitigate, prepare for, cope with and adapt to disaster risks– cognitively and practically. 
-								</p>
-								<p>
-									The overarching aim of EDUCEN is to build on existing European networks and with them identify actions to build and support culture and cultural diversity. The networking and support actions, which are central in EDUCEN’s approach, will be directed at increasing the effectiveness of DRR design by including culture as a valuable component in all phases of disaster risk management: prevention, mitigation, preparedness and response and reconstruction.
-								</p>
-								<p>
-									This will contribute to more resilient cities that are able to meet the needs of their various cultures and subcultures during disaster relief hopefully leading to a lower number of fatalities while also reducing reaction time when disaster strikes.
-								</p>
-								<a class="btn-u btn-u-default" href="#">Read more</a>
-							</div>
+			<ul class="list-row">
+				<li class="md-margin-bottom-30">
+					<div class="content-boxes-v3 block-grid-v1 rounded">
+						<div class="content-boxes-in-v3">
+							<h2>About EDUCEN</h2>
+							<p>
+								EDUCEN is an EU-funded collaboration and support action focussing on the role of culture in disaster management and risk. EDUCEN is a consortium consisting of 10 participant organizations from 7 different European countries. 
+							</p>
+							<p>
+								Central to the EDUCEN project is the idea that cultures, the ’soft infrastructure’, hold important assets to disaster-affected communities; disaster managers and disaster-affected people alike. Our premise is that culture and cultural diversity are not just a challenge creating barriers, but are in fact reservoirs of assets that people have available to them to prevent, mitigate, prepare for, cope with and adapt to disaster risks– cognitively and practically. 
+							</p>
+							<p>
+								The overarching aim of EDUCEN is to build on existing European networks and with them identify actions to build and support culture and cultural diversity. The networking and support actions, which are central in EDUCEN’s approach, will be directed at increasing the effectiveness of DRR design by including culture as a valuable component in all phases of disaster risk management: prevention, mitigation, preparedness and response and reconstruction.
+							</p>
+							<p>
+								This will contribute to more resilient cities that are able to meet the needs of their various cultures and subcultures during disaster relief hopefully leading to a lower number of fatalities while also reducing reaction time when disaster strikes.
+							</p>
+							<a class="btn-u btn-u-default" href="#">Read more</a>
 						</div>
-					</li>
-				</ul>
-			</div>
+					</div>
+				</li>
+			</ul>
 		</div>
+	</div>
+
+	<div class="container curated-manual">
+		<h3>
+			Read a curated manual for a: 
+		</h3>
+		<ul class="row block-grid-v2">
+			{% for target in site.audience %}
+			<li class="col-md-2 col-sm-4 md-margin-bottom-30">
+				<div class="block-grid-v2-info rounded-bottom center-block">
+					<img src="img/audience/{{ target.image }}">
+					<a class="btn-u btn-u-default btn-u-sm" href="#">{{ target.name }}</a>
+				</div>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+
+</div>

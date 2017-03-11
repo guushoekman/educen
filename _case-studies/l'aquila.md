@@ -2,6 +2,7 @@
 layout: case-study
 city: L'Aquila
 country: Italy
+image: l'aquila.jpg
 intro: On April 6, 2009, an earthquake of 6.3 magnitude struck central Italy with its epicentre near L'Aquila. The earthquake caused damage to between 3,000 and 10,000 buildings in the ciy and several buildings collapsed. 308 people were killed by the earthquake, and approximately 1,500 people were injured. Around 65,000 people were made homeless.
 chapters:
 - number: 1
