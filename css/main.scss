@@ -49,6 +49,9 @@
 					position: absolute;
 					left: 0;
 					top: 0;
+					&:hover {
+						opacity: 0.3
+					}
 				}
 				.domain-text {
 					color: #fff;
