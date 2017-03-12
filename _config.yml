@@ -15,9 +15,6 @@ twitter:
   username: educen
 logo: /img/logo.png
 
-gems:
-  - jekyll-seo-tag
-
 sass:
   sass_dir: _sass
 
@@ -27,15 +24,15 @@ collections:
   domains:
     output: true
   audience:
-    output: false
+    output: true
+  videos:
 
 defaults:
   -
     scope:
       path: ""
     values:
-      image: /img/banner_5.png
-
+      image: /img/banner.jpg
 # Build settings
 markdown: kramdown
 exclude: [vendor]
