@@ -42,7 +42,7 @@ layout: base
 		<div class="row domains">
 			{% assign order = site.domains | sort: 'order' %}
 			{% for domain in order %}
-				<a class="col-md-4 col-sm-6 col-link" href="#">
+				<a class="col-md-4 col-sm-6 col-link" href="{{ domain.url | prepend: site.baseurl }}">
 					<div class="wrapper">
 						<h2 class="text">{{ domain.title }}</h2>
 						<img class="img-responsive black" src="img/domains/black.png">
