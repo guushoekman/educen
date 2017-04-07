@@ -191,3 +191,27 @@ footer {
 		color: #fff;
 	}
 }
+
+.image-wrapper {
+    text-align: center;
+    float: right;
+    margin: 5px 0 5px 10px;
+    max-width: 100%;
+
+    .image-caption {
+        color: #ccc;
+        margin-top: 10px;
+    }
+}
+
+.case-study-content {
+	img {
+		max-width: 100%;		
+	}
+}
+
+.content-infobox {
+	padding: 10px;
+	margin-left: 10px;
+	border: 1px solid #ccc;
+}

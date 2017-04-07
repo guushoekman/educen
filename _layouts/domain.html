@@ -3,11 +3,11 @@ layout: base
 ---
 <div class="breadcrumbs">
   <div class="container">
-    <h1 class="pull-left">{{ page.city }} case study</h1>
+    <h1 class="pull-left">{{ page.title }}</h1>
     <ul class="pull-right breadcrumb">
       <li><a href="{{ site.baseurl }}">Home</a></li>
-      <li><a href="{{ site.baseurl }}/case-studies">Case studies</a></li>
-      <li class="active">{{ page.city }}</li>
+      <li><a href="{{ site.baseurl }}/domains">Domains</a></li>
+      <li class="active">{{ page.title }}</li>
     </ul>
   </div>
 </div>
@@ -16,20 +16,15 @@ layout: base
   <div class="container content-md">
     <div class="row city-profile">
       <div class="col-md-4">
-        <img src="{{ site.baseurl }}/img/case-studies/{{ page.image }}">
+        <img src="{{ site.baseurl }}/img/domains/{{ page.image }}">
       </div>
       <div class="col-md-4">
-        <h2>{{ page.city }}, {{ page.country }}</h2>
-        <p>
-          {{ page.intro }}
-        </p>
-      </div>
-      <div class="col-md-4">
-        <img src="{{ site.baseurl }}/img/case-studies/{{ page.city | downcase }}-map.svg">
+        <h2>{{ page.title }}</h2>
       </div>
     </div>
   </div>
 </div>
+
 
 <div class="container content-md case-study-content">
   <div class="row">
