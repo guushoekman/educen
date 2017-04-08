@@ -136,3 +136,21 @@ Workshop participants collectively made the following recommendations to enhance
 - **Sport organizations can provide a link to youth but also provide with “space” in times of a crisis**, for instance by providing access to football fields to build temporary camps, or gyms to provide for temporary shelter. Sport organizations are often used to work in teams and could therefore also provide with organizational skills during an emergency.
 
 <p class="collapse-end"></p>
+
+# Suggestions for further reading
+
+- Thomalla, F., Smith, R., Schipper, E.L.. (2015). Cultural Aspects of Risk to Environmental Changes and Hazards: A Review of Perspectives, in: Disaster’s Impact on Livelihood and Cultural Survival: Losses, Opportunities, and Mitigation. CRC Press, Boca Raton, Florida.
+- UNISDR (2016). Implementing the Sendai Framework to achieve the Sustainable Development Goals.
+
+# References
+
+- Aarts, N., & van Woerkum, C. (2002). Dealing with uncertainty in solving complex problems. In Wheelbarrows Full of Frogs, Social Learning in Rural Resource Management. Assen, The Netherlands: Koninklijke van Gorcum.
+- Björngren Cuadra, C. (2015). Disaster social work in Sweden: context, practice and challenges in an international perspective (No. Working Paper No 1:2015). The Nordic Welfare Watch – in Response to Crisis.
+- Campbell, L. M., Gray, N. J., Meletis, Z. A., Abbott, J. G., & Silver, J. J. (2006). Gatekeepers and Keymasters: Dynamic Relationships of Access in Geographical Fieldwork. Geographical Review, 96(1), 97–121.
+- Cumming, A. (2012). Youth Volunteerism and Disaster Risk Reduction. Care International.
+- Matten, D. (2004). The impact of the risk society thesis on environmental politics and management in a globalizing economy – principles, proficiency, perspectives. Journal of Risk Research, 7(4), 377–398. https://doi.org/10.1080/1366987042000208338
+- Nohrstedt, D. (2016). Explaining Mobilization and Performance of Collaborations in Routine Emergency Management. Administration & Society, 48(2), 135–162. https://doi.org/10.1177/0095399712473983
+- Nohrstedt, D., & Bodin, Ö. (2014). Evolutionary Dynamics of Crisis Preparedness Collaboration: Resources, Turbulence and Network Change in Swedish Municipalities. Risk, Hazards & Crisis in Public Policy, 5(2), 134–155. https://doi.org/10.1002/rhc3.12055
+- Serra-Llobet, A., Tàbara, J. D., & Sauri, D. (2013). The Tous dam disaster of 1982 and the origins of integrated flood risk management in Spain. Natural Hazards, 65(3), 1981–1998. https://doi.org/10.1007/s11069-012-0458-0
+- Shepherd, J., & Vuuren, K. van. (2014). The Brisbane flood: CALD gatekeepers’ risk communication role. Disaster Prevention and Management, 23(4), 469–483. https://doi.org/10.1108/DPM-08-2013-0133
+- UNV. (2011). UNV Annual Report “Volunteering for our Future.” UN Volunteers. Retrieved from https://www.unv.org/sites/default/files/UNV_Annual_report_2011_en_web.pdf
