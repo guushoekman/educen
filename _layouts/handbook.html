@@ -43,7 +43,10 @@ layout: base
 
 <script>
   $(".box-start").nextUntil(".box-end").addClass("content-infobox");
-  $(".collapse-start").nextUntil(".collapse-end").addClass("collapse-content");
-  $(".collapse-content").wrapAll("<div class='collapse-wrap'></div>");
-  $(".collapse-wrap").addClass("collapse").attr("id", $(".collapse-wrap").siblings('.btn-wrap').attr('content-id'));
+  $(".collapse-start").each(function() {
+    $(this).nextUntil(".collapse-end").wrapAll("<div class='collapse-wrap'></div>");
+  });
+  $(".collapse-wrap").each(function() {
+    $(this).addClass("collapse").attr("id", $(this).prev().attr('content-id'));
+  });
 </script>

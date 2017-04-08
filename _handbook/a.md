@@ -16,12 +16,12 @@ The cultural learning component in the EDUCEN project has facilitated a learning
 ## The role of volunteers in DRR
 Volunteering can mean different things to different people. Here we refer to volunteerism as the planned voluntary behavior intended to benefit others, taking place within an organizational setting, for a prolonged period (Cumming, 2012). Volunteerism is a fundamental source of community strength and resilience that exists in all societies. It is expressed through a wide range of activities, including traditional forms of mutual aid and self-help, formal service delivery, campaigning and advocacy, as well as other forms of civic participation (UNV, 2011).
 
-<p class="btn-wrap" content-id="collapse-1">
+<p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
   Read more about the role of volunteers
 </button></p>
 
-<p class="collapse-start"></p>
+<p content-id="collapse-1" class="collapse-start"></p>
 
 # The role of volunteers in DRR
 The role and contribution of volunteerism is well recognized and highlighted in the Sendai Framework for DRR Reduction as crucial for adopting a more people-centered preventive approach to disaster risk. When a disaster happens, volunteers are often the first to act (UNV, 2011). However, the integration of volunteers and civil society organizations throughout the disaster management cycle varies between different contexts. The form and extent of volunteers’ integration into formal DRR activities, as well as perceptions on what their role differ greatly. 
@@ -61,16 +61,18 @@ By contrast, Italy has long-time experience of a well-developed voluntary organi
 <p class="collapse-end"></p>
 
 ## The role of local leaders and gatekeepers in DRR
+
 The concept of local leaders or gatekeepers can be traced back to ethnographic methods where it is understood as an individual who directly or indirectly provides access to key resources, be those resources logistical, human, institutional, or informational (Campbell, Gray, Meletis, Abbott, & Silver, 2006). Engaging with gatekeepers entails the establishment of an ever-evolving relationship which has deep implications for how a researcher or practitioner understands a particular context and interacts with stakeholders. The opposite is also true. If gatekeepers are key individuals to access people or resources, they can also be obstacles, particularly in contexts where power relationships are reversed, but also in communities where traditional authority structures are in place (Campbell et al., 2006).
 
-<p class="btn-wrap" content-id="collapse-2">
+<p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
-  Read more about local leaders and gatekeepers in DRR
+  Read more about the role of volunteers
 </button></p>
 
-<p class="collapse-start"></p>
+<p content-id="collapse-2" class="collapse-start"></p>
 
 # The role of local leaders and gatekeepers in DRR
+
 The concept of gatekeepers is used in a wide range of disciplines including geography, anthropology, management, urban planning, medicine, but also in disaster studies. In DRR, the concept of gatekeepers is sometimes understood as people who are in positions of power and possess large amounts of information on certain matters in a group. Gatekeepers in this context are deemed important individuals who maintain interactions with other group members in order to transfer information. 
 
 >The definition of gatekeepers is not static; it is subjective to context, time, location, relation, and type of risk.
@@ -90,5 +92,46 @@ Participants from the cities in Spain and Italy highlighted how following a seri
 In Spain for instance, the history of integrated risk management is more recent than in Italy, with the failure of the Tous dam in 1982 which triggered a more inclusive approach. Despite this, effective civil society participation remains a challenge, and interest to reach society varies greatly within and across managing institutions. In Lorca, for instance, some of the managing institutions have increased and improved their contact with local leaders through the EDUCEN project. This in turn gave institutions better understanding of the problems, needs and wants of citizens in the area, but also an overview of available capacity amongst individuals which could be crucial for preventing fatalities during risk situations. However, the process driving this change has been met with lack of interest and resistance from some of the institutions, and skepticism from some of the members of civil society in Lorca. 
 
 In contrast to the Italian and Spanish experiences, the Swedish and Dutch cases admitted there is very little contact with social groups. In fact, participants were not aware of whether there are local leaders, who these might be, and whether they have a role in DRR. The role of local leaders or gatekeepers to build community resilience seems to be a concept often associated with the poorer corners of the world. In an international context, this is reflected in two ways: first, there is far less academic literature on the role of leaders and gatekeepers in countries like Sweden and the Netherlands, than in countries like Bangladesh or Nepal. Studies assessing cooperation across sectors in emergency management typically focus on the role of formal state and non-state institutions, but leave out “informal” leaders like gatekeepers (see for instance Nohrstedt, 2016; Nohrstedt & Bodin, 2014). In fact the only instance where civil society is represented in these studies is through “formal” voluntary associations, which play a minor role in Swedish disaster management, as explained in the section above. Second, donor countries, like Sweden and the Netherlands, have a strong focus in building resilience through local participation in recipient countries but not at home. Despite this, participants from both cities admitted seeing the value of connecting with gatekeepers, but like participants from Spain and Italy, thought it was difficult to identify and contact them.
+
+<p class="collapse-end"></p>
+
+## Working with volunteers and gatekeepers in DRR: recommendations from five European cities.
+
+A list of concrete recommendations to improve the work of volunteers in the DRR cycle, and increase participation of gatekeepers in formal DRR work was produced by participants from the cities of L’Aquila (Italy), Lorca and Valladolid (Spain), Kristianstad (Sweden), and Dordrecht (Netherlands) during an EDUCEN stakeholder workshop. During the workshop representatives with different occupational backgrounds within DRR identified, described and reflected upon the role of volunteers and gatekeepers in DRR in their own cities. The conclusions emerging from this encounter can help DRR authorities improve their work with awareness raising and public participation, and for building social capital across sectors (public-private) and social groups with different cultural or ethnic backgrounds.
+
+<p class="btn-wrap">
+  <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+  Read more about the role of volunteers
+</button></p>
+
+<p content-id="collapse-3" class="collapse-start"></p>
+
+# Working with volunteers and gatekeepers: recommendations from five European cities
+
+The interaction between stakeholders from different cultural and professional backgrounds demonstrated the importance to share experiences and identify similarities and differences in work on DRR between cities in Europe. The participants confirmed the need for greater attention to the role of volunteers and gatekeepers to build awareness in current policy planning for DRR.
+
+A common message from all the cities is the need for improved involvement of volunteers in DRR. However, the ways to achieve this differed in each of the contexts. Whilst the role of volunteers is to a higher degree institutionalized in DRR in Southern Europe, cities representing Northern Europe shared that the government is the leading agent and civil society continues to play a marginal role. Thus, the potential to improve the role of civil society in Northern European contexts should be further assessed. 
+
+Photo SEI5                                                                                                                                                       Stakeholders present potential actions for improving DRR work in their cities 
+
+The role of gatekeepers seems to be often disregarded in DRR work, despite the recognized benefits of engaging with this type of stakeholders. There is a need to allocate time for local government to identify and work with local leaders and other respected individuals in the community, particularly to build awareness and improve ways to ensure effective communication before and during an event. The workshop showed the differences between Lorca and L’Aquila where frequency in disasters have influenced improved communication and led to more sophisticated ways to communicate. For instance, civil society and the private sector in Lorca and Spain have played an important role to develop new communication gadgets. By contrast, the lack of cultural memory in Sweden and the Netherlands of flood events were emphasized as a limiting factor among communities to demand information and efforts to share information from the government. 
+
+Phot SEI 6.1, 6.2 and 6.3                                                                                                                                          Feasible and priority actions for improving DRR work in the Italian, Swedish, Dutch and Spanish contexts
+
+After acknowledging the benefits and challenges in volunteer and gatekeeper inclusion, workshop stakeholders produced a number of recommendations to improve the DRR work. The picture below shows a country-based assessment of recommendations, their feasibility and importance in relation to contextual institutional and cultural factors.  
+
+Workshop participants collectively made the following recommendations to enhance understanding and action on the role of volunteers and gatekeepers in DRR:
+
+- **Increased participation of volunteers during the preparedness phase** can be one of the most important and feasible actions for improving DRR work. Besides from creating risk awareness amongst volunteers, this can also enhance trust towards volunteer organizations, as volunteers establish a continuous relation rather than a one-time intervention.
+- **Improve the existing contact databases of volunteers and complement it with information on individual capacities** (e.g. skills, experience, specific training). The main responsibility of managing this action would be on local authorities who would need to designate a budget to identify the different volunteer groups, develop and maintain the database and support the coordination with civil protection.
+- **Improve training for volunteers** to include actions important for the whole DRR cycle, not only the emergency phase, like for instance basic legal and policy knowledge related to DRR; and to diversify sources of funding for training volunteers through for instance the private sector. 
+- **Create one strategy for identification and inclusion of both volunteers and gatekeepers** and to have a plan on how to use spontaneous (volunteers/gatekeepers) in the best way. 
+- **Engage older people**, like the retired, who often have more time to participate in issues concerning their communities. They are also a particularly vulnerable group who might have a personal interest in engaging in DRR questions
+- **Include religious leaders** who often have a well-established relation of trust to a group of the population. They can act as informants and mediators between managing agencies and civil society and between interest groups.
+- **Improve communication and cooperation with the private sector**, particularly insurance companies, who have a good understanding of people’s assets and vulnerabilities. In some countries, insurance companies are already integrated in DRR work. In others insurance companies and managing agencies continue to operate in silos. Increased cooperation and information exchange could be beneficial for the government, the companies involved, as well as the clients.
+- **Establish contact with local or thematic journalists** who may hold important information and in some places might have good relations with local populations. They could act as mediators between civil society and managing institutions. Often, information coming from local journalists has higher credibility and reaches society faster than the official information disseminated by official government channels.
+- **Design a strategy for institutional-stakeholder engagement.** Some governmental agencies might have better relation with society than others due to their role and jurisdiction. For instance it is probably easier for civil protection to access and contact gatekeepers than it might be for an organization like the water managing institutions (Confederación Hidrográfica in Spain) which might be perceived as a “water police” than a civil society advocate. With good communication structures in place across managing institutions, several actors might be able to access the information gathered by institutions that lie closer to society.
+- **Women groups could provide with a window of opportunity to access marginalized or foreign groups.** However, these groups might not always be labelled “women group”, but could take the form of knitting groups, yoga groups, reading groups, or religious circles. In other places there might be a “gender” organization or political party. 
+- **Sport organizations can provide a link to youth but also provide with “space” in times of a crisis**, for instance by providing access to football fields to build temporary camps, or gyms to provide for temporary shelter. Sport organizations are often used to work in teams and could therefore also provide with organizational skills during an emergency.
 
 <p class="collapse-end"></p>
