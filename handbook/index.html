@@ -1,0 +1,29 @@
+---
+layout: base
+---
+<div class="breadcrumbs">
+  <div class="container">
+    <h1 class="pull-left">Handbook</h1>
+    <ul class="pull-right breadcrumb">
+      <li><a href="{{ site.baseurl }}/">Home</a></li>
+      <li class="active">Handbook</li>
+    </ul>
+  </div>
+</div>
+
+<div class="container content-md">
+	<ul class="row block-grid-v2">
+		{% for section in site.handbook %}
+		<li class="col-md-4 col-sm-6 md-margin-bottom-30">
+			<div class="easy-block-v1">
+				<img class="img-responsive rounded-top" src="{{ site.baseurl }}/img/handbook/{{ section.image }}" alt="">
+			</div>
+			<div class="block-grid-v2-info rounded-bottom">
+				<h3>{{ section.title }}</h3>
+				<p>{{ section.intro }}</p>
+				<a class="btn-u btn-u-default" href="{{ section.url }}">Read more</a>
+			</div>
+		</li>
+		{% endfor %}
+	</ul>
+</div>

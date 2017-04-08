@@ -15,38 +15,20 @@ layout: base
 	<div class="intro">
 		<div class="container">
 			<h1>
-				EDUCEN is an EU-funded collaboration and support action focussing on <strong class="highlight">the role of culture in disaster management and risk</strong>. It is a consortium consisting of 10 participant organizations from 7 different European countries. 
+				EDUCEN stands for European Disasters in Urban Centers: a Culture Expert Network. It focuses on the role of culture in disaster management and risk. EDUCEN consists of 10 participant organizations from 7 different European countries. The project has received funding from the European Commission 
 			</h1>
-		</div>
-	</div>
-
-	<div class="curated-manual">
-		<div class="container">
-			<h3>
-				Browse the site or read a curated manual for a: 
-			</h3>
-			<ul class="row block-grid-v2">
-				{% for target in site.audience %}
-				<li class="col-md-2 col-sm-4 md-margin-bottom-30">
-					<div class="block-grid-v2-info center-block">
-						<img src="img/audience/{{ target.image }}">
-						<a class="btn-u btn-u-default btn-u-sm" href="#">{{ target.name }}</a>
-					</div>
-				</li>
-				{% endfor %}
-			</ul>
 		</div>
 	</div>
 
 	<div class="container">
 		<div class="row domains">
-			{% assign order = site.domains | sort: 'order' %}
-			{% for domain in order %}
-				<a class="col-md-4 col-sm-6 col-link" href="{{ domain.url | prepend: site.baseurl }}">
+			{% assign order = site.handbook | sort: 'order' %}
+			{% for handbook in order %}
+				<a class="col-md-4 col-sm-6 col-link" href="{{ handbook.url | prepend: site.baseurl }}">
 					<div class="wrapper">
-						<h2 class="text">{{ domain.title }}</h2>
-						<img class="img-responsive black" src="img/domains/black.png">
-						<img class="img-responsive" src="img/domains/{{ domain.image }}" alt="{{ domain.title }}">
+						<h2 class="text">{{ handbook.title }}</h2>
+						<img class="img-responsive black" src="img/handbook/black.png">
+						<img class="img-responsive" src="img/handbook/{{ handbook.image }}" alt="{{ handbook.title }}">
 					</div>
 				</a>
 			{% endfor %}
@@ -68,23 +50,6 @@ layout: base
 			{% endfor %}
 		</div>
 	</div>
-
-	<div class="container">
-		<h1>Videos</h1>
-		<div class="row domains">
-			{% for video in site.videos %}
-				<a class="col-md-4 col-sm-6 col-link" href="{{ video.yturl }}" data-lity>
-					<div class="wrapper">
-						<h2 class="text"><span class="glyphicon glyphicon-play" aria-hidden="true"></span></h2>
-						<h2 class="text sub-text">{{ video.title }}</h2>
-						<img class="img-responsive black" src="img/videos/black.png">
-						<img class="img-responsive" src="img/videos/{{ video.image }}" alt="{{ video.title }}">
-					</div>
-				</a>
-			{% endfor %}
-		</div>
-	</div>
-
 
 	<div class="bg-grey">
 		<div class="container content-md">

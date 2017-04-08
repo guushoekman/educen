@@ -6,7 +6,7 @@ layout: base
     <h1 class="pull-left">{{ page.title }}</h1>
     <ul class="pull-right breadcrumb">
       <li><a href="{{ site.baseurl }}">Home</a></li>
-      <li><a href="{{ site.baseurl }}/domains">Domains</a></li>
+      <li><a href="{{ site.baseurl }}/handbook">Domains</a></li>
       <li class="active">{{ page.title }}</li>
     </ul>
   </div>
@@ -16,7 +16,7 @@ layout: base
   <div class="container content-md">
     <div class="row city-profile">
       <div class="col-md-4">
-        <img src="{{ site.baseurl }}/img/domains/{{ page.image }}">
+        <img src="{{ site.baseurl }}/img/handbook/{{ page.image }}">
       </div>
       <div class="col-md-4">
         <h2>{{ page.title }}</h2>
@@ -40,3 +40,10 @@ layout: base
     </div>
   </div>
 </div>
+
+<script>
+  $(".box-start").nextUntil(".box-end").addClass("content-infobox");
+  $(".collapse-start").nextUntil(".collapse-end").addClass("collapse-content");
+  $(".collapse-content").wrapAll("<div class='collapse-wrap'></div>");
+  $(".collapse-wrap").addClass("collapse").attr("id", $(".collapse-wrap").siblings('.btn-wrap').attr('content-id'));
+</script>
