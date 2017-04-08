@@ -6,7 +6,7 @@ layout: base
     <h1 class="pull-left">{{ page.title }}</h1>
     <ul class="pull-right breadcrumb">
       <li><a href="{{ site.baseurl }}">Home</a></li>
-      <li><a href="{{ site.baseurl }}/handbook">Domains</a></li>
+      <li><a href="{{ site.baseurl }}/handbook">Handbook</a></li>
       <li class="active">{{ page.title }}</li>
     </ul>
   </div>
@@ -20,11 +20,11 @@ layout: base
       </div>
       <div class="col-md-4">
         <h2>{{ page.title }}</h2>
+        <p>{{ page.intro }}</p>
       </div>
     </div>
   </div>
 </div>
-
 
 <div class="container content-md case-study-content">
   <div class="row">
@@ -49,4 +49,8 @@ layout: base
   $(".collapse-wrap").each(function() {
     $(this).addClass("collapse").attr("id", $(this).prev().attr('content-id'));
   });
+  $("#study-content h1").each(function() {
+    $(".toc-list").append("<li><a href='#"+$(this).attr("id")+"'>"+$(this).text()+"</a></li>");
+  });
 </script>
+

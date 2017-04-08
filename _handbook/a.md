@@ -13,7 +13,9 @@ The EDUCEN project recognizes the cultural (institutional, social and ethnic) pe
 
 The cultural learning component in the EDUCEN project has facilitated a learning process to identify enabling and disenabling factors for culture and social dynamics to be recognized in DRR. The process has led to the identification of volunteers and gatekeepers important to strengthen current DRR strategies and plans in Europe.
 
-## The role of volunteers in DRR
+Photo SEI1 Culture and learning workshop at SEI headquarters in Stockholm
+
+# The role of volunteers in DRR
 Volunteering can mean different things to different people. Here we refer to volunteerism as the planned voluntary behavior intended to benefit others, taking place within an organizational setting, for a prolonged period (Cumming, 2012). Volunteerism is a fundamental source of community strength and resilience that exists in all societies. It is expressed through a wide range of activities, including traditional forms of mutual aid and self-help, formal service delivery, campaigning and advocacy, as well as other forms of civic participation (UNV, 2011).
 
 <p class="btn-wrap">
@@ -23,7 +25,6 @@ Volunteering can mean different things to different people. Here we refer to vol
 
 <p content-id="collapse-1" class="collapse-start"></p>
 
-# The role of volunteers in DRR
 The role and contribution of volunteerism is well recognized and highlighted in the Sendai Framework for DRR Reduction as crucial for adopting a more people-centered preventive approach to disaster risk. When a disaster happens, volunteers are often the first to act (UNV, 2011). However, the integration of volunteers and civil society organizations throughout the disaster management cycle varies between different contexts. The form and extent of volunteers’ integration into formal DRR activities, as well as perceptions on what their role differ greatly. 
 
 During a workshop with stakeholders from five different European cities in Spain, Italy, Sweden and the Netherlands, participants highlighted the role of volunteer organizations as important for mobilizing society, for communicating across sectors and groups, for negotiating amongst competing demands, and for advocating solutions that benefit groups rather than individuals.
@@ -35,6 +36,8 @@ During a workshop with stakeholders from five different European cities in Spain
 Training and lack of resources are key challenges for developing the network of volunteers in Italy and Spain, and coordination as the main barrier for making volunteers’ work more efficient. Despite the high level of dependence on volunteers during emergencies, there is no political will to finance and improve training for volunteers.
 
 <p class="box-end"></p>
+
+Photo SEI2 Brainstorming on the role of volunteers in DRR
 
 While gatekeepers (discussed below) were seen as crucial for reaching particular social groups, volunteer organizations were considered important for mediating between different social groups. Despite positive developments towards increased civil society participation through volunteer organizations, there remain several challenges related to their integration and coordination, as well as level of trust from civil society. “Sometimes volunteers may be a burden and create additional problems. The timing is crucial to determine who should be involved when. If there are too many without having a clear role they will create problems and require resources for food and accommodation” argued a participant. “In the Spanish case, the lack of coordination and proper training of volunteers can create additional problems. The large, organized associations have their own structure and division of roles, however, coordinating between organizations and the ‘frugal’ volunteers that show up in face of emergency and the government institutions is complicated and very challenging” argued another participant. “Sometimes people do not trust volunteers:  in Spain volunteers are a very heterogeneous group, some are professionals and many know what they are doing, but not all of them. There is a perception that they don´t have the knowledge/capacity which is not accurate” argued a participant. 
 
@@ -50,6 +53,8 @@ Stakeholders identified volunteers as a heterogeneous group with different capac
 
 Participants highlighted the need for governments and volunteers to co-develop a long term plan and a strategy to have the right people ready at the right time throughout the DRR cycle, and not only during an emergency. In Italy for example, there is often much focus on the emergency phase, but volunteers are needed to work with awareness rising and public opinion as well, for building understanding amongst youth and assessing other groups in society. For this, volunteers would need a different type of training than the one available today, for instance to build capacity on existing legislations for DRR and emergency response. 
 
+Photo SEI3 Brainstorming about communicating DRR
+
 The experiences in Spain and Italy of past and present hazards have led to continuous improvements on strategies and action plans in DRR and DRM and was believed to be an important factor to engage volunteers as an important group in DRR and DRM. An attempt to improve coordination of volunteers was made both in the Spanish and Italian cases by creating a contact database to keep track of individuals. In Spain, this database only contains contact information of the persons volunteering. In L’Aquila, the database also specifies their main skills, experiences and capacities. However, neither of the countries has established quality controls, assigned budgets or personnel in charge of maintaining and updating the databases. Thus, the databases are often unreliable and are not used.
 
 We learned that Sweden has extensive experience both nationally and internationally with a long-standing tradition of preventive policies and has a continued presence in supporting international management of disasters (Björngren Cuadra, 2015). However, despite an increasing topicality internationally, volunteer work in Sweden can be said to have a relatively undeveloped role and function in the context of disasters as well as in serious events and crises. There are two potential explanations for this. The first is that in an international comparative perspective, the serious events that Sweden faces are fairly limited in scope. Sweden is geologically and geographically situated in a region that is struck by neither earthquakes nor tsunamis, even though floods, droughts and forest fires have recently caused significant damage. The second is due to that the state assumes all social responsibilities through an encompassing welfare state system which is believed to have hampered the establishment and role of voluntary organizations in DRR and DRM.
@@ -60,7 +65,7 @@ By contrast, Italy has long-time experience of a well-developed voluntary organi
 
 <p class="collapse-end"></p>
 
-## The role of local leaders and gatekeepers in DRR
+# The role of local leaders and gatekeepers in DRR
 
 The concept of local leaders or gatekeepers can be traced back to ethnographic methods where it is understood as an individual who directly or indirectly provides access to key resources, be those resources logistical, human, institutional, or informational (Campbell, Gray, Meletis, Abbott, & Silver, 2006). Engaging with gatekeepers entails the establishment of an ever-evolving relationship which has deep implications for how a researcher or practitioner understands a particular context and interacts with stakeholders. The opposite is also true. If gatekeepers are key individuals to access people or resources, they can also be obstacles, particularly in contexts where power relationships are reversed, but also in communities where traditional authority structures are in place (Campbell et al., 2006).
 
@@ -70,8 +75,6 @@ The concept of local leaders or gatekeepers can be traced back to ethnographic m
 </button></p>
 
 <p content-id="collapse-2" class="collapse-start"></p>
-
-# The role of local leaders and gatekeepers in DRR
 
 The concept of gatekeepers is used in a wide range of disciplines including geography, anthropology, management, urban planning, medicine, but also in disaster studies. In DRR, the concept of gatekeepers is sometimes understood as people who are in positions of power and possess large amounts of information on certain matters in a group. Gatekeepers in this context are deemed important individuals who maintain interactions with other group members in order to transfer information. 
 
@@ -95,7 +98,7 @@ In contrast to the Italian and Spanish experiences, the Swedish and Dutch cases 
 
 <p class="collapse-end"></p>
 
-## Working with volunteers and gatekeepers in DRR: recommendations from five European cities.
+# Working with volunteers and gatekeepers in DRR: recommendations from five European cities.
 
 A list of concrete recommendations to improve the work of volunteers in the DRR cycle, and increase participation of gatekeepers in formal DRR work was produced by participants from the cities of L’Aquila (Italy), Lorca and Valladolid (Spain), Kristianstad (Sweden), and Dordrecht (Netherlands) during an EDUCEN stakeholder workshop. During the workshop representatives with different occupational backgrounds within DRR identified, described and reflected upon the role of volunteers and gatekeepers in DRR in their own cities. The conclusions emerging from this encounter can help DRR authorities improve their work with awareness raising and public participation, and for building social capital across sectors (public-private) and social groups with different cultural or ethnic backgrounds.
 
@@ -106,17 +109,15 @@ A list of concrete recommendations to improve the work of volunteers in the DRR 
 
 <p content-id="collapse-3" class="collapse-start"></p>
 
-# Working with volunteers and gatekeepers: recommendations from five European cities
-
 The interaction between stakeholders from different cultural and professional backgrounds demonstrated the importance to share experiences and identify similarities and differences in work on DRR between cities in Europe. The participants confirmed the need for greater attention to the role of volunteers and gatekeepers to build awareness in current policy planning for DRR.
 
 A common message from all the cities is the need for improved involvement of volunteers in DRR. However, the ways to achieve this differed in each of the contexts. Whilst the role of volunteers is to a higher degree institutionalized in DRR in Southern Europe, cities representing Northern Europe shared that the government is the leading agent and civil society continues to play a marginal role. Thus, the potential to improve the role of civil society in Northern European contexts should be further assessed. 
 
-Photo SEI5                                                                                                                                                       Stakeholders present potential actions for improving DRR work in their cities 
+Photo SEI5 Stakeholders present potential actions for improving DRR work in their cities 
 
 The role of gatekeepers seems to be often disregarded in DRR work, despite the recognized benefits of engaging with this type of stakeholders. There is a need to allocate time for local government to identify and work with local leaders and other respected individuals in the community, particularly to build awareness and improve ways to ensure effective communication before and during an event. The workshop showed the differences between Lorca and L’Aquila where frequency in disasters have influenced improved communication and led to more sophisticated ways to communicate. For instance, civil society and the private sector in Lorca and Spain have played an important role to develop new communication gadgets. By contrast, the lack of cultural memory in Sweden and the Netherlands of flood events were emphasized as a limiting factor among communities to demand information and efforts to share information from the government. 
 
-Phot SEI 6.1, 6.2 and 6.3                                                                                                                                          Feasible and priority actions for improving DRR work in the Italian, Swedish, Dutch and Spanish contexts
+Phot SEI 6.1, 6.2 and 6.3 Feasible and priority actions for improving DRR work in the Italian, Swedish, Dutch and Spanish contexts
 
 After acknowledging the benefits and challenges in volunteer and gatekeeper inclusion, workshop stakeholders produced a number of recommendations to improve the DRR work. The picture below shows a country-based assessment of recommendations, their feasibility and importance in relation to contextual institutional and cultural factors.  
 
