@@ -1,22 +1,15 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import
-  "app",
-  "block-grid",
-  "breadcrumbs",
-  "header-default",
-  "page-search",
-  "timeline",
-  "style",
-  "blue"
-;
 
-// index //
+body {
+	font-family: 'Open Sans', sans-serif;
+}
 
 .front-page {
 	background-image: url("{{ site.baseurl }}/img/diagonal-noise.png");
-	.search-block {
+	.hero {
+		text-align: center;
+		position: relative;
 		padding: 100px 0;
 		margin-bottom: 0;
 		background: 
@@ -26,11 +19,21 @@
 			),
 			url({{ site.baseurl }}/img/banner.jpg) 50% 0 fixed;	
 		background-size: cover;
-
+		&:before {
+			background: rgba(0, 0, 0, 0.3);
+		}
 		.logo {
 			width: 100%;
 			max-width: 350px;
 			margin-bottom: 20px;
+		}
+		h1 {
+			color: #fff;
+			font-size: 34px;
+			font-weight: 200;
+			text-align: center;
+			margin-bottom: 30px;
+			text-transform: uppercase;	
 		}
 	}
 	.intro {
@@ -78,14 +81,19 @@
 	}
 }
 
-.header {
-	box-shadow: 0 1px 1px #ccc;
-	background-color: #fcfcfc;
-	border-bottom: solid 2px #fcfcfc;
-	
+.header {	
 	.logo img {
 		height: 35px;
 		margin: 5px 0;
+	}
+
+	.navbar {
+		margin-bottom: 0;
+		border-radius: 0;
+    box-shadow: 0 1px 1px #ccc;
+    background-color: #fcfcfc;
+    border: none;
+    border-bottom: solid 2px #fcfcfc;
 	}
 }
 
@@ -97,27 +105,47 @@
   border-color: #eee;
 }
 
-.content-md {
-	padding-top: 40px;
-	padding-bottom: 40px;
-}
-
 .breadcrumbs {
-	background: url({{ site.baseurl }}/img/breadcrumbs.png) repeat;
+  overflow: hidden;
+  padding: 10px 0 6px;
+  border-bottom: solid 1px #eee;
 	border-top: solid 1px #eee;
+	background: url(/img/breadcrumbs.png) repeat;
+	h1 {
+	  color: #666;
+	  font-size: 22px;
+	  margin-top: 8px;
+	}
+	.breadcrumb {
+	  top: 10px;
+	  z-index: 1;
+	  padding-right: 0;
+	  background: none;
+	  position: relative;
+	  a {
+	    color: #777;
+	  }
+	  li.active, li a:hover {
+	  	text-decoration: none;
+	  }
+	}
 }
 
-.city-profile {
-	border-radius: 5px;
+@media (max-width: 550px) {
+  .breadcrumbs h1.pull-left,
+  .breadcrumbs ul.pull-right {
+    width: 100%;
+    text-align: center;
+  }
 
-	img {
-		border-radius: 5px;
-		width: 100%;
-	}
+  .breadcrumbs h1.pull-left {
+    margin-bottom: 0;
+  }
 
-	dt {
-		padding-left: 0;
-	}
+  .breadcrumbs .breadcrumb {
+    top: 0;
+    margin-bottom: 10px;
+  }
 }
 
 .btn-read-more {
@@ -136,18 +164,6 @@
 	.fixed-to-top {
     width: 323.33px;
 	}
-}
-
-.timeline-v2:before, .timeline-v2 > li .cbp_tmicon {
-	left: 2%;
-}
-
-.timeline-v2 > li .cbp_tmlabel {
-	margin: 0 0 25px 4%
-}
-
-.timeline-v2 > li .cbp_tmlabel h2 {
-	font-size: 17px;
 }
 
 @media screen and (max-width: 47.2em) {
@@ -183,12 +199,6 @@ footer {
     }
 }
 
-.case-study-content {
-	img {
-		max-width: 100%;		
-	}
-}
-
 .content-infobox {
 	padding: 10px;
 	width: 50%;
@@ -202,5 +212,23 @@ footer {
 	margin-bottom: 30px;
 	.section {
 		padding-top: 20px;
+	}
+}
+
+.bg-gray {
+	background-color: #f7f7f7;
+}
+
+.handbook-chapter {
+	.basic-info {
+		padding-top: 40px;
+		padding-bottom: 40px;
+		img {
+			border-radius: 5px;
+		}
+
+		dt {
+			padding-left: 0;
+		}
 	}
 }

@@ -12,33 +12,34 @@ layout: base
   </div>
 </div>
 
-<div class="bg-grey">
-  <div class="container content-md">
-    <div class="row city-profile">
-      <div class="col-md-4">
-        <img src="{{ site.baseurl }}/img/handbook/{{ page.image }}">
-      </div>
-      <div class="col-md-4">
-        <h2>{{ page.title }}</h2>
-        <p>{{ page.intro }}</p>
-      </div>
-    </div>
-  </div>
-</div>
+<div class="handbook-chapter">
 
-<div class="container content-md case-study-content">
-  <div class="row">
-    <div class="col-md-4 table-of-contents hidden-xs hidden-sm">
-      <ul class="list-unstyled toc-list">
-        {% for chapter in page.chapters %}
-        <li><a href="#chapter-{{ chapter.number }}">{{ chapter.number }} {{ chapter.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div id="study-content" class="col-md-8">
-      {{ content }}
+  <div class="bg-gray">
+    <div class="container">
+      <section class="row basic-info">
+        <div class="col-md-4">
+          <img class="img-responsive" src="{{ site.baseurl }}/img/handbook/{{ page.image }}">
+        </div>
+        <div class="col-md-4">
+          <h2>{{ page.title }}</h2>
+          <p>{{ page.intro }}</p>
+        </div>
+      </section>
     </div>
   </div>
+
+  <div class="container">
+    <section class="content row">
+      <div class="col-md-4 table-of-contents hidden-xs hidden-sm">
+        <ul class="list-unstyled toc-list">
+        </ul>
+      </div>
+      <div id="study-content" class="col-md-8">
+        {{ content }}
+      </div>
+    </section>
+  </div>
+
 </div>
 
 <script>
