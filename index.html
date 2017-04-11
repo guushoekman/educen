@@ -22,8 +22,7 @@ layout: base
 
 	<div class="container">
 		<div class="row domains">
-			{% assign order = site.handbook | sort: 'order' %}
-			{% for handbook in order %}
+			{% for handbook in site.handbook %}
 				<a class="col-md-4 col-sm-6 col-link" href="{{ handbook.url | prepend: site.baseurl }}">
 					<div class="wrapper">
 						<h2 class="text">{{ handbook.title }}</h2>
