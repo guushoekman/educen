@@ -21,6 +21,8 @@ sass:
 collections:
   handbook:
     output: true
+  chapters:
+    output: true
   case-studies:
     output: true
 

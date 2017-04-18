@@ -155,7 +155,7 @@ body {
 
 .fixed-to-top {
   position: fixed;
-  top: 60px;
+  top: 0;
   padding: 0 15px;
   width: 390px;
 }
@@ -231,4 +231,8 @@ footer {
 			padding-left: 0;
 		}
 	}
+}
+
+.toc-list {
+	margin-top: 20px;
 }

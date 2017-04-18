@@ -1,9 +1,10 @@
 ---
-layout: handbook
-name: b
-title: b
-image: b.png
-order: b
+layout: chapter
+section: a
+number: 2
+image: a.png
+title: The role of religion and beliefs in disaster
+author: John Doe
 ---
 # The role of beliefs and religion in disaster 
 
@@ -140,26 +141,28 @@ For more information, see the US Federal Emergency Management Agency’s (FEMA) 
 <p class="collapse-end"></p>
 
 ## Suggestions for further reading
+
+---Hidden
 Gaillard, J. C., & Texier, P. (2010). Religions, natural hazards, and disasters: An introduction. Religion, 40(2), 81–84. https://doi.org/10.1016/j.religion.2009.12.001
-
 One of the first publication that put religion on the research agenda of disaster studies by identifying a gap to fill. This special issue of the Religion journal contains field-based work on religious interpretations of and responses to disasters (Christianity, Islam, Buddhism), with a particular focus on South-East Asia. It concludes on the importance of looking at religion as a resource and not as a hindrance in DRR policy.  
-
-<hr>
-
 Ha, K.-M. (2015). The Role of Religious Beliefs and Institutions in Disaster Management: A Case Study. Religions, 6(4), 1314–1329. https://doi.org/10.3390/rel6041314
-
 A case study of how Christianity, Buddhism and Confucianism operate in Korea regarding disaster management. It emphasises on the key role religion can play in mitigation-oriented management (even though religious groups are mostly involved in car-oriented management), because religion can mediate effective disaster management and local culture response. For a successful transition, religious groups should better communicate between each other and religious stakeholders must be aware of the meaningful role of religion to achieve disaster management and mitigate disaster impacts.  
-
-<hr>
-
 Schipper, L. F. (2010). Religion as an integral part of determining and reducing Climate Change and Disaster Risk : An agenda for research. In M. Voss (Ed.), Climate Change: The Social Science Perspective (pp. 377–393). Wiesbaden, Germany: VS-Verlag.
-
 An important reading, where Schipper explores the role that religious belief plays in the context of risk and discusses that religion could contribute both to determining and reducing vulnerability to climate change and disaster risk. It is supported by concrete examples, in El Salvador in particular, where religious beliefs define not only perceptions of hazards, but also determine responses to the hazards, and whether or not preventive or preparedness measures are taken.
+---
 
 
 ## References
+---Hidden-- 
 Daniels, P. L. (2010). Climate change, economics and Buddhism — Part I: An integrated environmental analysis framework. Ecological Economics, 69(5), 952–961. https://doi.org/10.1016/j.ecolecon.2009.12.002 
 
 CORDAID. (2014). Role religious place in disaster situation. Retrieved March 12, 2017, from https://www.cordaid.org/en/projects/role-religious-place-in-disaster-situation/
 
-Oral, M., Yenel, A., Oral, E., Aydin, N., & Tuncay, T. (2015). Earthquake experience and preparedness in Turkey. Disaster Prevention and Management: An International Journal, 24(1), 21–37. https://doi.org/10.1108/DPM-01-2013-0008
+        Oral, M., Yenel, A., Oral, E., Aydin, N., & Tuncay, T. (2015). Earthquake experience and preparedness in Turkey. Disaster Prevention and Management: An International Journal, 24(1), 21–37. https://doi.org/10.1108/DPM-01-2013-0008
+
+---End of hidden 
+
+
+
+
+
