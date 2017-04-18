@@ -19,13 +19,12 @@ sass:
   sass_dir: _sass
 
 collections:
+  handbook:
+    output: true
+  chapters:
+    output: true
   case-studies:
     output: true
-  domains:
-    output: true
-  audience:
-    output: true
-  videos:
 
 defaults:
   -
