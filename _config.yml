@@ -19,11 +19,9 @@ sass:
   sass_dir: _sass
 
 collections:
-  handbook:
+  sections:
     output: true
   chapters:
-    output: true
-  case-studies:
     output: true
 
 defaults:

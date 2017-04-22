@@ -1,10 +1,9 @@
 ---
-layout: handbook
+layout: chapter 
 name: a
 title: a
 image: a.png
 order: a
-intro: Laudantium non maiores eveniet hic ea ex voluptatum quod. Harum eos ullam tempora sint consequuntur rerum. Porro doloremque libero ipsam incidunt quam quasi consectetur et. Facere rerum quae aliquid.
 ---
 # Multi-stakeholder participation and community engagement 
 In order to manage risks in complex urban settings, collaboration between stakeholders, understood in the EDUCEN project as actors that can affect or are affected by an event, is crucial to reduce, prevent and minimize risks. This is a process that involves sharing knowledge and experiences; identifying barriers and opportunities to address risks in an integrated way (e.g. differences in mandates, administrative, organizational, political and operational cultures of organizations and communities of practice tasked with different aspects of DRR); and understanding why existing knowledge (e.g. on the risk, experiences, and strategies to address it) does not always make a difference in generating the kinds of actions needed to make desired changes at the appropriate (local, national, regional) scale (Matten, 2004). 
