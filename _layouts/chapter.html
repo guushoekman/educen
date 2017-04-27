@@ -52,8 +52,8 @@ layout: base
     $(".toc-list").append("<li><a href='#"+$(this).attr("id")+"'>"+$(this).text()+"</a></li>");
   });
   $("table").addClass("table");
-  $("img").addClass("center-block");
-  $("img").each(function() {
+  $("#chapter-content img").addClass("center-block");
+  $("#chapter-content img").each(function() {
     $(this).parent().append("<p class='image-caption'>" + $(this).attr("alt") + "</p>")
   });
 </script>
