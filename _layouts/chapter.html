@@ -30,6 +30,7 @@ layout: base
       <div class="col-md-4 table-of-contents hidden-xs hidden-sm">
         <ul class="list-unstyled toc-list">
         </ul>
+        <a class="btn btn-default" href="#"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to top</a>
       </div>
       <div id="chapter-content" class="col-md-8">
         {{ content }}
@@ -55,6 +56,16 @@ layout: base
   $("#chapter-content img").addClass("center-block");
   $("#chapter-content img").each(function() {
     $(this).parent().append("<p class='image-caption'>" + $(this).attr("alt") + "</p>")
+  });
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 269){  
+        $('.table-of-contents').addClass("fixed-to-top");
+        $('#chapter-content').addClass("col-md-offset-4");
+    }
+    else{
+        $('.table-of-contents').removeClass("fixed-to-top ");
+        $('#chapter-content').removeClass("col-md-offset-4");
+    }
   });
 </script>
 

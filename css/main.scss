@@ -205,6 +205,11 @@ footer {
 
 .toc-list {
 	margin-top: 20px;
+	li {
+		padding-bottom: 5px;
+		padding-left: 5px;
+		border-left: 3px solid $gray;
+	}
 }
 
 #chapter-content {
