@@ -53,5 +53,8 @@ layout: base
   });
   $("table").addClass("table");
   $("img").addClass("center-block");
+  $("img").each(function() {
+    $(this).parent().append("<p class='image-caption'>" + $(this).attr("alt") + "</p>")
+  });
 </script>
 

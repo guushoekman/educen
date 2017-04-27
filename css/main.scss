@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
 
 $gray: #f7f7f7;
+$dark-gray: #333;
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -117,12 +118,6 @@ body {
 	  padding-right: 0;
 	  background: none;
 	  position: relative;
-	  a {
-	    color: #777;
-	  }
-	  li.active, li a:hover {
-	  	text-decoration: none;
-	  }
 	}
 }
 
@@ -174,18 +169,6 @@ footer {
 	}
 }
 
-.image-wrapper {
-    text-align: center;
-    float: right;
-    margin: 5px 0 5px 10px;
-    max-width: 100%;
-
-    .image-caption {
-        color: #ccc;
-        margin-top: 10px;
-    }
-}
-
 .content-infobox {
 	padding: 10px;
 	width: 50%;
@@ -233,6 +216,13 @@ footer {
 		background-color: $gray;
 		margin-bottom: 0;
 		padding: 10px;
+	}
+	.image-caption {
+    color: $dark-gray;
+    margin: 10px 0 20px 0;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
 	}
 }
 
