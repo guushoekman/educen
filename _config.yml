@@ -25,6 +25,11 @@ collections:
   chapters:
     output: true
     permalink: handbook/:title
+  tools:
+    output: true
+    permalink: :title
+  case-studies:
+    output: true
 
 defaults:
   -
