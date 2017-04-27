@@ -12,15 +12,18 @@ layout: base
 </div>
 
 <section class="handbook container">
-  {% for section in site.handbook %}
+  {% for section in site.sections %}
     <div class="row section">
       <div class="col-sm-3 col-md-offset-2">
-  			<a href="{{ section.url }}"><img class="img-responsive" src="{{ site.baseurl }}/img/handbook/{{ section.image }}" alt="{{ section.title }}"></a>
+  			<!--<a href="{{ section.url }}"><img class="img-responsive" src="{{ site.baseurl }}/img/handbook/{{ section.image }}" alt="{{ section.title }}"></a>-->
       </div>
       <div class="col-sm-9 col-md-5">
-  			<h3>{{ section.title }}</h3>
-      	<p>{{ section.intro }}</p>
-      	<a class="btn-u btn-u-default" href="{{ section.url }}">Read more</a>
+      <h3>{{ section.title }}</h3>
+      {% for chapter in site.chapters %}
+        {% if chapter.section == section.name %}
+        	<div><a class="btn-u btn-u-default" href="{{ chapter.url }}">{{ chapter.title }}</a></div>
+        {% endif %}
+      {% endfor %}
       </div>
     </div>
   {% endfor %}
