@@ -1,5 +1,6 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -221,8 +222,8 @@ footer {
 
 .handbook-chapter {
 	.basic-info {
-		padding-top: 40px;
-		padding-bottom: 40px;
+		padding-top: 30px;
+		padding-bottom: 30px;
 		img {
 			border-radius: 5px;
 		}
@@ -235,4 +236,14 @@ footer {
 
 .toc-list {
 	margin-top: 20px;
+}
+
+#chapter-content {
+	margin-top: 20px;
+}
+
+.handbook-chapter {
+	h1, h2, h3, h4, h5 {
+		font-family: 'Slabo 27px', serif;
+	}
 }

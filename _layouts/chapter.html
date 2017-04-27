@@ -4,8 +4,9 @@ layout: base
 <div class="breadcrumbs">
   <div class="container">
     <ul class="pull-right breadcrumb">
-      <li><a href="{{ site.baseurl }}">Home</a></li>
-      <li><a href="{{ site.baseurl }}/handbook">Handbook</a></li>
+      <li><a href="/">Home</a></li>
+      <li><a href="/handbook">Handbook</a></li>
+      <li><a href="/handbook/{{ page.section }}/">{{ page.section }}</a></li>
       <li class="active">{{ page.title }}</li>
     </ul>
   </div>
@@ -16,10 +17,7 @@ layout: base
   <div class="bg-gray">
     <div class="container">
       <section class="row basic-info">
-        <div class="col-md-4">
-          <img class="img-responsive" src="{{ site.baseurl }}/img/handbook/{{ page.image }}">
-        </div>
-        <div class="col-md-8">
+        <div class="col-md-8 col-md-offset-4">
           <h2>{{ page.title }}</h2>
           <p>{{ page.author }}</p>
         </div>
@@ -33,7 +31,7 @@ layout: base
         <ul class="list-unstyled toc-list">
         </ul>
       </div>
-      <div id="study-content" class="col-md-8">
+      <div id="chapter-content" class="col-md-8">
         {{ content }}
       </div>
     </section>
@@ -49,7 +47,7 @@ layout: base
   $(".collapse-wrap").each(function() {
     $(this).addClass("collapse").attr("id", $(this).prev().attr('content-id'));
   });
-  $("#study-content h1, #study-content h2").each(function() {
+  $("#chapter-content h1, #chapter-content h2").each(function() {
     $(".toc-list").append("<li><a href='#"+$(this).attr("id")+"'>"+$(this).text()+"</a></li>");
   });
   $("table").addClass("table");

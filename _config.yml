@@ -21,8 +21,10 @@ sass:
 collections:
   sections:
     output: true
+    permalink: handbook/:title
   chapters:
     output: true
+    permalink: handbook/:title
 
 defaults:
   -

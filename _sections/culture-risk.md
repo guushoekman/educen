@@ -2,6 +2,6 @@
 layout: handbook
 name: culture-risk
 title: Culture and Risk
-image: a.png
+image: culture-risk.png
 order: a
 ---

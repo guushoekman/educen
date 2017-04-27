@@ -22,12 +22,12 @@ layout: base
 
 	<div class="container">
 		<div class="row domains">
-			{% for handbook in site.handbook %}
-				<a class="col-md-4 col-sm-6 col-link" href="{{ handbook.url | prepend: site.baseurl }}">
+			{% for section in site.sections %}
+				<a class="col-md-4 col-sm-6 col-link" href="{{ section.url }}">
 					<div class="wrapper">
-						<h2 class="text">{{ handbook.title }}</h2>
-						<img class="img-responsive black" src="img/handbook/black.png">
-						<img class="img-responsive" src="img/handbook/{{ handbook.image }}" alt="{{ handbook.title }}">
+						<h2 class="text">{{ section.title }}</h2>
+						<img class="img-responsive black" src="img/sections/black.png">
+						<img class="img-responsive" src="img/sections/{{ section.image }}" alt="{{ section.title }}">
 					</div>
 				</a>
 			{% endfor %}

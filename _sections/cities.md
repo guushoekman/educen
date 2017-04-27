@@ -2,6 +2,6 @@
 layout: handbook
 name: cities
 title: Cities and Disaster Risk Reduction
-image: a.png
+image: cities.png
 order: a
 ---
