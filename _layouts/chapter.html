@@ -41,6 +41,7 @@ layout: base
 
 <script>
   $(".box-start").nextUntil(".box-end").addClass("content-infobox");
+  $(".highlight-start").nextUntil(".highlight-end").addClass("chapter-highlight");
   $(".collapse-start").each(function() {
     $(this).nextUntil(".collapse-end").wrapAll("<div class='collapse-wrap'></div>");
   });
@@ -51,5 +52,6 @@ layout: base
     $(".toc-list").append("<li><a href='#"+$(this).attr("id")+"'>"+$(this).text()+"</a></li>");
   });
   $("table").addClass("table");
+  $("img").addClass("center-block");
 </script>
 
