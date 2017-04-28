@@ -204,6 +204,12 @@ footer {
 	.section {
 		padding-top: 20px;
 	}
+	h3 {
+		margin-top: 0;
+	}
+	.row {
+		padding-bottom: 20px;
+	}
 }
 
 .bg-gray {
@@ -216,10 +222,6 @@ footer {
 		padding-bottom: 30px;
 		img {
 			border-radius: 5px;
-		}
-
-		dt {
-			padding-left: 0;
 		}
 	}
 }
@@ -255,6 +257,5 @@ footer {
 .handbook-chapter, .image-menu {
 	h1, h2, h3, h4, h5 {
 		font-family: 'Roboto Slab', serif;
-
 	} 
 }
