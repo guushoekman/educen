@@ -6,7 +6,11 @@ layout: base
     <ul class="pull-right breadcrumb">
       <li><a href="/">Home</a></li>
       <li><a href="/handbook">Handbook</a></li>
-      <li><a href="/handbook/{{ page.section }}/">{{ page.section }}</a></li>
+      {% for section in site.sections %}
+        {% if section.name == page.section %}
+      <li><a href="/handbook#{{ section.name }}">{{ section.title }}</a></li>
+        {% endif %}
+      {% endfor %}
       <li class="active">{{ page.title }}</li>
     </ul>
   </div>
@@ -17,6 +21,7 @@ layout: base
   <div class="bg-gray">
     <div class="container">
       <section class="row basic-info">
+        <div class="col-md-4"></div>
         <div class="col-md-8 col-md-offset-4">
           <h2>{{ page.title }}</h2>
           <p>{{ page.author }}</p>

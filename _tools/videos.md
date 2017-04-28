@@ -11,11 +11,11 @@ videos:
 - url: https://www.youtube.com/embed/GBc3U-TuKmw&t=25s
   title: Webinar
 - url: https://www.youtube.com/embed/-7juemUm26Q
-  title: L'Aquile case study
+  title: L'Aquila case study
 - url: https://www.youtube.com/embed/5ocei-ihmAg&t=1s
-  title: L'Aquile case study
+  title: L'Aquila case study
 - url: https://www.youtube.com/embed/UPVmCrWlSr8
-  title: L'Aquile case study
+  title: L'Aquila case study
 - url: https://www.youtube.com/embed/3Deg-yYOVx8&t=33s
   title: Istanbul case study
 - url: https://www.youtube.com/embed/qB3p-h8cv3E
