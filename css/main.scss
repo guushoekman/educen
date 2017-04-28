@@ -91,9 +91,6 @@ body {
 			}
 		}
 	}
-	.sections .col-link .text {
-		top: 35% !important;
-	}
 	.about {
 		background-color: $light-blue;
 		padding: 20px 0; 
@@ -113,11 +110,14 @@ body {
     border: none;
 	}
 	.navbar-right {
-		a {
+		li {
 			border-bottom: 2px solid #fcfcfc;
 			&:hover {
 				border-bottom: 2px solid $dark-gray;
 			}
+		}
+		li.active {
+			border-bottom: 2px solid $dark-gray;
 		}
 	}
 }
