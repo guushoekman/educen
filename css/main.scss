@@ -233,13 +233,16 @@ ul.content-infobox {
 		.prev {
 			border-radius: 4px 0 0 4px;
 			width: 100px;
-			margin-top: 15px;
+			margin-top: 5px;
 		}
 		.next {
 			border-radius: 0 4px 4px 0;
 			margin-left: -5px;
-			margin-top: 15px;
+			margin-top: 5px;
 			width: 100px;
+		}
+		h1 {
+			margin-top: 10px;
 		}
 	}
 }
