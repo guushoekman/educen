@@ -197,6 +197,9 @@ footer {
 	margin: 0 0 0 10px;
 	background-color: #eee;
 }
+ul.content-infobox {
+	padding-left: 25px;
+}
 
 .handbook {
 	margin-top: 30px;
@@ -233,6 +236,12 @@ footer {
 		padding-left: 5px;
 		border-left: 3px solid $light-gray;
 	}
+	.h2 {
+		padding-left: 5px;
+	}
+	.h3 {
+		padding-left: 15px;
+	}
 }
 
 #chapter-content {
@@ -258,4 +267,8 @@ footer {
 	h1, h2, h3, h4, h5 {
 		font-family: 'Roboto Slab', serif;
 	} 
+}
+
+.videos {
+	padding-bottom: 30px;
 }
