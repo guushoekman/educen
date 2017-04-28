@@ -1,19 +1,22 @@
 ---
 ---
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 $gray: #ccc;
 $light-gray: #f7f7f7;
 $dark-gray: #333;
 
 $light-blue: #a1a7ad;
+$baby-blue: #eff3f6;
+
 
 body {
 	font-family: 'Open Sans', sans-serif;
 }
 
 .front-page {
-	background-image: url("{{ site.baseurl }}/img/diagonal-noise.png");
+	background-color: $baby-blue;
 	.hero {
 		text-align: center;
 		position: relative;
@@ -26,6 +29,7 @@ body {
 			),
 			url({{ site.baseurl }}/img/banner.jpg) 50% 0 fixed;	
 		background-size: cover;
+		border-top: 2px solid #ccc;
 		&:before {
 			background: rgba(0, 0, 0, 0.3);
 		}
@@ -36,11 +40,12 @@ body {
 		}
 		h1 {
 			color: #fff;
+			font-family: 'Roboto Slab', serif;
 			font-size: 34px;
-			font-weight: 200;
 			text-align: center;
-			margin-bottom: 30px;
-			text-transform: uppercase;	
+			margin: 60px 0 10px 0;
+			background: rgba(0, 0, 0, 0.75);
+			padding: 10px 0;
 		}
 	}
 	.intro {
@@ -50,7 +55,7 @@ body {
 		}
 	}
 	.sections, .case-studies, .tools {
-		margin-bottom: 30px;
+		margin-bottom: 60px;
 		box-shadow: 0 0 1px 1px #333;
 		.col-link {
 			padding-left: 0;
@@ -76,7 +81,7 @@ body {
 					padding: 0 10%;
 					text-align: center;
 					font-size: 2em;
-					top: 35%;
+					top: 30%;
 					z-index: 5;
 					pointer-events: none;
 					&.sub-text {
@@ -85,6 +90,13 @@ body {
 				}
 			}
 		}
+	}
+	.sections .col-link .text {
+		top: 35% !important;
+	}
+	.about {
+		background-color: $light-blue;
+		padding: 20px 0; 
 	}
 }
 
@@ -97,10 +109,16 @@ body {
 	.navbar {
 		margin-bottom: 0;
 		border-radius: 0;
-    box-shadow: 0 1px 1px #ccc;
     background-color: #fcfcfc;
     border: none;
-    border-bottom: solid 2px #fcfcfc;
+	}
+	.navbar-right {
+		a {
+			border-bottom: 2px solid #fcfcfc;
+			&:hover {
+				border-bottom: 2px solid $dark-gray;
+			}
+		}
 	}
 }
 
@@ -234,12 +252,9 @@ footer {
 	}
 }
 
-.handbook-chapter {
+.handbook-chapter, .image-menu {
 	h1, h2, h3, h4, h5 {
-		font-family: 'Slabo 27px', serif;
-	}
-}
+		font-family: 'Roboto Slab', serif;
 
-.about {
-	background-color: $light-blue;
+	} 
 }

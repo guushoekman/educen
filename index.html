@@ -5,9 +5,9 @@ layout: base
 	
 	<div class="hero">
 		<div class="container">
-			<div class="col-md-8 col-md-offset-2">
+			<div class="col-md-6 col-md-offset-3">
 				<img class="logo" src="img/logo.png" alt="Logo">
-				<h1>Working with local and organizational culture in Disaster Risk Reduction</h1>
+				<h1>Handbook for development of culture in disaster risk reduction	</h1>
 			</div>
 		</div>
 	</div>
@@ -15,17 +15,16 @@ layout: base
 	<div class="intro">
 		<div class="container">
 			<h3>
-				EDUCEN stands for European Disasters in Urban Centers: a Culture Expert Network. It focuses on the role of culture in disaster management and risk. EDUCEN consists of 10 participant organizations from 7 different European countries. The project has received funding from the European Commission.
 			</h3>
 		</div>
 	</div>
 
 	<div class="container">
-		<div class="row sections">
+		<div class="row sections image-menu">
 			{% for section in site.sections %}
 				<a class="col-md-4 col-sm-6 col-link" href="{{ section.url }}">
 					<div class="wrapper">
-						<h2 class="text">{{ section.title }}</h2>
+						<h1 class="text">{{ section.title }}</h1>
 						<img class="img-responsive black" src="img/sections/black.png">
 						<img class="img-responsive" src="img/sections/{{ section.image }}" alt="{{ section.title }}">
 					</div>
@@ -35,11 +34,11 @@ layout: base
 	</div>
 
 	<div class="container">
-		<div class="row tools">
+		<div class="row tools image-menu">
 			{% for tool in site.tools %}
 				<a class="col-md-3 col-sm-6 col-link" href="{{ tool.url }}">
 					<div class="wrapper">
-						<h2 class="text">{{ tool.title }}</h2>
+						<h1 class="text">{{ tool.title }}</h1>
 						<img class="img-responsive black" src="img/tools/black.png">
 						<img class="img-responsive" src="img/tools/{{ tool.image }}" alt="{{ tool.title }}">
 					</div>
@@ -50,11 +49,11 @@ layout: base
 
 	<div class="container">
 		<h1>Case studies <a class="btn btn-default btn-xs" href="case-studies">See all</a></h1>
-		<div class="row case-studies">
+		<div class="row case-studies image-menu">
 			{% for study in site.case-studies %}
 				<a class="col-md-3 col-sm-6 col-link" href="{{ study.url }}">
 					<div class="wrapper">
-						<h2 class="text">{{ study.title }}</h2>
+						<h1 class="text">{{ study.title }}</h1>
 						<img class="img-responsive black" src="img/case-studies/black.png">
 						<img class="img-responsive" src="img/case-studies/{{ study.image }}" alt="{{ study.title }}">
 					</div>
@@ -66,6 +65,9 @@ layout: base
 	<div class="about">
 		<section class="container">
 			<h2 id="about">About EDUCEN</h2>
+			<p>
+				EDUCEN stands for European Disasters in Urban Centers: a Culture Expert Network. It focuses on the role of culture in disaster management and risk. EDUCEN consists of 10 participant organizations from 7 different European countries. The project has received funding from the European Commission.
+			</p>
 			<p>
 				EDUCEN is an EU-funded collaboration and support action focussing on the role of culture in disaster management and risk. EDUCEN is a consortium consisting of 10 participant organizations from 7 different European countries. 
 			</p>
