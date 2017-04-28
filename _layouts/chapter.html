@@ -21,8 +21,19 @@ layout: base
   <div class="bg-gray">
     <div class="container">
       <section class="row basic-info">
-        <div class="col-md-4"></div>
-        <div class="col-md-8 col-md-offset-4">
+        <div class="col-md-4">
+          <a class="btn btn-sm btn-default download" href="#"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download chapter</a>
+          {% include sharing.html %}
+          <div>
+            {% if page.previous.url %}
+              <a data-toggle="tooltip" data-placement="bottom" title="{{ page.previous.title }}" class="btn btn-sm btn-default prev" href="{{page.previous.url}}"><i class="fa fa-arrow-left" aria-hidden="true"></i> Previous</a>
+            {% endif %}
+            {% if page.next.url %}
+              <a data-toggle="tooltip" data-placement="bottom" title="{{ page.next.title }}" class="btn btn-sm btn-default next" href="{{page.next.url}}">Next <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            {% endif %}
+          </div>
+        </div>
+        <div class="col-md-8">
           <h2>{{ page.title }}</h2>
           <p>{{ page.author }}</p>
         </div>

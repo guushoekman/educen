@@ -226,6 +226,21 @@ ul.content-infobox {
 		img {
 			border-radius: 5px;
 		}
+		.download {
+			display: inline;
+			padding-top: 6px;
+		}
+		.prev {
+			border-radius: 4px 0 0 4px;
+			width: 100px;
+			margin-top: 15px;
+		}
+		.next {
+			border-radius: 0 4px 4px 0;
+			margin-left: -5px;
+			margin-top: 15px;
+			width: 100px;
+		}
 	}
 }
 
@@ -272,3 +287,4 @@ ul.content-infobox {
 .videos {
 	padding-bottom: 30px;
 }
+
