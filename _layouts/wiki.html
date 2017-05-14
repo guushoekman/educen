@@ -15,8 +15,16 @@ layout: base
   <div class="bg-gray">
     <div class="container">
       <section class="row basic-info">
-        <div class="col-md-8 col-md-offset-4">
-          <h2>{{ page.title }}</h2>
+        <div class="col-md-4 hidden-xs hidden-sm">
+          <a class="btn btn-sm btn-default download" target="_blank" href="/pdf/wiki.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download</a>
+          {% include sharing.html %}
+          <div>
+              <a data-toggle="tooltip" data-placement="bottom" title="{{ page.previous.title }}" class="btn btn-sm btn-default prev {% unless page.previous.url %}disabled{% endunless %}" href="{{page.previous.url}}"><i class="fa fa-fw fa-arrow-left" aria-hidden="true"></i> Previous</a>
+              <a data-toggle="tooltip" data-placement="bottom" title="{{ page.next.title }}" class="btn btn-sm btn-default next {% unless page.next.url %}disabled{% endunless %}" href="{{page.next.url}}">Next <i class="fa fa-fw fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        </div>
+        <div class="col-md-8">
+          <h1>{{ page.title }}</h1>
           <p>{{ page.author }}</p>
         </div>
       </section>
@@ -56,7 +64,7 @@ layout: base
     $(this).parent().append("<p class='image-caption'>" + $(this).attr("alt") + "</p>")
   });
   $(window).scroll(function() {
-    if ($(this).scrollTop() > 269){  
+    if ($(this).scrollTop() > 259){  
         $('.table-of-contents').addClass("fixed-to-top");
         $('#chapter-content').addClass("col-md-offset-4");
     }
