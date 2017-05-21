@@ -3,6 +3,7 @@ layout: wiki
 name: wiki
 title: Wiki
 image: wiki.jpg
+author: Helena de Jong (NLDA), Sven da Silva (Wageningen University) and  Manuel Bea (ICATALIST)
 ---
 **This wiki intends to provide guidance on analysing, identifying and mapping cultural assets and challenges of culture in urban disaster management.** The guide builds on the information collected in the State of the Art report written for the EDUCEN project and aims to set the stage **for a practical application of this information in real situations**.
  

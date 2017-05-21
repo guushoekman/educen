@@ -3,6 +3,7 @@ layout: guiding-questions
 name: questions
 title: Guiding questions
 image: questions.jpg
+author: Helena de Jong (NLDA)
 ---
 
 ## Getting started with culture and disaster 

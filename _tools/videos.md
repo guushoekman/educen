@@ -3,6 +3,7 @@ layout: videos
 name: videos
 title: Video library
 image: videos.jpg
+author: Gema Huelva (ICATALIST)
 videos:
 - url: https://www.youtube.com/embed/8T42jM5dvYs
   title: Webinar
