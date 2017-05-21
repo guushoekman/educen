@@ -1,0 +1,77 @@
+---
+layout: base
+---
+<div class="breadcrumbs">
+  <div class="container">
+    <ul class="pull-right breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/toolkit">Toolkit</a></li>
+      <li class="active">{{ page.title }}</li>
+    </ul>
+  </div>
+</div>
+
+<div class="handbook-chapter">
+
+  <div class="bg-gray">
+    <div class="container">
+      <section class="row basic-info">
+        <div class="col-md-4 hidden-xs hidden-sm">
+          {% include sharing.html %}
+          <div>
+              <a data-toggle="tooltip" data-placement="bottom" title="{{ page.previous.title }}" class="btn btn-sm btn-default prev {% unless page.previous.url %}disabled{% endunless %}" href="{{page.previous.url}}"><i class="fa fa-fw fa-arrow-left" aria-hidden="true"></i> Previous</a>
+              <a data-toggle="tooltip" data-placement="bottom" title="{{ page.next.title }}" class="btn btn-sm btn-default next {% unless page.next.url %}disabled{% endunless %}" href="{{page.next.url}}">Next <i class="fa fa-fw fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        </div>
+        <div class="col-md-8">
+          <h1>{{ page.title }}</h1>
+          <p>{{ page.author }}</p>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <div class="container">
+    <section class="content row">
+      <div class="col-md-4 table-of-contents hidden-xs hidden-sm">
+        <ul class="list-unstyled toc-list">
+        </ul>
+        <a class="btn btn-default" href="#"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to top</a>
+      </div>
+      <div id="chapter-content" class="col-md-8">
+        {{ content }}
+      </div>
+    </section>
+  </div>
+
+</div>
+
+<script>
+  $(".box-start").nextUntil(".box-end").addClass("content-infobox");
+  $(".highlight-start").nextUntil(".highlight-end").addClass("highlight");
+  $(".collapse-start").each(function() {
+    $(this).nextUntil(".collapse-end").wrapAll("<div class='collapse-wrap'></div>");
+  });
+  $(".collapse-wrap").each(function() {
+    $(this).addClass("collapse").attr("id", $(this).prev().attr('content-id'));
+  });
+  $("#chapter-content h1, #chapter-content h2").each(function() {
+    $(".toc-list").append("<li><a href='#"+$(this).attr("id")+"'>"+$(this).text()+"</a></li>");
+  });
+  $("table").addClass("table");
+  $("#chapter-content img").addClass("center-block");
+  $("#chapter-content img").each(function() {
+    $(this).parent().append("<p class='image-caption'>" + $(this).attr("alt") + "</p>")
+  });
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 259){  
+        $('.table-of-contents').addClass("fixed-to-top");
+        $('#chapter-content').addClass("col-md-offset-4");
+    }
+    else{
+        $('.table-of-contents').removeClass("fixed-to-top ");
+        $('#chapter-content').removeClass("col-md-offset-4");
+    }
+  });
+</script>
+

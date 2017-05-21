@@ -1,0 +1,26 @@
+---
+layout: base
+active: toolkit
+---
+<div class="breadcrumbs">
+  <div class="container">
+    <h1 class="pull-left">Toolkit</h1>
+    <ul class="pull-right breadcrumb">
+      <li><a href="{{ site.baseurl }}/">Home</a></li>
+      <li class="active">Toolkit</li>
+    </ul>
+  </div>
+</div>
+
+<section class="handbook container">
+  {% for tool in site.toolkit %}
+    <div class="row section">
+      <div class="col-sm-3 col-md-offset-2 image">
+  			<a href="{{ tool.url }}"><img class="img-responsive" src="/img/tookit/{{ tool.image }}" alt="{{ tool.title }}"></a>
+      </div>
+      <div class="col-sm-9 col-md-5 list">
+        <a href="{{ tool.url }}">{{ tool.title }}</a>
+      </div>
+    </div>
+  {% endfor %}
+</section>

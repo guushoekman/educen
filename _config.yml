@@ -28,6 +28,8 @@ collections:
     permalink: :title
   case-studies:
     output: true
+  toolkit: 
+    output: true
 
 defaults:
   -
