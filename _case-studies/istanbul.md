@@ -145,9 +145,6 @@ Accessibility: Not a privilege but a right, accessibility refers to the making o
 
 Universal design: As stated in the UNCRPD, this term refers to “the design of products, environments, programs and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.” The Convention also emphasize that the “universal design” shall not exclude assistive devices for particular groups of persons with disabilities where this is needed. 
 
-__
-
-
 ## Networking for partnership
 
 While building the theoretical argumentation for the case study, we have also worked for developing a strategy and an action plan in order to reach our aim. The initial strategy we had submitted in the project proposal consisted on producing multiple versions of AKUT’s existing public disaster preparation material, each version being adapted for a specific disability group. According to this scheme, disabled partners’ feedback about the present training content would be collected through focus-group meetings, interviews and questionnaires; to be integrated in the content. 

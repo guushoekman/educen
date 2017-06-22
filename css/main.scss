@@ -177,42 +177,43 @@ body {
 	}
 }
 
-.case-studies {
-	padding: 20px 0;
-	.col-link {
-		padding-left: 0;
-		padding-right: 0;
-		.wrapper {
-			position: relative;
-			img {
-				width: 100%;
-			}
-			img.black {
-				opacity: 0.5;
-				position: absolute;
-				left: 0;
-				top: 0;
-				&:hover {
-					opacity: 0.3
+.case-studies-overview {
+	.case-studies {
+		padding: 20px 0;
+		.col-link {
+			padding-left: 0;
+			padding-right: 0;
+			.wrapper {
+				position: relative;
+				img {
+					width: 100%;
 				}
-			}
-			.text {
-				color: #fff;
-				position: absolute;
-				width: 100%;
-				padding: 0 10%;
-				text-align: center;
-				font-size: 2em;
-				top: 30%;
-				z-index: 5;
-				pointer-events: none;
-				&.sub-text {
-					top: 60%;
+				img.black {
+					opacity: 0.5;
+					position: absolute;
+					left: 0;
+					top: 0;
+					&:hover {
+						opacity: 0.3
+					}
+				}
+				.text {
+					color: #fff;
+					position: absolute;
+					width: 100%;
+					padding: 0 10%;
+					text-align: center;
+					font-size: 2em;
+					top: 30%;
+					z-index: 5;
+					pointer-events: none;
+					&.sub-text {
+						top: 60%;
+					}
 				}
 			}
 		}
 	}
-
 }
 
 footer {

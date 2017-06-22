@@ -2,26 +2,28 @@
 layout: base
 active: case-studies
 ---
-<div class="breadcrumbs">
-  <div class="container">
-    <h1 class="pull-left">Case studies</h1>
-    <ul class="pull-right breadcrumb">
-      <li><a href="{{ site.baseurl }}/">Home</a></li>
-      <li class="active">Case studies</li>
-    </ul>
+<div class="case-studies-overview">
+  <div class="breadcrumbs">
+    <div class="container">
+      <h1 class="pull-left">Case studies</h1>
+      <ul class="pull-right breadcrumb">
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li class="active">Case studies</li>
+      </ul>
+    </div>
   </div>
-</div>
 
-<section class="case-studies container">
-  <div class="row case-studies image-menu">
-    {% for study in site.case-studies %}
-      <a class="col-md-3 col-sm-6 col-link" href="{{ study.url }}">
-        <div class="wrapper">
-          <h1 class="text">{{ study.title }}</h1>
-          <img class="img-responsive black" src="/img/case-studies/black.png">
-          <img class="img-responsive" src="/img/case-studies/{{ study.image }}" alt="{{ study.title }}">
-        </div>
-      </a>
-    {% endfor %}
-  </div>
-</section>
+  <section class="case-studies container">
+    <div class="row case-studies image-menu">
+      {% for study in site.case-studies %}
+        <a class="col-md-3 col-sm-6 col-link" href="{{ study.url }}">
+          <div class="wrapper">
+            <h1 class="text">{{ study.title }}</h1>
+            <img class="img-responsive black" src="/img/case-studies/black.png">
+            <img class="img-responsive" src="/img/case-studies/{{ study.image }}" alt="{{ study.title }}">
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+</div>
