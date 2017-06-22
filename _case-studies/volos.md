@@ -4,4 +4,5 @@ name: volos
 title: Volos
 image: volos.jpg
 author: Miranda Dandoulaki and Alessandra Adriadi (ANEVO)
+active: case-studies
 ---

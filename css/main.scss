@@ -177,8 +177,42 @@ body {
 	}
 }
 
-.case-studies .block-grid-v2-info {
-	margin-bottom: 20px;
+.case-studies {
+	padding: 20px 0;
+	.col-link {
+		padding-left: 0;
+		padding-right: 0;
+		.wrapper {
+			position: relative;
+			img {
+				width: 100%;
+			}
+			img.black {
+				opacity: 0.5;
+				position: absolute;
+				left: 0;
+				top: 0;
+				&:hover {
+					opacity: 0.3
+				}
+			}
+			.text {
+				color: #fff;
+				position: absolute;
+				width: 100%;
+				padding: 0 10%;
+				text-align: center;
+				font-size: 2em;
+				top: 30%;
+				z-index: 5;
+				pointer-events: none;
+				&.sub-text {
+					top: 60%;
+				}
+			}
+		}
+	}
+
 }
 
 footer {
@@ -219,7 +253,7 @@ ul.content-infobox {
 	background-color: $light-gray;
 }
 
-.handbook-chapter {
+.handbook-chapter, .case-study {
 	.basic-info {
 		padding-top: 30px;
 		padding-bottom: 30px;
@@ -241,6 +275,19 @@ ul.content-infobox {
 			margin-top: 10px;
 		}
 	}
+}
+
+.case-info {
+	padding-top: 40px;
+	padding-bottom: 20px;
+	background-color: #fafafa;
+	.city-image {
+		border-radius: 3px;
+	}
+}
+
+.case-study {
+	border-top: 1px solid #eee;
 }
 
 .toc-list {
@@ -281,7 +328,7 @@ ul.content-infobox {
 	}
 }
 
-.handbook-chapter, .image-menu {
+.handbook-chapter, .image-menu, .case-study {
 	h1, h2, h3, h4, h5 {
 		font-family: 'Roboto Slab', serif;
 	} 

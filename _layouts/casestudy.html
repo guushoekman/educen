@@ -1,0 +1,75 @@
+---
+layout: base
+---
+<div class="breadcrumbs">
+  <div class="container">
+    <h1 class="pull-left">{{ page.title }} case study</h1>
+    <ul class="pull-right breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/case-studies">Case studies</a></li>
+      <li class="active">{{ page.title }}</li>
+    </ul>
+  </div>
+</div>
+
+<div class="case-info">
+  <div class="container content-md">
+    <div class="row city-profile">
+      <div class="col-xs-6 col-sm-4">
+        <img class="img-responsive city-image" src="/img/case-studies/{{ page.image }}">
+      </div>
+      <div class="col-xs-6 col-sm-4">
+        <h2>{{ page.title }}</h2>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <img class="img-responsive" src="/img/case-studies/{{ page.name }}-map.svg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="case-study">
+
+  <div class="container">
+    <section class="content row">
+      <div class="col-md-4 table-of-contents hidden-xs hidden-sm">
+        <ul class="list-unstyled toc-list">
+        </ul>
+        <a class="btn btn-default" href="#"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to top</a>
+      </div>
+      <div id="chapter-content" class="col-md-8">
+        {{ content }}
+      </div>
+    </section>
+  </div>
+
+</div>
+
+<script>
+  $(".box-start").nextUntil(".box-end").addClass("content-infobox");
+  $(".highlight-start").nextUntil(".highlight-end").addClass("highlight");
+  $(".collapse-start").each(function() {
+    $(this).nextUntil(".collapse-end").wrapAll("<div class='collapse-wrap'></div>");
+  });
+  $(".collapse-wrap").each(function() {
+    $(this).addClass("collapse").attr("id", $(this).prev().attr('content-id'));
+  });
+  $("#chapter-content h1, #chapter-content h2").each(function() {
+    $(".toc-list").append("<li><a href='#"+$(this).attr("id")+"'>"+$(this).text()+"</a></li>");
+  });
+  $("table").addClass("table");
+  $("#chapter-content img").addClass("center-block");
+  $("#chapter-content img").each(function() {
+    $(this).parent().append("<p class='image-caption'>" + $(this).attr("alt") + "</p>")
+  });
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 426){  
+        $('.table-of-contents').addClass("fixed-to-top");
+        $('#chapter-content').addClass("col-md-offset-4");
+    }
+    else{
+        $('.table-of-contents').removeClass("fixed-to-top ");
+        $('#chapter-content').removeClass("col-md-offset-4");
+    }
+  });
+</script>
