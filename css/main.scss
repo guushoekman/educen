@@ -262,6 +262,7 @@ ul.content-infobox {
 	margin-top: 20px;
 	img {
 		max-width: 100%;
+		max-height: 400px;
 	}
 	.highlight {
 		background-color: $light-gray;
@@ -290,3 +291,6 @@ ul.content-infobox {
 	padding-bottom: 30px;
 }
 
+.btn {
+	white-space: normal;
+}
