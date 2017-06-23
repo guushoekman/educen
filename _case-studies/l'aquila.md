@@ -703,11 +703,12 @@ Moreover, the role of the community leaders (i.e. representative of the citizens
 Citizens are generally the first responders when a disaster strikes, and thus represent a key ‘backup’ resource in emergency conditions with respect to official ones, supporting the operation of critical services. The existing connections within a community, and the main features of the community itself, represent a fundamental asset to deal with disasters. 
 
 Referring to infrastructural systems, the behaviors of people and users of critical services are highly influential on the performance path of an infrastructural systems, either hampering or fostering the processes of recovery, and contributing to determine the entity of impacts. The available knowledge, particularly related to the memory of previous disasters, is a key issue as well, since support the citizens in developing a better awareness and in the implementation of the most suitable behaviors.
-##THE WAY FORWARD
+
+## The way forward
 
 This section of the manual describes how the experiences in the L’Aquila CS can be transferred in other case studies, supporting the dissemination phase.
  
-###Preparing for the next time
+### Preparing for the next time
 
 The transferability of the L’Aquila CS experiences to other CS was already partially tested during the EDUCEN implementation. Two other cities demonstrated interest in implementing the L’Aquila integrated approach for the assessment of the effectiveness of the interaction network in case of emergency. This section describes the lessons learned during the “experiences transfer” process.
 
@@ -715,12 +716,9 @@ The transferability of the methodology was, roughly speaking, successful. Specif
 
 The Lorca experiences allowed us to revise and adapt the protocol for the implementation of the methodology, accounting for the difficulties encountered during the first replication attempts. 
 
-
-The following sections describe the main hints for the replication 
+The following sections describe the main hints for the replication.
  
---box
-
-1.3.1. The technical audience (i.e. emergency managers and experts)
+#### The technical audience (i.e. emergency managers and experts)
 
 One of the key issue to be accounted for when replicating the L’Aquila experiences in other case studies concerns the capabilities of the analyst involved in the collection and structuring of the local knowledge to clearly discern between the actual emergency managers’ experiences and the official protocol of interaction. 
 
@@ -735,23 +733,24 @@ The key issue to consider, as in general in any kind of model, is that the quali
 
 The availability of reliable information is a key resource to deal effectively with emergency conditions and, generally, it should be guaranteed well before the occurrence of a disaster.
 
-1.3.2. The general public
+#### The general public
 
 The main issue that need to be addressed when involving the general public in the analysis of the emergency management network concerns the need to clearly map the flow of interactions within the community. As demonstrated by the experiences carried out in L’Aquila, the analysis of the interactions among the different members of the community allows to better define the roles played in case of emergency. 
 
 This analysis is specifically useful to identify the main leaders of the community, i.e. those actors that can enhance the effectiveness of the interaction mechanisms within the community and between the community and the institutional system.
 
 The selection of the sample for the knowledge elicitation phase is crucial at this stage.
-Annex 1 – Framework for the knowledge elicitation
 
---hidden
+
+#### Annex 1 – Framework for the knowledge elicitation
 
 The interviews should be carried out keeping in mind that the results will be used to develop the model for the SNA. The interviews should allow to collect the following basic information related to the emergency management:
 
-Who interacted with whom;
-What information was exchange;
-What task was performed using what information;
-Who performed which task.
+- Who interacted with whom;
+- What information was exchange;
+- What task was performed using what information;
+- Who performed which task.
+
 The collection of this information should be based on the Critical Event storytelling approach. That is, participants should be required to describe the different phases of the emergency management concerning one specific critical event. 
 
 Therefore, once defined the kind of disaster (e.g. flood), participants should focus on specific flood event – i.e. the last evet or the most dramatic one. It is crucial that all the participants refer to the same event.
@@ -762,7 +761,7 @@ At this point, for each of the goals, the participants should describe the actio
 
 This is particularly true for official responders/institutions). The links between action and goal need to be defined. Therefore, participants will be required to specify which action allowed to achieve which goal. If possible, this phase could be carried out by drawing the links, as in the following figure:
 
-objective_action
+![](/img/case-studies/laquila-20.png)
 
 The links need to be weighted according to the perceived degree of importance. Therefore, participants will be required to specify how important implementing action 1 was in order to achieve objective A, etc. The weight could be described using linguistic assessment (e.g. very important, important, not really important).
 
@@ -773,19 +772,22 @@ Finally, the agent-agent connections need to be identified. To this aim, partici
 Once more, participants should be leaded to described the actual situation, and not how the official protocol is supposed to work. Once they named them, you should start asking what kind of interactions they had. According to the methodology implemented in L’Aquila and Lorca, we mainly focused on two types of interactions, i.e. information sharing, and task cooperation. 
 
 Therefore, for each of the actors mentioned, the participants will be asked:
-Did you receive information from this actor? Which one (among those already discussed)?
-Did you provide information to this actor? Which one)
-Did this actor cooperate with you in carrying out a specific action? Which one (among those already discussed)?
+- Did you receive information from this actor? Which one (among those already discussed)?
+- Did you provide information to this actor? Which one)
+- Did this actor cooperate with you in carrying out a specific action? Which one (among those already discussed)?
+
 Even for this phase, each link should be weighted according to the degree of importance.
 
 At the end of the interview, a scheme similar to the one in the following figure should be developed:
 
-finalfig_laquila
-
+![](/img/case-studies/laquila-21.jpg)
 
 ## References
 
 Alexander, D. E. (2014). Communicating earthquake risk to the public: The trial of the L’Aquila Seven. Naturals Hazards, 72, 1159–1173.
+
 Contreras D., Blaschke T., Kienberger S., Zeil P. (2014). Myths and realities about the recovery of L'Aquila after the earthquake. International Journal of Disaster Risk Reduction, 8:125–142
+
 Tierney, K., & Bruneau, M. (2007). Conceptualizing and measuring resilience: A key to disaster loss Reduction.TR NEWS 250. pp. 14–18
+
 Azdani A., Appiah Otoo R., Jeffrey P. (2011) Resilience enhancing expansion strategies for water distribution systems: A network theory approach, Environmental Modelling & Software 26 : 1574-1582
