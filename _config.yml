@@ -7,8 +7,10 @@
 
 # Site settings
 title: EDUCEN
-email:
+email: jeroen.warner@wur.nl
 url:
+twitter:
+  username: EDUCEN_EU
 baseurl: 
 description: Handbook on Culture and Urban Disaster
 logo: /img/logo.png

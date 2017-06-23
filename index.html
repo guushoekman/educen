@@ -23,7 +23,7 @@ active: home
 	<div class="container">
 		<div class="row sections image-menu">
 			{% for section in site.sections %}
-				<a class="col-md-4 col-sm-6 col-link" href="/handbook#{{ section.name }}">
+				<a class="col-md-4 col-sm-6 col-link" href="{% if section.name == 'introduction' %}/handbook/0.1-introduction{% else %}/handbook#{{ section.name }}{% endif %}">
 					<div class="wrapper">
 						<h1 class="text">{{ section.title }}</h1>
 						<img class="img-responsive black" src="img/sections/black.png">
@@ -86,6 +86,8 @@ active: home
 			<p>
 				This will contribute to more resilient cities that are able to meet the needs of their various cultures and subcultures during disaster relief hopefully leading to a lower number of fatalities while also reducing reaction time when disaster strikes.
 			</p>
+			<p>If you'd like to get in touch, please email Jeroen Warner at <a href="mailto:jeroen.warner@wur.nl">jeroen.warner@wur.nl</a>.</p>
+			<p>We'd also like to refer you to EDUCEN's old website: <a target="_blank" href="http://educenproject.eu">educenproject.eu</a>.</p>
 			<a class="btn btn-default" href="/authors.html">EDUCEN authors</a>
 		</section>
 	</div>

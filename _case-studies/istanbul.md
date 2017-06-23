@@ -241,7 +241,7 @@ The participants should be clearly informed about the goals and the nature of th
 All participants shall have control over their personal information (and whatever they might consider as intimate), free from intrusion or interference by others.
 
 ##### Confidentiality
-	All information entrusted by the participants shall be protected from unauthorized access, use, disclosure or modification. The necessary technical and procedural measures shall be taken. The participants shall be informed about how their data is protected.
+All information entrusted by the participants shall be protected from unauthorized access, use, disclosure or modification. The necessary technical and procedural measures shall be taken. The participants shall be informed about how their data is protected.
 
 <p class="box-end"></p>
 

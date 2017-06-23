@@ -49,7 +49,7 @@ Each guide consists of a short description of the topic and several guiding ques
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
-  Analyzing, identifying and mapping (social) vulnerability
+  Identifying, analyzing and mapping (social) vulnerability
 </button></p>
 
 <p content-id="collapse-2" class="collapse-start"></p>
@@ -72,7 +72,7 @@ Inherent in the approach is that risks are different for everyone, even if they 
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
-  Analyzing, identifying and mapping (social) resilience
+  Identifying, analyzing and mapping (social) resilience
 </button></p>
 
 <p content-id="collapse-3" class="collapse-start"></p>
@@ -101,7 +101,7 @@ The review of Keck and Sakdapolrak (2013) of literature published on resilience 
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
-  Analyzing, identifying and mapping disaster subcultures
+  Identifying, analyzing and mapping disaster subcultures
 </button></p>
 
 <p content-id="collapse-4" class="collapse-start"></p>
@@ -126,7 +126,7 @@ Experiencing recurrent disasters pushes communities to develop cultural strategi
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
-  Analyzing, identifying and mapping gender
+  Identifying, analyzing and mapping gender
 </button></p>
 
 <p content-id="collapse-5" class="collapse-start"></p>
@@ -153,7 +153,7 @@ It now has been recognized that gender inclusiveness is vital for policies to be
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
-  Analyzing, identifying and mapping religion
+  Identifying, analyzing and mapping religion
 </button></p>
 
 <p content-id="collapse-6" class="collapse-start"></p>
@@ -178,7 +178,7 @@ It can be concluded from the literature review on the topic of religion and disa
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-7" aria-expanded="false" aria-controls="collapse-7">
-  Analyzing, identifying and mapping risk perception
+  Identifying, analyzing and mapping risk perception
 </button></p>
 
 <p content-id="collapse-7" class="collapse-start"></p>
@@ -201,7 +201,7 @@ Inherent in such an understanding is the recognition that these risk perceptions
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-8" aria-expanded="false" aria-controls="collapse-8">
-  Analyzing, identifying and mapping physical infrastructure
+  Identifying, analyzing and mapping physical infrastructure
 </button></p>
 
 <p content-id="collapse-8" class="collapse-start"></p>
@@ -234,7 +234,7 @@ We understand a city as a constructed space in which human actions take place. C
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-9" aria-expanded="false" aria-controls="collapse-9">
-  Analyzing, identifying and mapping social infrastructure/ spatial segregation
+  Identifying, analyzing and mapping social infrastructure/ spatial segregation
 </button></p>
 
 <p content-id="collapse-9" class="collapse-start"></p>
@@ -261,7 +261,7 @@ Spatial segregation in cities on the basis of ethnicity/race and/or income has c
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-10" aria-expanded="false" aria-controls="collapse-10">
-  Analyzing, identifying and mapping social capital and networks
+  Identifying, analyzing and mapping social capital and networks
 </button></p>
 
 <p content-id="collapse-10" class="collapse-start"></p>
@@ -287,7 +287,7 @@ What the social capital concept emphasises is that community members are active 
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-11" aria-expanded="false" aria-controls="collapse-11">
-  Analyzing, identifying and mapping  cultural memory
+  Identifying, analyzing and mapping  cultural memory
 </button></p>
 
 <p content-id="collapse-11" class="collapse-start"></p>
@@ -319,7 +319,7 @@ Hazards are retained in memory if they occur frequently, and the more frequently
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-12" aria-expanded="false" aria-controls="collapse-12">
-  Analyzing, identifying and mapping (material) cultural heritage
+  Identifying, analyzing and mapping (material) cultural heritage
 </button></p>
 
 <p content-id="collapse-12" class="collapse-start"></p>
@@ -341,7 +341,7 @@ It makes good sense to include the time-honed cultural practices in this definit
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-13" aria-expanded="false" aria-controls="collapse-13">
-  Analyzing, identifying and mapping organizational culture
+  Identifying, analyzing and mapping organizational culture
 </button></p>
 
 <p content-id="collapse-13" class="collapse-start"></p>
@@ -391,7 +391,7 @@ Cultural differences therefore must be considered in the development of crisis c
 
 <p class="btn-wrap">
   <button class="btn btn-default btn-collapse" type="button" data-toggle="collapse" data-target="#collapse-15" aria-expanded="false" aria-controls="collapse-15">
-  Analyzing, identifying and mapping the involvement of the armed forces in disaster management
+  Identifying, analyzing and mapping the involvement of the armed forces in disaster management
 </button></p>
 
 <p content-id="collapse-15" class="collapse-start"></p>
