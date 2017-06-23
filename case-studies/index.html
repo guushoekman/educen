@@ -18,7 +18,7 @@ active: case-studies
       {% for study in site.case-studies %}
         <a class="col-md-3 col-sm-6 col-link" href="{{ study.url }}">
           <div class="wrapper">
-            <h1 class="text">{{ study.title }}</h1>
+            <span class="text">{{ study.title }}</span>
             <img class="img-responsive black" src="/img/case-studies/black.png">
             <img class="img-responsive" src="/img/case-studies/{{ study.image }}" alt="{{ study.title }}">
           </div>
