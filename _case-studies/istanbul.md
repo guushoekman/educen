@@ -126,24 +126,29 @@ Include as much as possible the disabled persons in the action so they could tak
 
 As we have realized later, we could grasp the meaning of these terms only after we had started to cooperate with our disabled partners, when we encountered disability knowledge and culture. Still, our “theoretical build” has met no opposition on behalf of the disabled partners and remained unchanged throughout the case study, providing us guidance when we were in need of it.
 
---box
+<p class="box-start"></p>
 
+#### Disability Terminology
 
-“Disability Terminology” 
+##### Disability
+The UN Convention on the Rights of Persons with Disabilities (UNCRPD) notes that “disability is an evolving concept” and it results from “the interaction between persons with impairments and attitudinal and environmental barriers that hinders their full and effective participation in society on an equal basis with others”. 
 
+##### Person with disability
+According to the UNCRPD, people with disabilities “include those who have long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others”. 
 
+##### Diversity
+This term may refer to (a) human diversity concept, according to which the disability is rather a biological variation, and not a discriminatory difference and (b) to the possible variety of disability types.
 
-Disability: The UN Convention on the Rights of Persons with Disabilities (UNCRPD) notes that “disability is an evolving concept” and it results from “the interaction between persons with impairments and attitudinal and environmental barriers that hinders their full and effective participation in society on an equal basis with others”. 
+##### Inclusivity (or inclusiveness)
+Disability inclusion involves more than mere encouragement and refers to genuine policies and practices that makes possible for the disabled people to have full participation in society, benefiting from the same resources, assuming similar roles and responsibilities, participating to decision-making processes, etc. the same as people without disabilities. As opposite to many individuals may think, inclusivity requires not only the removal of physical barriers but also those related to communication, as well as the “attitudinal” barriers on behalf of the community. 
 
-Person with disability: According to the UNCRPD, people with disabilities “include those who have long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others”. 
+##### Accessibility
+Not a privilege but a right, accessibility refers to the making of products, services or environments for people who experience disabilities. Accessibility is a “material” prerequisite for inclusivity.
 
-Diversity: This term may refer to (a) human diversity concept, according to which the disability is rather a biological variation, and not a discriminatory difference and (b) to the possible variety of disability types.
+##### Universal design
+As stated in the UNCRPD, this term refers to “the design of products, environments, programs and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.” The Convention also emphasize that the “universal design” shall not exclude assistive devices for particular groups of persons with disabilities where this is needed. 
 
-Inclusivity (or inclusiveness): Disability inclusion involves more than mere encouragement and refers to genuine policies and practices that makes possible for the disabled people to have full participation in society, benefiting from the same resources, assuming similar roles and responsibilities, participating to decision-making processes, etc. the same as people without disabilities. As opposite to many individuals may think, inclusivity requires not only the removal of physical barriers but also those related to communication, as well as the “attitudinal” barriers on behalf of the community. 
-
-Accessibility: Not a privilege but a right, accessibility refers to the making of products, services or environments for people who experience disabilities. Accessibility is a “material” prerequisite for inclusivity.
-
-Universal design: As stated in the UNCRPD, this term refers to “the design of products, environments, programs and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.” The Convention also emphasize that the “universal design” shall not exclude assistive devices for particular groups of persons with disabilities where this is needed. 
+<p class="box-end"></p>
 
 ## Networking for partnership
 
@@ -190,15 +195,14 @@ Thus we had obtained the support of six organizations, one representing people w
 
 As for the Engelsiz Erişim Derneği and SEBEDER Sesli Betimleme Derneği, their “status” as “specialists” within Istanbul Case Study has been a bit different than the one above. In fact the first one was founded (mostly by people with visual impairments) in order to address accessibility issues while the second one was founded in order to make audio-visual products accessible for people with hearing impairments and visual impairments. Let’s note that the latter was based in Ankara, which constituted a “necessary” exception to the geographical limits we have deliberated for the case study (Istanbul Metropolitan Municipality’s Jurisdiction), since its expertise in audio-visual accessibility has been an invaluable contribution to our work. 
 
+<p class="box-start"></p>
 
---box aside
-
-Building a Cooperative Network
+#### Building a Cooperative Network
 
 Our experience in general with respect to partnership building is that flexibility is the key for organizing a cooperative action, which becomes possible only to the extent that the action’s goals meet potential partners’ agendas. Genuine cooperation is based on an egalitarian relationship and not on a top-down approach. This naturally involves a certain level of bargain between two organizations with different aims, capabilities and needs and flexibility is necessary to reconcile mutual demands, including the design of the activities and the calendar. It is also necessary to admit from the beginning that not all groups will show the same level of interest to the disaster preparedness theme, despite its importance or usefulness. Our observation is that larger organizations with a primary mission of advocacy or lobbying may be less suitable for such an action for many reasons, including internal bureaucracy. Small-scale NGOs however, can be more flexible, open to innovative actions and more agile in terms of decision making.
 
+<p class="box-end"></p>
 
---
 Following verbal approval by these organizations’ representatives we have prepared a bilateral cooperation protocol. We took similar “model” documents that were available online when we have drafted this document. We have also benefited from two volunteer lawyers’ reviewing and corrections. Such a document was necessary in order to prove that the objectives, the scope and the ethics of the action, as well as the rights and the duties of the cooperating parties and individuals, have been well understood by both sides. It has also clarified the issue of intellectual property rights with respect to the materials used during the case study and the eventual case study outputs. We strongly believe that the protocol contributed to building trust between AKUT and its shareholders by defining the action’s structure in writing, making it more transparent and the CS team more accountable; besides reducing the possibility of having misunderstandings and disputes. It also brought a sense of conventional obligation (with no economical liabilities, of course), which could be useful in ensuring the continuity of the action. We should likewise add that the protocol has also caused some delay in the case study program, since the shareholders were obligated to have it approved by their board before the signature, which may take considerably long time.
 
 Let us note that the length of the administrative processes prevented us from cooperating also with the Istanbul Metropolitan Municipality’s Disability Services Department within the short timeframe of the project, despite efforts from both side.
@@ -225,14 +229,21 @@ In our view, creating and maintaining sound ethics procedures contribute to trus
 
 Even for a field action with a limited research component, submission to ethics reviewing requires a careful preparation. The submission document has to answer in detail quite a few questions about the aim and the rationale of the action, its expected outcomes and possible contributions to our existing knowledge, the selection, recruitment and inclusion of the participants, the measures to be taken in order to protect them from harm, their intended role in the action, the methods to be used for data collection and preservation, as well as for ensuring privacy and confidentiality… In fact, these questions seek to understand if the following principles have been taken into account in the design of the action:
 
---box
+<p class="box-start"></p>
 
-Voluntariness: The organizers and the participants should not be bounded by a dependency relationship and the potential participants shall fell no form of constraint or pressure during recruitment. The recruitment process should be transparent.
-Informed consent: The participants should be clearly informed about the goals and the nature of the action; of the identity of its organizers and sponsors; of its risks and benefits; on how the collected data will be used; what will be the outcomes and how these results will be disseminated. They should also be given the contact information of a third-party institution, which they would contact regarding possible ethical issues. The person has to have autonomous decision capacity (which explain why it becomes more complicated to work with minors and people with mental disability) and the consent should be given voluntarily, and should be maintained through the process: The participants have to know that they can withdraw it any time and require also the withdrawal of their data. It is also crucial that the consent is documented. 
-Privacy: All participants shall have control over their personal information (and whatever they might consider as intimate), free from intrusion or interference by others.
-Confidentiality: All information entrusted by the participants shall be protected from unauthorized access, use, disclosure or modification. The necessary technical and procedural measures shall be taken. The participants shall be informed about how their data is protected.
+##### Voluntariness
+The organizers and the participants should not be bounded by a dependency relationship and the potential participants shall fell no form of constraint or pressure during recruitment. The recruitment process should be transparent.
 
---
+##### Informed consent
+The participants should be clearly informed about the goals and the nature of the action; of the identity of its organizers and sponsors; of its risks and benefits; on how the collected data will be used; what will be the outcomes and how these results will be disseminated. They should also be given the contact information of a third-party institution, which they would contact regarding possible ethical issues. The person has to have autonomous decision capacity (which explain why it becomes more complicated to work with minors and people with mental disability) and the consent should be given voluntarily, and should be maintained through the process: The participants have to know that they can withdraw it any time and require also the withdrawal of their data. It is also crucial that the consent is documented. 
+
+##### Privacy
+All participants shall have control over their personal information (and whatever they might consider as intimate), free from intrusion or interference by others.
+
+##### Confidentiality
+	All information entrusted by the participants shall be protected from unauthorized access, use, disclosure or modification. The necessary technical and procedural measures shall be taken. The participants shall be informed about how their data is protected.
+
+<p class="box-end"></p>
 
 It is important to note that submission for ethics review should take place before the recruitment of the participants or data collection (except for preliminary activities). 
 
@@ -247,7 +258,6 @@ Another important point to note is that the right to privacy and confidentiality
 For example, Istanbul Case Study’s consent form has a clearly separated area where the potential participant has to indicate if he/she agrees or opposes to audio or visual recording, knowing that these can be later used for dissemination or ensuring visibility (for example in the press or social media announcements). 
 
 Note that the consent form also explicitly states that the participants shall abstain from taking pictures or doing image recordings of any kind without other participants’ permission. The use of digital media and digital social networks is ubiquitous today but it should also be regulated if necessary, as in the case of our action. Both for preventing possible violations of personal rights and for complying with EU visibility rules, AKUT had been given the management of all public relations activities by the cooperation protocol. This fact has also been stated in the consent forms, in which participants were asked to consult with the CS management before doing any public relations work. 
-
 
 ### Organization of the Case Study Activities
 

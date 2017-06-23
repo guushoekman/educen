@@ -528,11 +528,16 @@ L’Aquila case study is pretty unique and relevant also because it allows the c
 The urban water distribution system was completely redesigned after the disaster and is currently being built (further details are in the box “Reconstructing urban infrastructures after extreme events: the case of L’Aquila drinking water distribution network”). 
 
 The same methodology was implemented to assess both infrastructural configurations, and selected metrics used to compare systems. In the following Figures 14 and 15 the two systems are depicted (‘OLD’ and ‘NEW’ networks), along with their representation according to network theory formalization.
+
+<div class="row">
+	<div class="col-sm-6">
+		<img alt="Urban water distribution network before the earthquake (‘OLD’ network)" src="/img/case-studies/laquila-15.jpg">
+	</div>
+	<div class="col-sm-6">
+		<img alt="Urban water distribution network after the earthquake (‘NEW’ network)" src="/img/case-studies/laquila-16.jpg">
+	</div>
+</div>
  
-laquila. 14. Urban water distribution network before the earthquake (‘OLD’ network).
-
-laquila. 15. Urban water distribution network after the earthquake (‘NEW’ network).
-
 Following the available literature, a few metrics were used to describe the key aspects of the networks in terms of reliability in case of extreme events. 
 
 Most of metrics reflect either the robustness or the flexibility of the system. The adopted measures are summarized in the following:
@@ -550,98 +555,49 @@ Most of metrics reflect either the robustness or the flexibility of the system. 
 - Algebraic connectivity λ2: higher values suggest better network’s structural robustness and fault tolerance.
 - Critical ratio of defragmentation fc provides a theoretical value for the critical fraction of the nodes which need to be removed for a network to lose its large scale connectivity. 
 
-The measures, computed in an undirected and unweighted version, are summarized in the following Table 6. It is worth mentioning that the ‘NEW’ network is made of two independent subnetworks (‘CS’ – Centro Storico and ‘ZM’ – Zona Media), and thus the metrics were computed for both independently. 
+The measures, computed in an undirected and unweighted version, are summarized in the following table. It is worth mentioning that the ‘NEW’ network is made of two independent subnetworks (‘CS’ – Centro Storico and ‘ZM’ – Zona Media), and thus the metrics were computed for both independently. 
 
-Table 6. Results of the computed metrics in the ‘OLD’ and ‘NEW’ networks.
-NETWORK
-q
-k
+| NETWORK  | q      | k    |    | lT    | Cc    | Rm    | CB    | Dap   | Dbr  | λ2      | Δλ     | fc    |
+|----------|--------|------|----|-------|-------|-------|-------|-------|------|---------|--------|-------|
+| NEW – CS | 0.006  | 3    | 26 | 13.43 | 0.041 | 0.252 | 0.412 | 0.1   | 0.11 | 0.0027  | 0.3869 | 0.5   |
+| NEW – ZM | 0.013  | 2.63 | 23 | 10.74 | 0.02  | 0.162 | 0.584 | 0.285 | 0.51 | 0.004   | 0.3798 | 0.387 |
+| OLD      | 0.0006 | 2.15 | 97 | 32.76 | 0.004 | 37    | 0.455 | 0.391 |      | 0.00041 | 1.1247 | 0.127 |
 
-lT
-Cc
-Rm
-CB
-Dap
-Dbr
-λ2
-Δλ
-fc
-NEW – CS
-0.006
-3.00
-26
-13.43
-0.041
-0.252
-0.412
-0.1
-0.11
-0.0027
-0.3869
-0.500
-NEW – ZM
-0.013
-2.63
-23
-10.74
-0.02
-0.162
-0.584
-0.285
-0.51
-0.004
-0.3798
-0.387
-OLD
-0.0006
-2.15
-97
-32.76
-0.004
-037
-0.455
-0.391
-
-0.00041
-1.1247
-0.127
-
-
-
---hidden
-Reconstructing urban infrastructures after extreme events: the case of L’Aquila drinking water distribution network
+#### Reconstructing urban infrastructures after extreme events: the case of L’Aquila drinking water distribution network
 
 As a consequence of the earthquake and of its impacts on the built environment, L’Aquila is still undergoing a complex process of reconstruction. Particularly, on the one hand the extent of damages in the whole urban area limited the functionality of infrastructures and the accessibility for community; on the other hand, the changes in the population localization due to both temporary sheltering strategies and to the evolution of new permanent areas, forced a radical change of the performances required to the infrastructures.
 
-Figure. box_laquila One of the main damages in 2009: Gran Sasso Aqueduct
+![One of the main damages in 2009: Gran Sasso Aqueduct](/img/case-studies/laquila-17.jpg)
 
 The experience and the knowledge developed during the Earthquake in 2009 and in the aftermath of the disaster, provided crucial information to support the reconstruction. Learning from past errors and from the key criticalities encountered was a fundamental step for an innovative, sustainable, effective, safe, ‘resilient’ design. Just to provide an example, the high uncertainty of the available information and the poor accessibility of some infrastructures often limited the possibility to operate promptly during the emergency; similarly, the need to adapt the whole network to both changes in the urban pattern and specific local needs (e.g. the need to provide some buildings with water using a network with a huge number of breaks) during the reconstruction phase, caused significant stress levels for the system. The urban critical infrastructural systems were thus deeply rethought, and redesigned according to the new needs of the city, and to the experience.
+
 The design of the ‘SMART TUNNEL’ reflects a basic principle: electricity, gas, water and communication systems are key services supporting daily activities and the well-being of a community. The basic idea behind the smart tunnel is simply to collect and integrate all the critical services in an ‘invisible’ shell, i.e. an underground concrete gallery, in order to protect them from external threats and make them easily accessible and repairable, both in case of disasters and in ordinary operation. 
+
 Providing safe drinking water to a community in case of disasters is one of the main commitments of emergency managers and local authorities. Particularly, GSA S.p.A. was directly involved in the aftermath of the event, in the operations to recover the functionality of infrastructural systems. The urban water distribution network of L’Aquila city, particularly, is being currently rebuilt according to innovative criteria, such as the distrectualization. The basic idea is to split the whole network into a number of subsystems characterized by spatial and functionality homogeneity in order to facilitate maintenance and management procedures. Distrectualization allows: a) controlling leakages and water losses; b) isolating single subsections of the whole network; c) implementing more effective measurements of hydraulic parameters. The distrectualization supports flexibility and adaptation capability to the evolution of the urban pattern, and thus is strongly connected to the evolution of the whole city.
 
 Ing. Stefano PACITTI – Gran Sasso Acqua S.p.A.
-Full details can be found at the following website: http://www.sottoserviziaq.it/it/home.html
+Full details can be found at the following website: <http://www.sottoserviziaq.it/it/home.html>
 
-##SYNTHESIS AND LESSONS LEARNED
+## Synthesis and lessons learned
 This section describes the main outcomes of the L’Aquila Case Study in terms of lessons learned. Similarly to the structure of the CS objectives, the discussion about the main outcomes is structured according three main line of reasoning, i.e.: 
-main outcomes for the emergency managers, 
-main outcomes for the practitioners, and
-main outcomes for the community.
+- main outcomes for the emergency managers, 
+- main outcomes for the practitioners, and
+- main outcomes for the community.
   
-###Main outcomes for the emergency managers
+### Main outcomes for the emergency managers
 
-
-1.2.2. Social Network analysis
+#### Social Network analysis
 A workshop was organized in the CS, aiming at discussing the results of the analysis and to start the debate about the potential improvements of the current emergency management procedures. The main institutional actors involved in the previous EDUCEN activities were invited. The analysis of the results and the consequent debate allowed the participant to become aware of the oversimplification of the interactional structure at the basis of the development of formal protocols of intervention. This protocol is characterized by a strongly hierarchical and inflexible structure, and represented a barrier to the enabling of an actual collaborative emergency management process involving the different actors. This was mainly because of its incapability to account for the actual role played by the different actors and for the resources required for supporting the cooperation among them. The official protocol described only a small part of the complex network, that is, the institutional and formal interactions. The collected knowledge demonstrated that, during an emergency, informal interactions were activated even among institutional actors, based on personal and already established relationships. Moreover, the set of information exchanged within this informal networks is often broader than the one defined by the official protocols of information exchange. 
+
 The methodology allowed the CS to map the complexity of the interactions and, through the selection of a set of graph theory measures, to better comprehend the interaction mechanisms influencing the effectiveness of the cooperative emergency response. That is, what information needs to be shared, what task needs to be cooperatively implemented. Moreover, the analysis allowed the CS to define the actual role played by each actor, according to the information they bring in the network, and their role in performing the emergency management tasks. The results of the analysis were used by the local stakeholders to inform the debate and to identify potential improvements of the protocol of intervention and cooperation. Therefore, the results demonstrated that improving the cooperation in emergency management claims for a better understanding of the interdependence principle, that is, a collaborative emergency management claims for tools and methodologies capable to create a decision-making environment in which parties are fully aware of their role and the roles of the others in the interaction space.
+
 Moreover, the obtained results demonstrated that the methodology was capable to account for the differences in organizational culture and to analyze how those differences could lead to different management of emergency information. On the one hand, some institutional actors – e.g. the Municipality – considered the multi-central structure as the most effective structure in allowing the rapid exchange of information within each level of the organizational structure and between different levels. These actors seemed capable to adapt their information collection strategy to the different conditions, showing resilience to failures of the official protocols of information sharing. Institutional actors with a dense network of interactions – i.e. the Municipality – seemed to be capable to shift from the formal to the informal network in order to gather the needed information. On the other hand, the official responders – e.g. the national civil protection – assumed a strongly hierarchical structure of the information exchange process. These actors trusted exclusively information flowing from the vertex through intermediary, and easily recognizable, levels. This is because they needed to reduce the “noises” in information collection. Neglecting these differences could lead to the development of ineffective strategies for information sharing for emergency management. Integrating the Municipality in a hierarchically structured network could negatively affect its role as response coordinator. Contrarily, increasing the number of information centres in the responders’ networks could lead to the paralysis of their activities. The experiences carried out in L’Aquila suggested that developing effective emergency management strategies requires a clear understating of the differences among agents’ understanding of the interaction network.
 
-
-laquila. 16: Ambiguity in the perception of the topology of the interaction network
+![Ambiguity in the perception of the topology of the interaction network](/img/case-studies/laquila-18.jpg)
 
 Finally, the adopted methodology allowed the CS to emphasize the role of the community in the emergency management phases, and to make the institutional actors aware of the need to account for the community’s understanding of the emergency situation. Specifically, the analysis of the community’s CM and the related network allowed us to better comprehend the reasons of the low level of trust toward the institutional information. The community’s network has a strong multi-centred structure, allowing community’s members to select the more suitable information sources and activate informal networks of information sharing. This is mainly due to the limited comprehensibility of the information provided through the institutional channels. The analysis of the network allowed to define the central role played by the community leaders in facilitating the flow of information. They represent the actual information centres for the community. This result was considered as crucial for the definition of potential improvements of the emergency management procedure
 
-###Lessons learned for the local civil protection agency
+### Lessons learned for the local civil protection agency
 
 The involvement of the Municipal branch of the Civil Protection Agency in the EDUCEN project allowed to establish a fruitful debate with the other institutions involved in the emergency management at urban level. The bilateral meetings and the workshops organized during the implementation of the CS activities allowed us to better comprehend the diversity of the intervention procedures for the different institutional actors. 
 
@@ -650,7 +606,7 @@ Another crucial lesson learned during the implementation of the EDUCEN project c
 
 The narratives collected during the CS implementation demonstrated that coupling the formal information flow channels with the existing informal networks could lead to an increase of the rapidity and effectiveness of the information sharing process.  
 
-###Interaction between soft and hard infrastructure
+### Interaction between soft and hard infrastructure
 
 Several meetings were held, also with a direct involvement of emergency managers, in order to get feedbacks on the activities performed and to summarize the most important outcomes of the Case Study.
 
@@ -658,11 +614,11 @@ From a methodological point of view, the main advantage connected to the modelin
  
 The cooperation of emergency managers in the activity was particularly positive both in the phase of model building and in the phase of model implementation and validation. The involvement of experts was required at multiple levels and with several purposes:
 
-understanding the system and its boundaries
-identifying the key variables
-describing the processes that affect variables through mathematical relationships
-mapping the structure of the model
-simulating scenarios for understanding model behavior.
+- understanding the system and its boundaries
+- identifying the key variables
+- describing the processes that affect variables through mathematical relationships
+- mapping the structure of the model
+- simulating scenarios for understanding model behavior.
 
 The involvement of emergency managers helped developing the awareness on the need for an innovative approach to infrastructural resilience, moving beyond the traditional technical one. The approach based on SDM was thus highly useful to provide a formalization of the interconnections among such different dimensions concurring to resilience, and to integrate a complex set of variables. 
 
@@ -670,72 +626,65 @@ Similarly, the approach based on graph theory was discussed as well, being parti
 
 From a theoretical point of view, the main conclusions drawn by emergency managers are summarized in the following:
 
+- Physical infrastructures provide a vital support to communities during emergency and recovery phases after a disaster. On the one hand, the uninterrupted availability of critical services is a requirement to guarantee the safety and the well-being of a population when a disaster occurs and speeds up the recovery: in this direction, the technical performances of the whole infrastructural system are a key asset to deal effectively with emergencies and contribute to community resilience. On the other hand, the resilience of a community affects the level of service provided by the hard infrastructural system as well: the behaviors of the users (e.g. good practices, flexibility, …), their level of knowledge along with the skills of the authorities managing the emergency and driving decision-making – in a word, their culture - have a direct influence on the response of the hard infrastructural system.
 
-Physical infrastructures provide a vital support to communities during emergency and recovery phases after a disaster. 
---hidden On the one hand, the uninterrupted availability of critical services is a requirement to guarantee the safety and the well-being of a population when a disaster occurs and speeds up the recovery: in this direction, the technical performances of the whole infrastructural system are a key asset to deal effectively with emergencies and contribute to community resilience. On the other hand, the resilience of a community affects the level of service provided by the hard infrastructural system as well: the behaviors of the users (e.g. good practices, flexibility, …), their level of knowledge along with the skills of the authorities managing the emergency and driving decision-making – in a word, their culture - have a direct influence on the response of the hard infrastructural system.
+- Infrastructural systems must directly match the needs of a community, and thus should firstly reflect the spatial distribution of the served population. Secondly, the performances of infrastructural systems should be flexible enough to evolve with time, in the aftermath of a disaster and in the recovery phase as well, since the needs of the whole system change according to the specific path of recovery determined by the specific strategies implemented.
 
-Infrastructural systems must directly match the needs of a community, and thus should firstly reflect the spatial distribution of the served population. 
---hidden- Secondly, the performances of infrastructural systems should be flexible enough to evolve with time, in the aftermath of a disaster and in the recovery phase as well, since the needs of the whole system change according to the specific path of recovery determined by the specific strategies implemented.
+- Complex systems exposed to extreme events significantly change their state and conditions over time. Dynamic approaches are therefore needed to analyze their evolution, since they allow describing the change of system conditions through the different phases, taking explicitly into account the impact of strategies and decisions to cope with emergency conditions (through scenario analysis). 
 
-Complex systems exposed to extreme events significantly change their state and conditions over time.--hidden Dynamic approaches are therefore needed to analyze their evolution, since they allow describing the change of system conditions through the different phases, taking explicitly into account the impact of strategies and decisions to cope with emergency conditions (through scenario analysis). 
 Starting from the above considerations, meetings were also held in order to discuss the applicability of the model in order to perform scenario analysis: this may support decision-makers to understand the impact of different strategies, conditions, assumptions on the response of the system.
 
-The results of scenario analysis are summarized in the following Fig. 17. 
+The results of scenario analysis are summarized in the following figure. 
 
-laquila. 17. Results of the resilience assessment in terms of ‘Water deficit’ for the modeled scenarios.
+![Results of the resilience assessment in terms of ‘Water deficit’ for the modeled scenarios](/img/case-studies/laquila-19.png)
 
 The key outcome is the evolution of water deficit with time, according to the specific contribution of all the aspects and variables considered in the TOSE approach to resilience. The comparative analysis of multiple scenarios helps describing the impact of different states of specific variables on the model outcomes.
 
- Starting from the Scenario 0, which reconstructs the ‘real’ evolution of the events after the earthquake, the others are built for the purpose of comparison as follows: ‘Scenario 1’ shows how a decrease in organizational skills may have a dramatic influence on system response; ‘Scenario 2’ simulates a decrease of ‘infrastructure physical vulnerability’ which, although expensive has a definitely positive impact; ‘Scenario 3’ describes instead an integrated strategy where infrastructural improvement actions are supported by also by a better ‘knowledge of critical points’, ‘training level’ of the personnel and enhancement of ‘community awareness’.
+Starting from the Scenario 0, which reconstructs the ‘real’ evolution of the events after the earthquake, the others are built for the purpose of comparison as follows: ‘Scenario 1’ shows how a decrease in organizational skills may have a dramatic influence on system response; ‘Scenario 2’ simulates a decrease of ‘infrastructure physical vulnerability’ which, although expensive has a definitely positive impact; ‘Scenario 3’ describes instead an integrated strategy where infrastructural improvement actions are supported by also by a better ‘knowledge of critical points’, ‘training level’ of the personnel and enhancement of ‘community awareness’.
 
 The results were discussed in details with the experts, and clearly underlined that the role of ‘non-structural’ measures on soft infrastructural system might be important as well as structural ones to increase resilience. Particularly, acting on several ‘cultural’ issues related to both individual (e.g. people awareness) and organizational features (e.g. cooperation, training level, knowledge) may have a benefit comparable with the one associated to the implementation of structural measures.
 
 ## Main outcomes for the practitioners
-1.3. 
-###Social Network analysis
+
+### Social Network analysis
+
 One of the main results of the L’Aquila CS concerns the replicability of the methodologies and tools developed and/or implemented in the CS. During the implementation of EDUCEN project, two “follower” case studies were interested in implementing the methodologies for the analysis of the complexity of emergency interaction networks, i.e. Lorca (Spain – flash flood) and Valladolid (Spain – flood). 
 
 Specifically, the Lorca CS allowed us to start the structuring of the training materials, whose main scope is to enable the transferability of the methodologies and tools to other contexts. The Valladolid case allowed us to test the effectiveness of the transferability protocol.
 
-At the end of this process, the following training material (Table 7) were developed and make available for being used in other case studies:
+At the end of this process, the following training material were developed and make available for being used in other case studies:
 
-Table 7: current status of the training materials.
+_Current status of the training materials_
 
-Training materials
-Available 
-In preparation
-Protocols for the interviews
-X
-
-Guidelines for the CM development
-X
-
-Guidelines for the meta-matrix development
-
-X
-Guidelines for the network analysis
-
-X
+| Training materials                         | Available | In preparation |
+|--------------------------------------------|-----------|----------------|
+| Protocols for the interviews               | X         |                |
+| Guidelines for the CM development          | X         |                |
+| Guidelines for the meta-matrix development |           | X              |
+| Guidelines for the network analysis        |           | X              |
 
 The training materials are meant to facilitate the replication of the developed methodology in other potential case studies. The objectives is to enable the creation of a community of practice, composed by experts in emergency management capable to support emergency managers in better comprehending the complexity of the interaction networks. The training materials will be disseminated as annexes to this manual, and will concern the different methods and tools described in this manual. 
 
-###Interaction between soft and hard infrastructure
+### Interaction between soft and hard infrastructure
+
 Referring specifically to the theme of hard/soft infrastructures interconnections, the replicability of tools and methodologies was not directly tested in other cases. 
 
 Nevertheless, the proposed methodologies are based on a solid scientific basis, with several previous applications, and have been deeply tested as well, in order to limit potential ‘case specific’ issues.
+
 The main outcomes discussed with practitioners are summarized in the following:
 
-Classical approaches to infrastructural reliability or performance level may be limited in describing the complexity of real systems.
--hidden- The resilience assessment of engineering systems, such as infrastructures requires a comprehensive approach moving beyond the merely technical dimension. The ‘culture’ (of both organizations and communities) is a key asset to describe resilience. The CS allowed to broaden the perspective with specific reference to more traditional approaches to resilience, going beyond the mere analysis of the structural (or ‘technical’) dimension. The operational dimension takes into account the preparedness of the authorities to cope with emergency situation, their resourcefulness, their rapidity, the internal skills and flexibility. 
+Classical approaches to infrastructural reliability or performance level may be limited in describing the complexity of real systems. The resilience assessment of engineering systems, such as infrastructures requires a comprehensive approach moving beyond the merely technical dimension. The ‘culture’ (of both organizations and communities) is a key asset to describe resilience. The CS allowed to broaden the perspective with specific reference to more traditional approaches to resilience, going beyond the mere analysis of the structural (or ‘technical’) dimension. The operational dimension takes into account the preparedness of the authorities to cope with emergency situation, their resourcefulness, their rapidity, the internal skills and flexibility. 
+
 The social dimension is strictly connected with the capability that the community (and its sub-groups) show in dealing with emergency conditions. The economic dimension of resilience is a key driver too, either accelerating or stopping the processes related to emergency management and recovery.
-1)The SDM model allows the definition of scenarios, which can be used to perform a ‘what-if’ analysis. 
- The ‘what-if’ analysis support measuring how changes in a set of independent variables might influence dependent variables in a simulation model, to anticipate the potential evolutions of the system. This analysis is highly relevant to identify the impacts of the implementation (or absence) of specific strategies to enhance system’s resilience in all its dimensions.
+
+The SDM model allows the definition of scenarios, which can be used to perform a ‘what-if’ analysis. 
+
+The ‘what-if’ analysis support measuring how changes in a set of independent variables might influence dependent variables in a simulation model, to anticipate the potential evolutions of the system. This analysis is highly relevant to identify the impacts of the implementation (or absence) of specific strategies to enhance system’s resilience in all its dimensions.
 The analysis based on Network Theory principles was performed, with the direct support of the local water utility, on the whole drinking water supply system in L’Aquila. 
 
-2)Besides being useful to describe ordinary operation, it is worth considering that techniques based on graph theory can be adopted to analyze and compare different systems operating in both normal and extreme conditions. 
+Besides being useful to describe ordinary operation, it is worth considering that techniques based on graph theory can be adopted to analyze and compare different systems operating in both normal and extreme conditions. 
 
 Particularly, the analysis supports the description of infrastructural systems capability to either resist stresses induced by extreme events or to adapt to changes in specific operating conditions (e.g. the spatial distribution of population, the location of emergency areas, the reconstruction phase, …).
-–
 
 The ‘unique’ potentiality connected with the case study was also related to the opportunity to compare two water supply systems located in the same area: the existing network, before the earthquake, and the new one (redesigned after the disaster). 
 
