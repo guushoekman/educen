@@ -741,7 +741,6 @@ This analysis is specifically useful to identify the main leaders of the communi
 
 The selection of the sample for the knowledge elicitation phase is crucial at this stage.
 
-
 #### Annex 1 – Framework for the knowledge elicitation
 
 The interviews should be carried out keeping in mind that the results will be used to develop the model for the SNA. The interviews should allow to collect the following basic information related to the emergency management:
