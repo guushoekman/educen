@@ -410,47 +410,37 @@ A well-organized mega-event is helpful for the formation of human capital in the
 
 Mega-events also trigger tourism in the medium and long term; the numbers both from London and Milan prove this statement. The main reasons are improved conditions, increased visibility, and increased supply conditions.
 
-####Security aims London Case (Raine 2012)
+#### Security aims London Case (Raine 2012)
 
---hidden
 Accompanying the heterogeneity of actors and agencies comprising the Olympic games security ensemble were a set of broad, diverse and dynamic operational priorities. In early 2012, these were outlined as: borders; transport; VIP protection; venue security; mitigating disruptive elements; intelligence of threats; disrupting those who pose a threat to the games; deploying resources and personnel effectively; maintaining effective command and control and coordination; ensuring parallel events are safe and secure; reassuring the public; obtaining effective support from informational partners. 
 
-
-####Differences in the approaches, An Example from London
-
---hidden
+#### Differences in the approaches, An Example from London
 
 Suspicious package left at Stratford during the games 
 
-“The Met’s (Metropolitan Police) initial reaction was evacuate everyone and investigate the package. But there are 60 000 people going through here a day and that would have caused chaos. A BTP (British Transport Police) officer came over, took one look and sais “It’s a box. Probably some journalist left it there.” There was no need to evacuate.” 
+“The Met’s (Metropolitan Police) initial reaction was evacuate everyone and investigate the package. But there are 60 000 people going through here a day and that would have caused chaos. A BTP (British Transport Police) officer came over, took one look and said “It’s a box. Probably some journalist left it there.” There was no need to evacuate.” 
 (Interview August 2012, in Fussey 2015)
 
---
+## References
 
-####REFERENCES:
+Compass, Interreg Project EU, available at: <http://www.compass-research.eu/>
 
---hidden
-
-Compass, Interreg Project EU, available at: http://www.compass-research.eu/
 De Steffani, Alexia 2011. A la carte urban policies. Mega-events: from exceptionality to construction of ordinary planning practices. A look at Italy: case study of the 2006 Winter Olympic Games in Turin. Science Future of Lithuania.  ISSN 2029-2341 print / ISSN 2029-2252 online, 2011 3(3): 23–29 doi:10.3846/mla.2011.047
+
 Fussey P. 2015. Command, control and contestation: negotiating security at the London 2012 Olympics. The geographical Journal 181 (3): 212-223. 
+
 Gregory F. 2012 Chapter 11 - The European Union and the promotion of major event security within the EU area. Routledge Online Studies on the Olympic and Paralympic Games.
+
 House of Commons Committee of Public Accounts. 2007 – The Ninth Report of Session 2006-2007- Preparations for the Olympic and Paralympic games – risk assessment and management.
-ISTAT 2014 available at: http://www.istat.it/it/archivio/comuni
-Know4DRR Project, available at: www.know4drr.polimi.it 
+
+ISTAT 2014 available at: <http://www.istat.it/it/archivio/comuni>
+
+Know4DRR Project, available at: <http://www.know4drr.polimi.it>
+
 Kroeber A. L. and C. Kluckhohn (1952) Culture: a critical review of concepts and definitions. Papers, 47 (1). Cambridge, Mass.: Peabody Museum of Archaeology and Ethnology
-Protezione Civile Italiano, available at:
-http://www.cittametropolitana.mi.it/protezionecivile/previsione_prevenzione/programma_previsione_prevenzione/index.html 
+
+Protezione Civile Italiano, available at: <http://www.cittametropolitana.mi.it/protezionecivile/previsione_prevenzione/programma_previsione_prevenzione/index.html>
+
 Raine R. 2012. Managing the security challenge, presented at the Olympic and Paralympic Security Conference, Royal United Services Institute, Whitehall 25 January. 
+
 The prefecture of Milan, La prefettura al centro operative misto, 184 Giorni Viaggio dentro EXPO, a cura della Funzione Communicazione del COM, in Italian
----
-
-Annex
-
---hidden
-
-annex 1.1
-ANNEX I. Data through social and mass media during EXPO (an example)
-The security of EXPO, there were more than 2000 interventions in 6 months. 
-Annex 1, 2, 3, 4
-ANNEX II. The workshop program
