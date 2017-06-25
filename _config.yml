@@ -15,6 +15,9 @@ baseurl:
 description: Handbook on Culture and Urban Disaster
 logo: /img/logo.png
 
+gems:
+  - jekyll-seo-tag
+
 sass:
   sass_dir: _sass
 
