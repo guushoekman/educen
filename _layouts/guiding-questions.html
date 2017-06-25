@@ -16,7 +16,6 @@ layout: base
     <div class="container">
       <section class="row basic-info">
         <div class="col-md-4 hidden-xs hidden-sm">
-          <a class="btn btn-sm btn-default download" target="_blank" href="/pdf/question.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download chapter</a>
           {% include sharing.html %}
           <div>
               <a data-toggle="tooltip" data-placement="bottom" title="{{ page.previous.title }}" class="btn btn-sm btn-default prev {% unless page.previous.url %}disabled{% endunless %}" href="{{page.previous.url}}"><i class="fa fa-fw fa-arrow-left" aria-hidden="true"></i> Previous</a>

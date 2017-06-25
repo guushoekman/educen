@@ -389,3 +389,12 @@ ul.content-infobox {
 .btn {
 	white-space: normal;
 }
+
+@media print {
+	.breadcrumbs, footer, .btn {
+		display: none !important;
+	}
+	.content-infobox {
+		border-left: 1px solid #000 !important;
+	}
+}
