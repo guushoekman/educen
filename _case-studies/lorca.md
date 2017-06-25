@@ -222,8 +222,6 @@ El ejemplo que se analiza en detalle en este Manual son los episodios de inundac
 
 Como se muestra en el gráfico de flujo de agua en el lecho de un río o wadi de Nogalte, un afluente del río Guadalentín, se puede ver cómo - en menos de 20 minutos - debido a las fuertes lluvias, la situación cambió de un río seco a rio ancho y de flujo rápido
 
-Figure 8_9. Flash-flood episode in Puerto Lumbreras (September 2012)
-
 Un video muy ilustrativo que muestra los efectos de este episodio se pueden ver [aquí](https://www.youtube.com/watch?v=YoNT9WmSfxg).
 
 #### Algunas lecciones se han aprendido después del análisis de este episodio:
@@ -242,13 +240,13 @@ Las acciones ejecutadas tras la riada de San Wenceslao han sido muy variadas y h
 
 Por una parte se han ejecutado varios diques de retención en las principales ramblas de la zona, y más de 100 diques de corrección hidrológica forestal en la cabecera de la presa de Puentes. Estos diques son de gran utilidad ya que aunque no tienen como objetivo principal laminar los caudales líquidos, sí que retienen una parte importante de los caudales sólidos consiguiendo reducir la peligrosidad de las avenidas
 
-Figura 9: 
-Fuente La Verdad
+<div class="col-sm-4 pull-right">
+	<img alt="Fuente La Verdad" src="/img/case-studies/lorca-15.jpg">
+</div>
 
-Por otra parte, uno de los principales problemas a los que se encuentra la gestión de riesgos por inundación es el urbanismo. L
+Por otra parte, uno de los principales problemas a los que se encuentra la gestión de riesgos por inundación es el urbanismo.
 
-as ciudades han crecido enormemente en los últimos años y las construcciones en zonas inundables han sido muy habituales, aunque la legislación existía (informe vinculante de la CHS por el artículo 25.4 de la Ley de Aguas), muchas veces se pasaba por alto o directamente era muy laxa o las construcciones venían de antiguos.  Así tenemos pueblos, barrios e incluso ciudades enteras que están situadas en zonas inundables con períodos de retorno no muy alto.
-
+Las ciudades han crecido enormemente en los últimos años y las construcciones en zonas inundables han sido muy habituales, aunque la legislación existía (informe vinculante de la CHS por el artículo 25.4 de la Ley de Aguas), muchas veces se pasaba por alto o directamente era muy laxa o las construcciones venían de antiguos.  Así tenemos pueblos, barrios e incluso ciudades enteras que están situadas en zonas inundables con períodos de retorno no muy alto.
 
 > Muchas de estas casas no pueden ser demolidas o expropiadas, por lo que  la información como la prevención tienen una importancia vital.
 
@@ -262,34 +260,28 @@ Esta información de contenido bastante técnico es difícil tanto de acceder co
 
 Otra forma de acceder a toda la información será con un enfoque distinto. En este caso cualquier persona al estar situado en un punto de la cuenca podrá mediante un app que se podrá descargar gratuitamente en su móvil ver si se encuentra en una zona inundable o no. Esta información es tremendamente útil desde en un momento de riesgo porque está lloviendo mucho, o si me estoy comprando una casa ver si está en una zona inundable o no, en qué período de retorno y hasta el calado de la inundación.
 
-###Caja : SISTEMA NACIONAL DE CARTOGRAFÍA DE ZONAS INUNDABLES
-
--- hidden
+### Sistema nacional de cartografía de zonas inundables
 
 El Ministerio de Agricultura, Alimentación y Medio Ambiente, siguiendo los principios de la Directiva 2007/60 sobre evaluación y gestión de riesgos de inundación, puso  en marcha el Sistema Nacional de Cartografía de Zonas Inundables (SNCZI), un instrumento de apoyo a la gestión del espacio fluvial, la prevención de riesgos, la planificación territorial y la transparencia administrativa.
 
-El Ministerio de Agricultura, Alimentación y Medio Ambiente, siguiendo los principios de la Directiva 2007/60 sobre evaluación y gestión de riesgos de inundación, puso  en marcha el Sistema Nacional de Cartografía de Zonas Inundables (SNCZI), un instrumento de apoyo a la gestión del espacio fluvial, la prevención de riesgos, la planificación territorial y la transparencia administrativa.
-El eje central del SNCZI es el [visor cartográfico] (http://sig.magrama.es/snczi/visor.html?herramienta=DPHZI) de zonas inundables, que permite a todos los interesados visualizar los estudios de delimitación del Dominio Público Hidráulico (DPH) y los estudios de cartografía de zonas inundables, elaborados por el Ministerio y aquellos que han aportado las Comunidades Autónomas.
-El visor sirve de ayuda a los organismos de cuenca en la emisión de informes sobre autorizaciones en el DPH y zona de policía, en la gestión de avenidas en conexión con el S.A.I.H. [Sistema Automático de Información Hidrológica) (http://sig.magrama.es/SAIH) y en la planificación de las actuaciones de defensa frente a inundaciones; agiliza la planificación y gestión de inundaciones por los servicios de Protección Civil; facilita la transmisión de información sobre zonas inundables a las administraciones competentes en planificación territorial y empresas promotoras; y permite a los ciudadanos conocer la peligrosidad de una zona determinada.
+El eje central del SNCZI es el [visor cartográfico](http://sig.magrama.es/snczi/visor.html?herramienta=DPHZI) de zonas inundables, que permite a todos los interesados visualizar los estudios de delimitación del Dominio Público Hidráulico (DPH) y los estudios de cartografía de zonas inundables, elaborados por el Ministerio y aquellos que han aportado las Comunidades Autónomas.
 
-–-
+El visor sirve de ayuda a los organismos de cuenca en la emisión de informes sobre autorizaciones en el DPH y zona de policía, en la gestión de avenidas en conexión con el S.A.I.H. [Sistema Automático de Información Hidrológica](http://sig.magrama.es/SAIH) y en la planificación de las actuaciones de defensa frente a inundaciones; agiliza la planificación y gestión de inundaciones por los servicios de Protección Civil; facilita la transmisión de información sobre zonas inundables a las administraciones competentes en planificación territorial y empresas promotoras; y permite a los ciudadanos conocer la peligrosidad de una zona determinada.
 
 A continuación vamos a ver un ejemplo de la reciente inundación de Los Alcázares donde el SNCZI mostraba que toda la localidad se encontraba situada en una zona inundable con un período de retorno muy bajo. La foto indica que por desgracia las peores previsiones se han cumplido.
 
+<div class="row">
+	<div class="col-sm-6">
+		<img alt="Inundación según modelo (Fuente: SNCZI)" src="/img/case-studies/lorca-13.jpg">
+	</div>
+	<div class="col-sm-6">
+		<img alt="Inundación Real (Fuente: RTVE)" src="/img/case-studies/lorca-14.jpg">
+	</div>
+</div>
 
-Figura 10: Inundación según modelo (FUENTE SNCZI)
+### El sistema SAIH
 
-
-Figura 11 Inundación Real (FUENTE RTVE)
-
-
-
-
-###Caja 2: El sistema SAIH
-
--hidden
 El SAIH es un sistema de información encargado de captar, transmitir en tiempo real, procesar y presentar aquellos datos que describen el estado hidrológico e hidráulico de la cuenca, incluyendo, por tanto, el conocimiento del régimen hídrico a lo largo de su red fluvial y el estado de las obras hidráulicas principales y de los dispositivos de control que en ellas se ubican. Para captar estas variables se utilizan dispositivos (sensores), que están en contacto con el medio, dotados de unos codificadores que proporcionan la señal eléctrica o lógica del estado de la variable que se mide. Como tal sistema de información se apoya en una red de comunicaciones, y como elementos inteligentes de la misma, utiliza sistemas de adquisición y proceso de datos.
--
 
 El Sistema Automático de Información Hidrológica es otra herramienta indispensable en el seguimiento de un episodio de lluvias fuertes. Aunque el SAIH en la actualidad está parcialmente abierto al público de la calle, la interfaz y los datos disponibles no permiten la mejor utilización de la misma.
 
@@ -297,115 +289,138 @@ Con una fecha estimada de junio de 2017 se pretende que haya una interfaz dispon
 
 Además, se está trabajando para que en los próximos meses se instale una terminal de información del 112 para coordinar las intervenciones con los cuerpos de emergencias y protección civil en el caso de que se produzca una catástrofe en la Región.
 
-ii) Hay grupos específicos de la población que han sido (y son) más vulnerables a los desastres
+#### Hay grupos específicos de la población que han sido (y son) más vulnerables a los desastres
+
 Los inmigrantes y turistas extranjeros han sido mucho más afectados por las inundaciones. 
 
 Esto demuestra la importancia de para hacer un uso conjunto entre las redes formales / informales de información para un mejor flujo de información en estos u otros grupos minoritarios. 
 Por tanto, un aumento del papel de la infraestructura blanda es, sin duda necesario para una mejor preparación y gestión de estas catástrofes.
 
 Resumen lecciones aprendidas
-i) Hay una necesidad de un protocolo conjunto frente a inundaciones
-ii) Los inmigrantes y los turistas extranjeros son más vulnerables 
+1. Hay una necesidad de un protocolo conjunto frente a inundaciones
+2. Los inmigrantes y los turistas extranjeros son más vulnerables 
 
-##El caso de Lorca: ejemplo de cómo el flujo de información en redes sociales es clave en la gestión de los desastres
+## Ejemplo de cómo el flujo de información en redes sociales es clave en la gestión de los desastres
 
 Para el análisis del caso concreto de la inundación en Lorca del 2011 como ejemplo de los desastres y el papel de la cultura se centró en tres objetivos:
 
--- box
+<p class="highlight-start"></p>
+
 ### Objetivos específicos para personal técnico 
 
 Los objetivos específicos del caso de Lorca han sido
 1. Mejor comprensión de las interacciones de los diferentes actores en una situación de emergencia. En particular:
-una mejor comprensión del papel de los organismos y actores informales 
-una mejor comprensión de la reacciones de gente de diferentes culturas.
+- una mejor comprensión del papel de los organismos y actores informales 
+- una mejor comprensión de la reacciones de gente de diferentes culturas.
 
 2. Sinergias entre los sistemas de alerta existentes y protocolos de actuación en diferentes tipos de desastres (inundaciones, terremotos, etc.). En particular: 
 mejorar la comunicación formal y el intercambio de información entre los actores formales mediante el diseño un procedimiento que reúna la información en tiempo real del Estado, regionales y autoridades locales en caso de inundación. 
 
 3. Información más accesible para el público objetivo en la preparación y gestión de desastres. En particular:
-mejorar de la comunicación y el intercambio de información con la población local.
-### Objetivos Generales para la población local	
-El Objetivo general ha sido contribuir a la difusión del conjunto de herramientas disponibles en el organismo de cuenca, la CHS, para la reducción del riesgo de inundación 
+- mejorar de la comunicación y el intercambio de información con la población local
 
-1) el SAIH (Sistema Automático  de información hidrológica en tiempo real) 
-2) el SNCZI (Sistema nacional de Cartografía de zonas de inundación). 
-----
+### Objetivos Generales para la población local	
+El Objetivo general ha sido contribuir a la difusión del conjunto de herramientas disponibles en el organismo de cuenca, la CHS, para la reducción del riesgo de inundación:
+
+1. el SAIH (Sistema Automático  de información hidrológica en tiempo real) 
+2. el SNCZI (Sistema nacional de Cartografía de zonas de inundación). 
+
+<p class="highlight-end"></p>
 
 ### Quien es quien en la gestión de los desastres en Lorca 
 
 Los administradores locales y regionales, los profesionales de emergencias y los representantes de la comunidad local son los actores clave en la gestión de los desastres. El objetivo final es desarrollar, analizar y perfeccionar un marco de referencia que apoye a los administradores de emergencias para fortalecer e integrar el papel de la cultura - y en particular de las redes culturales - en la planificación de emergencias.
 Los actores clave en el caso de Lorca son: actores institucionales y  actores sociales (Tabla 2).
-Tabla 2. Red de actores identificados.
 
-Reuniones con Actores Institucionales 
-Ayuntamiento de Lorca
-Comunidad Autónoma de Murcia
-Dirección General del Agua del Ministerio de Agricultura, Alimentación y Medio Ambiente 
-Confederación Hidrográfica del Segura
-Protección Civil
-Agencia Española de Meteorología (AEMET)
+_Tabla 2. Red de actores identificados._
 
-Reuniones con Actores Sociales
-Comunidades de Regantes de Lorca y Puerto Lumbreras
-Asociaciones de vecinos
-Asociaciones de población extranjera
-Fuente: elaboración propia.
-3.4.1. Actores institucionales
-Autoridad de la Cuenca del Segura (CHS), actuando como líder de estudio del caso. Se trata de una organización autónoma de la Administración General de España adscrita al Ministerio de Agricultura, Alimentación y Medio Ambiente. Sus principales competencias son la gestión de los recursos hídricos; Planificación del uso del agua; Proyecto, construcción y explotación de infraestructura hidráulica y control de agua de dominio público. 
-Agencias de Protección Civil tanto de la comunidad  autónoma (Protección Civil de la Región de Murcia) como del Estado, responsables de la planificación y gestión de emergencias, garantizando seguridad y orden, antes, durante y después de los desastres.
-Los municipios de Lorca y Puerto Lumbreras también tienen competencias en planificación de emergencias, en particular en materia de autorización de uso del suelo. El trabajo que se desarrolló por parte del dispositivo municipal habilitado el pasado 28 de septiembre (2012) fue muy importante para la recuperación de Lorca.
-Agencia Española de Meteorología (AEMET).
+|  Reuniones con Actores Institucionales                                                     |                               |
+|----------------------------------------------------------------------------------------|
+| Ayuntamiento de Lorca                                                                  |
+| Comunidad Autónoma de Murcia                                                           |
+| Dirección General del Agua del Ministerio de Agricultura, Alimentación y Medio Ambiente |
+| Confederación Hidrográfica del Segura                                                  |
+| Protección Civil                                                                       |
+| Agencia Española de Meteorología (AEMET)                                               |
+
+| Reuniones con Actores Sociales                                                        |
+|-----|
+| Comunidades de Regantes de Lorca y Puerto Lumbreras                                    |
+| Asociaciones de vecinos                                                                |
+| Asociaciones de población extranjera"                                                  |
+
+
+_Fuente: elaboración propia._
+
+### Actores institucionales
+
+- Autoridad de la Cuenca del Segura (CHS), actuando como líder de estudio del caso. Se trata de una organización autónoma de la Administración General de España adscrita al Ministerio de Agricultura, Alimentación y Medio Ambiente. Sus principales competencias son la gestión de los recursos hídricos; Planificación del uso del agua; Proyecto, construcción y explotación de infraestructura hidráulica y control de agua de dominio público. 
+- Agencias de Protección Civil tanto de la comunidad  autónoma (Protección Civil de la Región de Murcia) como del Estado, responsables de la planificación y gestión de emergencias, garantizando seguridad y orden, antes, durante y después de los desastres.
+- Los municipios de Lorca y Puerto Lumbreras también tienen competencias en planificación de emergencias, en particular en materia de autorización de uso del suelo. El trabajo que se desarrolló por parte del dispositivo municipal habilitado el pasado 28 de septiembre (2012) fue muy importante para la recuperación de Lorca.
+- Agencia Española de Meteorología (AEMET).
+
 Los Servicios Meteorológicos e Hidrológicos Nacionales tienen numerosos papeles que desempeñar en la gestión del riesgo de desastres. Estos papeles pueden resumirse en dos líneas de actuación: 
-Acciones de gestión del riesgo, o previas al desastre, a través de los pilares de: 
-Mitigación o prevención del riesgo de desastre
-Preparación ante emergencias 
-Acciones inminentes antes, durante y después de los desastres (gestión de crisis) a través de los pilares de: 
-Respuesta y ayuda de emergencia 
-Recuperación y reconstrucción tras los desastres 
-Una gestión eficaz de los desastres, de principio a fin, requiere la integración coordinada y completa de las acciones en base a estos cuatro pilares descritos.
 
-Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente (MAPAMA).
+- Acciones de gestión del riesgo, o previas al desastre, a través de los pilares de: 
+	- Mitigación o prevención del riesgo de desastre
+	- Preparación ante emergencias 
+- Acciones inminentes antes, durante y después de los desastres (gestión de crisis) a través de los pilares de: 
+	- Respuesta y ayuda de emergencia 
+	- Recuperación y reconstrucción tras los desastres 
+
+Una gestión eficaz de los desastres, de principio a fin, requiere la integración coordinada y completa de las acciones en base a estos cuatro pilares descritos.
+- Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente (MAPAMA).
+
 En relación con los desastres naturales y la gestión del agua, el MAPAMA  que tiene como funciones:
-la elaboración de la legislación estatal en materia de aguas y costas, medio ambiente y montes, meteorología y climatología;
-la propuesta y ejecución de las directrices generales del Gobierno sobre la política agraria, pesquera y alimentaria; y
-la gestión directa del dominio público hidráulico, del dominio público marítimo-terrestre. 
+- la elaboración de la legislación estatal en materia de aguas y costas, medio ambiente y montes, meteorología y climatología;
+- la propuesta y ejecución de las directrices generales del Gobierno sobre la política agraria, pesquera y alimentaria; y
+- la gestión directa del dominio público hidráulico, del dominio público marítimo-terrestre. 
 
 El MAPAMA también tiene en cuenta la RRD, eje principal de actuaciones recogido en la Estrategia Internacional para la Reducción de Desastres (EIRD) de Naciones Unidas. Que tiene como única meta: Prevenir los desastres y los accidentes industriales, con el fin de reducir las víctimas mortales y los impactos ambientales debidos a fenómenos naturales y procesos tecnológicos, mediante las oportunas medidas preventivas, de intervención y de información. 
 
 
-3.4.2. Actores sociales
+### Actores sociales
 En cuanto a los actores sociales que contribuyen en la gestión de los desastres tenemos los siguientes:
 
-Comunidades de Regantes de Lorca y Puerto Lumbreras. Se trata de entidades que tienen el carácter de corporación de derecho público, y cuya principal finalidad es velar por el buen orden de los aprovechamientos hídricos, y realizar las funciones de distribución y administración de las aguas que tiene concedidas por la Administración. Tras las inundaciones del 28 de septiembre del año 2012, estas entidades trabajaron en la limpieza de las ramblas  y canales de regadíos, para drenar las aguas empozadas y estancadas. 
-Asociaciones vecinales en la zona. 
-La Asociación de vecinos de Campillo y Asociación de vecinos de la Torrecilla nacieron tras las inundaciones del 28 de septiembre de 2012, al quedar muy dañadas las ramblas y al no disponer de cauces que saquen el agua de todas estas ramblas y brazales que confluyen en estas pedanías. A día de hoy, los vecinos aún se quejan de falta de actuaciones por parte de la CHS para prevenir inundaciones en caso de lluvias torrenciales, tales como la limpieza en cauces, deslindes que no se producen o extracciones irregulares.
-La Plataforma de Afectados de San Wenceslao también se creó tras las inundaciones del 28 de septiembre de 2012 debido a las miles de hectáreas que quedaron inundadas, produciéndose la muerte de centenares de animales de numerosas granjas y la pérdida de un alto número de cosechas y bienes. Por ejemplo, la destrucción del puente de la autovía A-7 que conectaba Lorca con Puerto Lumbreras o  (Rambla de Béjar). Esta plataforma representa a más de mil familias afectada. 
-La Asociación Nuevos Lorquinos que integra residentes de la ciudad de Lorca con origen en países del Sur y Centro de América. La inmigración es un factor relevante y característico de la ciudad de Lorca y asociaciones como ésta procuran mejorar la integración de las comunidades en la ciudad de Lorca. 
-Por último, la Comunidad de Regantes Campo Alto o Comunidad de Regantes Campo Alto engloba a 300 comuneros de las pedanías del norte de Lorca. Son pequeños productores que suman poco más de 400 hectáreas de secano, vinculadas en su mayor parte a la agricultura ecológica, donde el cultivo de almendros, olivos, vid y plantas aromáticas supone el principal sustento económico. Está representado por su presidente, Juan García Corbalán y en los últimos años se ha manifestado para pedir agua  a la Comunidad de Regantes de Lorca (Murcia.com, 20 de agosto de 2015).
-##Métodos para incluir la cultura como un recurso en la gestión de desastres 
+- Comunidades de Regantes de Lorca y Puerto Lumbreras. Se trata de entidades que tienen el carácter de corporación de derecho público, y cuya principal finalidad es velar por el buen orden de los aprovechamientos hídricos, y realizar las funciones de distribución y administración de las aguas que tiene concedidas por la Administración. Tras las inundaciones del 28 de septiembre del año 2012, estas entidades trabajaron en la limpieza de las ramblas  y canales de regadíos, para drenar las aguas empozadas y estancadas. 
+- Asociaciones vecinales en la zona. 
+- La Asociación de vecinos de Campillo y Asociación de vecinos de la Torrecilla nacieron tras las inundaciones del 28 de septiembre de 2012, al quedar muy dañadas las ramblas y al no disponer de cauces que saquen el agua de todas estas ramblas y brazales que confluyen en estas pedanías. A día de hoy, los vecinos aún se quejan de falta de actuaciones por parte de la CHS para prevenir inundaciones en caso de lluvias torrenciales, tales como la limpieza en cauces, deslindes que no se producen o extracciones irregulares.
+- La Plataforma de Afectados de San Wenceslao también se creó tras las inundaciones del 28 de septiembre de 2012 debido a las miles de hectáreas que quedaron inundadas, produciéndose la muerte de centenares de animales de numerosas granjas y la pérdida de un alto número de cosechas y bienes. Por ejemplo, la destrucción del puente de la autovía A-7 que conectaba Lorca con Puerto Lumbreras o  (Rambla de Béjar). Esta plataforma representa a más de mil familias afectada. 
+- La Asociación Nuevos Lorquinos que integra residentes de la ciudad de Lorca con origen en países del Sur y Centro de América. La inmigración es un factor relevante y característico de la ciudad de Lorca y asociaciones como ésta procuran mejorar la integración de las comunidades en la ciudad de Lorca. 
+- Por último, la Comunidad de Regantes Campo Alto o Comunidad de Regantes Campo Alto engloba a 300 comuneros de las pedanías del norte de Lorca. Son pequeños productores que suman poco más de 400 hectáreas de secano, vinculadas en su mayor parte a la agricultura ecológica, donde el cultivo de almendros, olivos, vid y plantas aromáticas supone el principal sustento económico. Está representado por su presidente, Juan García Corbalán y en los últimos años se ha manifestado para pedir agua  a la Comunidad de Regantes de Lorca (Murcia.com, 20 de agosto de 2015).
+
+## Métodos para incluir la cultura como un recurso en la gestión de desastres 
 
 Esta sección del Manual documenta que métodos han sido utilizados en Lorca, como se han utilizado y el por qué. La descripción detallada de la metodología, los pasos a seguir y las preguntas utilizadas.
-4.1. Redes culturales
+
+### Redes culturales
+
 Las metodologías aplicadas en Lorca tienen por objetivo apoyar mediante una serie de métodos la toma de decisiones que ayudan a:
+
 1. fortalecer el capital social en la RRD 
 2. mejorar el intercambio de información y comunicación en las situaciones de desastre entre redes formales e informales. 
 3. Mejorar los protocolos de actuación para la mejor coordinación y flujo de información entre los diferentes organismos
 4. Mejor conocimiento y preparación de núcleos de población especialmente vulnerables como inmigrantes o residentes extranjeros
-##Métodos y herramientas
+
+## Métodos y herramientas
  
 Los métodos y herramientas específicos para documentar el capital social y el flujo de información se basan fundamentalmente en:
 
 1. una serie de entrevistas a las autoridades locales y a expertos 
 2. talleres con la participación de actores y grupos de interés.
 3. Grandes eventos
-###Método 1: Identificación de actores clave y sus datos de contacto (ver “Quien es Quien”)
-Mediante un trabajo previo de gabinete se deben identificar los actores públicos y sociales que intervienen en la gestión del riesgo así como, los que se pueden ver afectados por dichos episodios. Esta identificación preliminar se debe hacer acudiendo a la normativa y protocolos oficiales de gestión del riesgo que determina expresamente cuáles son las Administraciones públicas que participan y su papel en cada momento. Por ejemplo, en la Región de Murcia, es fundamental el diseño y estructura que establece el Plan Inunmur o Plan Especial de Protección Civil ante Inundaciones en la Región de Murcia. http://www.112rm.com/dgsce/planes/inunmur/inunmur.php 
-Las nuevas tecnologías permiten además, rastrear e identificar cuentas o actores sociales que intervienen y participan en la divulgación de información durante un episodio de riesgo. Es interesante realizar una búsqueda en las nuevas redes sociales (Twitter y Facebook, por ejemplo) para identificar dichos actores y su relevancia para, en su caso, apoyar su labor o explorar su potencial. 
+
+### Método 1: Identificación de actores clave y sus datos de contacto (ver “Quien es Quien”)
+Mediante un trabajo previo de gabinete se deben identificar los actores públicos y sociales que intervienen en la gestión del riesgo así como, los que se pueden ver afectados por dichos episodios. Esta identificación preliminar se debe hacer acudiendo a la normativa y protocolos oficiales de gestión del riesgo que determina expresamente cuáles son las Administraciones públicas que participan y su papel en cada momento. Por ejemplo, en la Región de Murcia, es fundamental el diseño y estructura que establece el Plan Inunmur o Plan Especial de Protección Civil ante Inundaciones en la Región de Murcia. <http://www.112rm.com/dgsce/planes/inunmur/inunmur.php>
+
+Las nuevas tecnologías permiten además, rastrear e identificar cuentas o actores sociales que intervienen y participan en la divulgación de información durante un episodio de riesgo. Es interesante realizar una búsqueda en las nuevas redes sociales (Twitter y Facebook, por ejemplo) para identificar dichos actores y su relevancia para, en su caso, apoyar su labor o explorar su potencial.
+
 Hay que tener en cuenta en las tareas de identificación previa algunas consideraciones: 
-a. Los actores que inicialmente se identifiquen no tienen por qué ser los únicos y más relevantes en la gestión del riesgo. Probablemente, durante las siguientes etapas surgirán nuevos elementos a tener en cuenta o incluso, nuevas entidades (normalmente en las redes informales)  que juegan un papel relevante. 
-b. Se puede dar el caso de actores que en teoría debieran jugar un papel esencial en la gestión del riesgo pero que, por diferentes razones, delegan sus funciones en otros. Esta delegación puede ser oficial u oficiosa, en el sentido que acciones que debiera llevar a cabo pero que no realiza las asume, por propia iniciativa, otro actor para cubrir el vacío. 
-c. La identificación de la entidad que participa en la gestión del riesgo no sólo supone señalar el organismo o asociación correspondiente sino también, la persona que participe activamente en dichas tareas. Puede ser igual de útil identificar a la persona que representa el organismo como al técnico que interviene activamente en la gestión del riesgo. En cualquiera de los dos casos, se recomienda disponer de un nombre propio con el que mantener el primer contacto.  
-###Método 2: Entrevistas individuales
+1. Los actores que inicialmente se identifiquen no tienen por qué ser los únicos y más relevantes en la gestión del riesgo. Probablemente, durante las siguientes etapas surgirán nuevos elementos a tener en cuenta o incluso, nuevas entidades (normalmente en las redes informales)  que juegan un papel relevante. 
+2. Se puede dar el caso de actores que en teoría debieran jugar un papel esencial en la gestión del riesgo pero que, por diferentes razones, delegan sus funciones en otros. Esta delegación puede ser oficial u oficiosa, en el sentido que acciones que debiera llevar a cabo pero que no realiza las asume, por propia iniciativa, otro actor para cubrir el vacío. 
+3. La identificación de la entidad que participa en la gestión del riesgo no sólo supone señalar el organismo o asociación correspondiente sino también, la persona que participe activamente en dichas tareas. Puede ser igual de útil identificar a la persona que representa el organismo como al técnico que interviene activamente en la gestión del riesgo. En cualquiera de los dos casos, se recomienda disponer de un nombre propio con el que mantener el primer contacto.  
+
+### Método 2: Entrevistas individuales
 Las actividades individuales cubren entrevistas y encuestas basadas en cuestionarios, y se centra en los principales grupos o actores interesados. 
 Los objetivos específicos de entrevistas individuales serán los siguientes:
 Análisis de los interesados 
@@ -417,7 +432,7 @@ No plantear preguntas que puedan contestarse mediante monosílabos.
 Evitar presentar un listado de preguntas, cuestionarios, encuestas o similar al entrevistado.
 En las materias que se observe un interés particular o personal del entrevistado hacer hincapié, aunque no esté directamente relacionado con la materia. Cuestiones conexas  pueden dar datos muy relevantes (identificar nuevos actores, acciones no protocolizadas que se llevaron a cabo en un episodio de gestión del riesgo, etc.)
 
-###Método 3: Talleres en Grupo
+### Método 3: Talleres en Grupo
 Las pequeñas actividades del grupo se centran en talleres de grupos pequeños, que facilitan y promueven la participación e interacción de los diferentes actores. Los métodos planificados que deben aplicarse para la recogida y validación de la información son:
 Estructura de valores
 Definición de objetivo general
@@ -427,154 +442,140 @@ Lluvia
 mapeo espacial
 Se recomienda realizar los talleres en grupo en lugares de fácil acceso para los asistentes, recibirlos en la puerta y agradecerles siempre su participación y valorar cada una de sus opiniones. 
 
-###Método 4: talleres de grupos grandes 
-
+### Método 4: talleres de grupos grandes 
 
 Están concebidos como un medio para obtener una visión general sobre algunas cuestiones relevantes de los actores locales más relevantes y definir claramente las funciones y los centros de coordinación.
 
-El uso de mapeo de redes sociales para profesionales en la gestión de los riesgos
+**El uso de mapeo de redes sociales para profesionales en la gestión de los riesgos**
 
-####¿Por qué es importante?
+#### ¿Por qué es importante?
 
 La elaboración y validación de los mapas de las redes institucionales e informales relacionadas con la RRD en Lorca permiten definir funciones y responsabilidades de los actores principales en la RRD, incluyendo también las redes informales y así poder identificar los corredores culturales, así como confianza, normas e información de las redes que ayuda a la gestión del riesgo.
+
 El análisis de las ambigüedades en la percepción del riesgo mediante la evaluación de las diferencias y similitudes entre las redes sociales y culturales existentes permite a los decisores y planificadores aumentar la conciencia acerca de la influencia de la cultura en la percepción del riesgo.
 
-MAPEO DE REDES SOCIALES Y DEL FLUJO DE LA INFORMACION
+_Mapeo de redes sociales y del flujo de la informacion_
 
-COMO
-PARA QUE
-PASO 1
-Actividad individual o en grupos pequeños con actores institucionales a través de encuestas y entrevistas
-
-Recopilación de información para mapear las redes institucionales relacionadas con la RRD en los pilotos 
-Recogida y análisis de las experiencias pasadas de los agentes institucionales referentes al comportamiento de las infraestructuras durante la fase de emergencia.
-
-PASO 2
-Pequeños talleres con los usuarios y las comunidades locales mediante procesos participativos, como la lluvia de ideas y la cartografía espacial
-Recopilación de información para mapear las redes informales relacionadas con la RRD Recopilación y análisis de los ciudadanos experiencias pasadas relacionadas con el nivel de servicio durante la emergencia
-PASO 3
-Gran taller con los actores institucionales y las comunidades locales con el fin de obtener retroalimentación y modelo
-Validación del mapa de las redes institucionales e informales en los pilotos 
-PASO 4
-Modelo Matemático
-Desarrollo del modelo de resiliencia de la infraestructura
-PASO 5
-Los modelos mentales elicitación + taller de estructuración o entrevistas individuales con los actores seleccionados
-Análisis de la percepción de riesgo en las diferentes redes sociales (institucionales e informales)
-El análisis de la información de los procesos de intercambio de información dentro y entre las redes sociales
-PASO 6
-Validación de los modelos de redes sociales
- 
-interacción con el responsable del estudio del caso principal 
-
-
-
-PASO 7
-Escenarios de simulación y análisis de infraestructura/interacciones de redes sociales 
-
-PASO 8
-Desarrollo de estrategias innovadoras de intercambio de información para la RRD
-El desarrollo de mecanismos y herramientas integradas de resiliencia mejora
-Escenario de simulación y juego serio
+| | COMO   | PARA QUE                                                                                                                                                   |                                                                                                                                                                                                                                                                             |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Actividad individual o en grupos pequeños con actores institucionales a través de encuestas y entrevistas                                                  | Recopilación de información para mapear las redes institucionales relacionadas con la RRD en los pilotos Recogida y análisis de las experiencias pasadas de los agentes institucionales referentes al comportamiento de las infraestructuras durante la fase de emergencia. |
+| 2 | Pequeños talleres con los usuarios y las comunidades locales mediante procesos participativos, como la lluvia de ideas y la cartografía espacial           | Recopilación de información para mapear las redes informales relacionadas con la RRD Recopilación y análisis de los ciudadanos experiencias pasadas relacionadas con el nivel de servicio durante la emergencia                                                             |
+| 3 | Gran taller con los actores institucionales y las comunidades locales con el fin de obtener retroalimentación y modelo                                     | Validación del mapa de las redes institucionales e informales en los pilotos                                                                                                                                                                                                |
+| 4 | Modelo Matemático                                                                                                                                          | Desarrollo del modelo de resiliencia de la infraestructura                                                                                                                                                                                                                  |
+| 5 | Los modelos mentales elicitación + taller de estructuración o entrevistas individuales con los actores seleccionados                                       | Análisis de la percepción de riesgo en las diferentes redes sociales (institucionales e informales)El análisis de la información de los procesos de intercambio de información dentro y entre las redes sociales                                                            |
+| 6 | Validación de los modelos de redes sociales                                                                                                                | interacción con el responsable del estudio del caso principal                                                                                                                                                                                                               |
+| 7 | Escenarios de simulación y análisis de infraestructura/interacciones de redes sociales                                                                     |                                                                                                                                                                                                                                                                             |
+| 8 | Desarrollo de estrategias innovadoras de intercambio de información para la RRDEl desarrollo de mecanismos y herramientas integradas de resiliencia mejora | Escenario de simulación y juego serio                                                                                                                                                                                                                                       |
 
 Durante el desarrollo de esta metodología puede surgir la necesidad y oportunidad de organizar talleres grandes o eventos que permitan aglutinar experiencias y necesidades en la gestión del riesgo. Pueden ser eventos que al inicio de los trabajos no se plantearon o no identificaron como posibles pero que una vez recogida gran parte de la información y con el contacto e interacción con los agentes involucrados y afectados, se ven ahora esenciales y de gran utilidad. 
 
---Caja al lado
+<p class="box-start"></p>
 
-###Caja 3: Jornada “La Gestión de la Información en Episodios de Inundación” Parque Científico del Campus Universitario de Espinardo (Murcia). 
+#### Jornada “La Gestión de la Información en Episodios de Inundación” Parque Científico del Campus Universitario de Espinardo (Murcia). 
 
 En Murcia, el 19 de octubre de 2016, se celebró una jornada con expertos en diferentes ámbitos y de distintas organizaciones, públicas y privadas, sobre la gestión de la información en episodios de inundación. 
+
 Es indiscutible la importancia de las administraciones públicas y del flujo de información entre ellas durante la gestión del riesgo. Asimismo, en la actualidad el papel de las redes sociales está tomando una importancia creciente en la gestión de la información.  
+
 El programa se dividió en tres bloques temáticos:
-El papel de las Administraciones públicas en los episodios de inundación. 
-El proyecto Educen
-La gestión de las redes sociales en un episodio de inundación. 
-La gran asistencia dejó patente el interés creciente de la sociedad por la información, como una manera de autoprotección y de participación activa con las administraciones. 
+- El papel de las Administraciones públicas en los episodios de inundación. 
+- El proyecto Educen
+- La gestión de las redes sociales en un episodio de inundación. 
+- La gran asistencia dejó patente el interés creciente de la sociedad por la información, como una manera de autoprotección y de participación activa con las administraciones. 
 
---
+<p class="box-end"></p>
 
-##ANÁLISIS DE LOS PROTOCOLOS TÉCNICOS EXISTENTES PARA LA GESTIÓN DE EMERGENCIAS 
+## Análisis de los protocolos técnicos existentes para la gestión de emergencias
 
 Comunicación interna entre las administraciones formales: añadir una nueva capa en el protocolo de gestión mediante la distinción entre:
-a)  la comunicación formal entre las administraciones públicas con competencias diferentes 
-b) la comunicación informal dirigida a grupos de población civil y representantes. 
-###FOCO EN COMUNIDADES ESPECIALMENTE VULNERABLES 
+1. la comunicación formal entre las administraciones públicas con competencias diferentes 
+2. la comunicación informal dirigida a grupos de población civil y representantes. 
+
+### Foco en comunidades especialmente vulnerables 
 
 ¿Por qué es importante? Porque provee un análisis de la información de los procesos de intercambio de información dentro y entre las redes sociales, sobre todo de las poblaciones a las cuales es más difícil llegar y que pueden ser más vulnerables.
 
-###Inmigrantes y residentes
+### Inmigrantes y residentes
+
 La Cultura y redes culturales son especialmente relevantes para	la comunicación informal dirigida a grupos de población civil y representantes. La participación de asociaciones de extranjeros puede jugar un papel importante en la mejora de la preparación para desastres y gestión de emergencias. 
 Por ejemplo, las poblaciones de extranjeros que vienen a la zona después de su jubilación (p.e. la comunidad Inglesa) no suele ser consciente de:
- a) el concepto de inundaciones repentinas 
-b) cómo se produce una inundación repentina; en sus países inundaciones ocurren después de varias horas o incluso días de lluvias intensas, nunca son fenómenos tan rápidos. 
-c) ubicación: Además, las poblaciones extranjeras tienden a comprar casas en zonas peligrosas que la población local por lo general debe evitarse debido al conocimiento local. Por lo tanto, el uso de las redes existentes para esta población extranjera muestra un fuerte potencial para mejorar la RRD.
+1. el concepto de inundaciones repentinas 
+2. cómo se produce una inundación repentina; en sus países inundaciones ocurren después de varias horas o incluso días de lluvias intensas, nunca son fenómenos tan rápidos. 
+3. ubicación: Además, las poblaciones extranjeras tienden a comprar casas en zonas peligrosas que la población local por lo general debe evitarse debido al conocimiento local. Por lo tanto, el uso de las redes existentes para esta población extranjera muestra un fuerte potencial para mejorar la RRD.
 
-–Caja al lado
+<p class="box-start"></p>
 
-Caja 4: Urbanización "Montesol", Mazarrón
+#### Urbanización "Montesol", Mazarrón
 
 Se trata de una urbanización 3.500 viviendas construidas en los años 80 y sin licencia de ocupación, de las que 550 viviendas fueron construidas encima de la zona inundable de una rambla. 
+
 El 80% de los ocupantes de estas viviendas son británicos con un desconocimiento del riesgo en el que se encontraban, ya que la rambla se había soterrado por medio de un tubo sin capacidad, y del funcionamiento del "cauce seco" en este tipo de cuencas pequeñas. En 2014 sufrieron una riada con importantes daños materiales, donde el agua continuó su cauce natural inundando las calles de parte de la urbanización. Actualmente siguen con litigios por las indemnizaciones por los daños materiales debidos a la inundación.
 
 Fuente: Web vecinos de Mazarrón.  
------
 
-###Jóvenes y escolares
+<p class="box-end"></p>
 
-En la última inundación de Lorca, hubo varios colegios especialmente centrados en las cercanías del río que dejaron salir a sus alumnos para que fueran a sus casas en vez de mantenerlos en las aulas. 
+### Jóvenes y escolares
+
+En la última inundación de Lorca, hubo varios colegios especialmente centrados en las cercanías del río que dejaron salir a sus alumnos para que fueran a sus casas en vez de mantenerlos en las aulas.
+
 Este tipo de actuación puso en riesgo a los escolares debido a la falta de conocimiento y percepción del riesgo. Por lo que se está pendiente de realizar material relacionado con el proyecto de EDUCEN en las diferentes escuelas en las cercanías del río. 
-## Memoria Cultural (nuevo color para diferenciar)
 
- El método combina un “análisis de eventos críticos” con el estudio del nivel actual de percepción del riesgo en distintos grupos sociales, entendiendo como elementos diferenciadores la edad o el nivel de conocimiento del territorio. 
+## Memoria Cultural
+
+El método combina un “análisis de eventos críticos” con el estudio del nivel actual de percepción del riesgo en distintos grupos sociales, entendiendo como elementos diferenciadores la edad o el nivel de conocimiento del territorio. 
 
 Por ejemplo, se han observado casos donde la población más joven o los grupos de inmigrantes tienen un conocimiento muy limitado del nivel de riesgo real al que están expuestos. El método se completa con el desarrollo de herramientas que potencien el conocimiento de la memoria cultural de desastres. 
 
 Los objetivos de la memoria cultural son: 
 
-1) Detectar las dependencias de rutas y eventos críticos que dan lugar a los patrones culturales actuales
-2) Entender cómo los eventos críticos identificados en Lorca han conformado las actitudes y percepciones de los desastres y su gestión actual
-3) Comprender como la memoria presente en Lorca influencia la gestión actual de desastres
+1. Detectar las dependencias de rutas y eventos críticos que dan lugar a los patrones culturales actuales
+2. Entender cómo los eventos críticos identificados en Lorca han conformado las actitudes y percepciones de los desastres y su gestión actual
+3. Comprender como la memoria presente en Lorca influencia la gestión actual de desastres
 
 Esta metodología tendrá los siguientes pasos:
-Paso 1: Revisión de la literatura  y la exploración de los signos de la memoria cultural en Lorca (archivos históricos, museos periódicos, películas, signos físicos, etc.).
-Paso 2: Exploración de la ciudad, museos, archivos, noticias, entrevistas y grupos de discusión.
-Paso 3: Análisis de los documentos, informaciones museo, proceso de toma de decisiones, evaluaciones, etc. Las entrevistas con las partes interesadas en la gestión de desastres.
-Paso 4: Exploración de material de museo, el análisis de los periódicos, las directrices de política, entrevistas con actores clave, la asociación de los refugiados, los administradores de desastres, entrevistas con miembros de la comunidad.
+1. Revisión de la literatura  y la exploración de los signos de la memoria cultural en Lorca (archivos históricos, museos periódicos, películas, signos físicos, etc.).
+2. Exploración de la ciudad, museos, archivos, noticias, entrevistas y grupos de discusión.
+3. Análisis de los documentos, informaciones museo, proceso de toma de decisiones, evaluaciones, etc. Las entrevistas con las partes interesadas en la gestión de desastres.
+4. Exploración de material de museo, el análisis de los periódicos, las directrices de política, entrevistas con actores clave, la asociación de los refugiados, los administradores de desastres, entrevistas con miembros de la comunidad.
+
 En Lorca, se ha iniciado el Paso 1 de la metodología de memoria cultural. Se ha empezado a recopilar  información histórica de los últimos eventos de inundaciones en Lorca y de los colapsos registrados del embalse de Puentes. Con las reuniones mantenidas con las asociaciones de vecinos, , se pretende  registrar su memoria histórica y validar parte de la información que  se ha recopilando. . Es por lo tanto, un método de trabajo en primer lugar, en gabinete para luego "testearlo" o probarlo con la población más vulnerable.
 
 Como signos de las inundaciones pasadas podemos encontrar dos signos en la riada de Santa Teresa de 1879. Uno de ellos fue de gratitud en forma de lápida en el salón de sesiones en el Ayuntamiento de Murcia a varios medios de comunicación de la época por la puesta en marcha de una campaña benéfica para recoger dinero y recoger ropa para los afectados de la inundación. 
 
 También podemos encontrar la estatua de Jose Maria Múñoz, personaje murciano que ayudo económicamente a muchas familias afectadas por la riada. 								Fuente: Región de Murcia digital
 
-
-
-##WP5 Infraestructuras: 
+## WP5 Infraestructuras
 En paralelo al uso del concepto de memoria cultural, se puede aplicar un método para analizar la relación entre infraestructuras y capital social. La idea es poner en relación el uso de las infraestructuras con la reducción de riesgo, introduciendo el papel de las comunidades locales y ciudadanos como elementos que permiten aumentar la información disponible y reducir el riesgo, sobre todo en zonas afectadas en el pasado por eventos extremos. 
+
 La metodología a aplicar contara con tres elementos:
 
 1. Aplicación del test de los 10 Elementos esenciales de la resiliencia en ámbitos urbanos del UNISDR
 2. Aplicación de la metodología desarrollada por POLIMI con respecto a la infraestructura a corto, medio y largo plazo en la infraestructura y la gestión de los desastres
 3. Cruce de los mapas de los diferentes planes mediante GIS para poder ver el nivel de alineamiento y las zonas más vulnerables y/o donde se debe priorizar una mejor alineación de los planes.
-###Aplicación de los 10 Aspectos esenciales
+
+### Aplicación de los 10 Aspectos esenciales
 
 La aplicación de los 10 aspectos esenciales se basara en un tipo test para poder comprobar mediante información cualitativa y a ser posible cuantitativa hasta qué punto se cumplen dichos aspectos esenciales
 
+<p class="highlight-start"></p>
 
+#### UNISDR 10 aspectos esenciales
 
-UNISDR 10 aspectos esenciales
+1. Establecer la organización y coordinación para comprender y reducir el riesgo de desastres, basado en la participación de los grupos de ciudadanos y la sociedad civil. Construir alianzas locales. Asegurando de que todos los departamentos comprendan su papel a la reducción del riesgo de desastres y la preparación frente a los desastres.
+2. Asignar un presupuesto para la reducción del riesgo de desastres y proporcionar incentivos para que los propietarios de viviendas, las familias de bajos ingresos, las comunidades, las empresas y el sector público inviertan en la reducción de los riesgos que enfrentan.
+3. Mantener datos actualizados sobre las amenazas y las vulnerabilidades, preparar evaluaciones de riesgo y usarlas como base para los planes y decisiones de desarrollo urbano. Asegurar que esta información y los planes para la resiliencia de la ciudad estén a disposición del público y que ha sido discutido con ellos.
+4. Invertir y mantener la infraestructura crítica que reduce el riesgo, tales como desagües para evitar inundaciones, ajustados cuando sea necesario para hacer frente al cambio climático.
+5. Evaluar la seguridad de todas las escuelas y los centros de salud y de ser necesario, modernizarlos.
+6. Aplicar y hacer cumplir los reglamentos realistas de prevención de riesgos en la construcción y principios de planificación del uso del suelo. Identificar terrenos seguros para los ciudadanos de bajos ingresos y desarrollar mejora de los asentamientos, siempre que sea posible.
+7. Asegurar que los programas de educación y capacitación sobre la reducción del riesgo de desastres están en las escuelas y en las comunidades locales.
+8. Proteger los ecosistemas y las zonas naturales para mitigar inundaciones, tormentas y otros peligros a los que la ciudad podría ser vulnerable. Adaptarse al cambio climático a través de buenas prácticas para la reducción de riesgos.
+9. Instalación de sistemas de alerta temprana y las capacidades de gestión de emergencias en la ciudad y mantener simulacros regulares de preparación del público.
+10. Después de un desastre, asegurar que las necesidades de los sobrevivientes se colocan en el centro de la reconstrucción con su propio apoyo y de las organizaciones de la comunidad para diseñar y ayudar a implementar respuestas, incluyendo reconstrucción de sus hogares y sus medios de vida 
 
-ESENCIAL 1: Establecer la organización y coordinación para comprender y reducir el riesgo de desastres, basado en la participación de los grupos de ciudadanos y la sociedad civil. Construir alianzas locales. Asegurando de que todos los departamentos comprendan su papel a la reducción del riesgo de desastres y la preparación frente a los desastres.
-ESENCIAL 2: Asignar un presupuesto para la reducción del riesgo de desastres y proporcionar incentivos para que los propietarios de viviendas, las familias de bajos ingresos, las comunidades, las empresas y el sector público inviertan en la reducción de los riesgos que enfrentan.
-ESENCIAL 3: Mantener datos actualizados sobre las amenazas y las vulnerabilidades, preparar evaluaciones de riesgo y usarlas como base para los planes y decisiones de desarrollo urbano. Asegurar que esta información y los planes para la resiliencia de la ciudad estén a disposición del público y que ha sido discutido con ellos.
-ESENCIAL 4: Invertir y mantener la infraestructura crítica que reduce el riesgo, tales como desagües para evitar inundaciones, ajustados cuando sea necesario para hacer frente al cambio climático.
-ESENCIAL 5: Evaluar la seguridad de todas las escuelas y los centros de salud y de ser necesario, modernizarlos.
-ESENCIAL 6: Aplicar y hacer cumplir los reglamentos realistas de prevención de riesgos en la construcción y principios de planificación del uso del suelo. Identificar terrenos seguros para los ciudadanos de bajos ingresos y desarrollar mejora de los asentamientos, siempre que sea posible.
-ESENCIAL 7: Asegurar que los programas de educación y capacitación sobre la reducción del riesgo de desastres están en las escuelas y en las comunidades locales.
-ESENCIAL 8: Proteger los ecosistemas y las zonas naturales para mitigar inundaciones, tormentas y otros peligros a los que la ciudad podría ser vulnerable. Adaptarse al cambio climático a través de buenas prácticas para la reducción de riesgos.
-ESENCIAL 9: Instalación de sistemas de alerta temprana y las capacidades de gestión de emergencias en la ciudad y mantener simulacros regulares de preparación del público.
-ESENCIAL 10: Después de un desastre, asegurar que las necesidades de los sobrevivientes se colocan en el centro de la reconstrucción con su propio apoyo y de las organizaciones de la comunidad para diseñar y ayudar a implementar respuestas, incluyendo reconstrucción de sus hogares y sus medios de vida 
+<p class="highlight-end"></p>
 
-###El papel de la infraestructura en la gestión de desastres1
+### El papel de la infraestructura en la gestión de desastres1
 
 En la gestión del riesgo de desastres, las políticas y las acciones evolucionan según las fases de desastre. En la Tabla 3 las acciones relacionadas con la gestión del riesgo de desastres se especifican considerando tres fases del desastre: "meses y años antes de un desastre", "horas y días antes de un desastre" y "horas inmediatas a días después." Además, la Tabla 4 muestra las acciones de desastre en tres periodos: "a corto plazo", "medio plazo" y "horas y días inmediatamente después". La fase de emergencia cubre las acciones, las horas y días antes del evento y después del evento. Las acciones, horas y días antes del evento incluyen la previsión y seguimiento de los riesgos, la inicialización de los procedimientos de alerta temprana, la evacuación de personas, etc.
 
@@ -584,148 +585,139 @@ Por otra parte, las obras adicionales, tales como la organización de los conduc
 
 La accesibilidad a las áreas dañadas e instalaciones críticas es otra preocupación fundamental. Es crucial que para cada acción, se establecen diversos agentes y sub-sistemas fuertemente interconectados.
 
+_Tabla 3: Acciones requeridas en cada fase del desastre (Fuente: Atun, F and Menoni, S.)_
 
+#### Meses y años antes del desastre
+- Meses y años antes del desastre  
+- Definición de las zonas de riesgo 
+- La restricción de desarrollo dentro de una zona de peligro 
+- Selección de las áreas de desarrollo fuera de la zona de peligro 
+- Adquisición de tierras 
+- Ordenanzas de uso del suelo 
+- Restricción de densidad  
+- Reubicación de la comunidad 
+- Elaboración de planes de gestión de desastres 
+- Establecimiento de un sistema de alerta temprana 
+- Preparación de un plan de evacuación 
+- Preparación de un plan de emergencia 
+- Realización de ensayos suficientes para la alerta temprana, la evacuación y las actividades de emergencia 
+- Construcción de sistemas de defensa estructurales 
+- Monitoreo de los sistemas de defensa estructurales 
+- Proporcionar códigos de construcción 
+- Proporcionar un sistema de seguros 
+- Formación del personal 
+- Llevando a cabo programas de educación del público y de información sobre los riesgos de desastre existentes 
+- Definir el material necesario en puntos críticos  
 
-Tabla 3: Acciones requeridas en cada fase del desastre (Fuente: Atun, F and Menoni, S.)
+#### Horas y días antes  
+- Predicción y vigilancia de riesgos 
+- La inicialización de los procedimientos de alerta temprana 
+- Servir de enlace con las autoridades correspondientes para la alerta temprana 
+- El cierre de las válvulas de gas 
+- Advertencias a industrias y plantas 
+- Advertencias a la comunidad proporcionando información suficiente 
+- La evacuación de personas y mascotas 
+- La organización de los autobuses y de los conductores de autobús 
+- La organización de las personas que no son capaces de conducir 
+- materiales y personal de emergencia movilizando 
+- Cómo evitar atascos de tráfico 
 
+#### Horas y días inmediatamente después 
+- Restaurar el orden y evitar el pánico
+- Comunicación con los organismos relacionados (como gobierno, militares, ONG 's)
+- Establecimiento de un sistema de organización de emergencia
+- Llegada de los primeros en responder
+- Proporcionar medios de transporte como helicópteros para movilizar materiales de soporte, personal de emergencia y voluntarios
+- Organización de los equipos de búsqueda y rescate que han llegado a la escena
+- Definición de las zonas dañadas
+- Envío de equipos a las áreas dañadas
+- Llegada de las máquinas pesadas
+- Establecimiento de hospitales de campaña
+- Tratar a las personas lesionadas
+- Transferencia de gente gravemente herida los hospitales
+- Organización de los medios de comunicación que evite dificultar las actividades de búsqueda y rescate
+- Proporcionar fotos y videos para los medios
+- Evacuación de las personas rescatadas a un área más segura
+- Suministro de alimentos, agua, ropa, tiendas de campaña, mantas, y materiales higiénicos para las personas rescatadas de los escombros o zonas / casas inundada
+- Identificación de las personas desaparecidas y fallecidas
+- Enterrar a los fallecidos
+- Ayuda psicológica y apoyo para los niños
+- Proporcionar miembros de equipo locales para cada equipo extranjero
+- Distribución de materiales (alimentos y otras necesidades) donados por organizaciones internacionales
+- Programas de reubicación parciales durante la reconstrucción de los puntos más críticos
+- Empezar la reparación y reconstrucción de líneas de vida
 
-Meses y años antes del desastre 
-Horas y días antes 
-Horas y días inmediatamente después 
-Definición de las zonas de riesgo
-La restricción de desarrollo dentro de una zona de peligro
-Selección de las áreas de desarrollo fuera de la zona de peligro
-Adquisición de tierras
-Ordenanzas de uso del suelo
-Restricción de densidad 
-Reubicación de la comunidad
-Elaboración de planes de gestión de desastres
-Establecimiento de un sistema de alerta temprana
-Preparación de un plan de evacuación
-Preparación de un plan de emergencia
-Realización de ensayos suficientes para la alerta temprana, la evacuación y las actividades de emergencia
-Construcción de sistemas de defensa estructurales
-Monitoreo de los sistemas de defensa estructurales
-Proporcionar códigos de construcción
-Proporcionar un sistema de seguros
-Formación del personal
-Llevando a cabo programas de educación del público y de información sobre los riesgos de desastre existentes
-Definir el material necesario en puntos críticos 
-Predicción y vigilancia de riesgos
-La inicialización de los procedimientos de alerta temprana
-Servir de enlace con las autoridades correspondientes para la alerta temprana
-El cierre de las válvulas de gas
-Advertencias a industrias y plantas
-Advertencias a la comunidad proporcionando información suficiente
-La evacuación de personas y mascotas
-La organización de los autobuses y de los conductores de autobús
-La organización de las personas que no son capaces de conducir
-materiales y personal de emergencia movilizando
-Cómo evitar atascos de tráfico
+_Tabla 4: acciones post-desastre en tres períodos (Fuente: Atun, F and Menoni, S.)_
 
+#### Corto Plazo (2 semanas - 3 meses)
+- Análisis detallado de los daños
+- Continuar con la reparación y reconstrucción de las líneas de vida
+- Empezar con la reparación y reconstrucción de las zonas edificadas
+- Decidir sobre los códigos de construcción y reequipamiento de las nuevas construcciones
+- La curación de las personas traumatizadas y de los heridos
+- Reunificación de las familias separadas
+- Reinicio de vida normal
+- Restaurar la situación económica/ servicios financieros y de atención médica a la situación pre-desastre
+- Proporcionar puestos de trabajo
+- Facilitar el retorno permanente de los residentes
 
+#### Plazo medio (4-9 meses)
+- Continuar con la reparación y reconstrucción de líneas de vida
+- Continuar con la reparación y reconstrucción del entorno urbano
 
-Restaurar el orden y evitar el pánico
-Comunicación con los organismos relacionados (como gobierno, militares, ONG 's)
-Establecimiento de un sistema de organización de emergencia
-Llegada de los primeros en responder
-Proporcionar medios de transporte como helicópteros para movilizar materiales de soporte, personal de emergencia y voluntarios
-Organización de los equipos de búsqueda y rescate que han llegado a la escena
-Definición de las zonas dañadas
-Envío de equipos a las áreas dañadas
-Llegada de las máquinas pesadas
-Establecimiento de hospitales de campaña
-Tratar a las personas lesionadas
-Transferencia de gente gravemente herida los hospitales
-Organización de los medios de comunicación que evite dificultar las actividades de búsqueda y rescate
-Proporcionar fotos y videos para los medios
-Evacuación de las personas rescatadas a un área más segura
-Suministro de alimentos, agua, ropa, tiendas de campaña, mantas, y materiales higiénicos para las personas rescatadas de los escombros o zonas / casas inundada
-Identificación de las personas desaparecidas y fallecidas
-Enterrar a los fallecidos
-Ayuda psicológica y apoyo para los niños
-Proporcionar miembros de equipo locales para cada equipo extranjero
-Distribución de materiales (alimentos y otras necesidades) donados por organizaciones internacionales
-Programas de reubicación parciales durante la reconstrucción de los puntos más críticos
-Empezar la reparación y reconstrucción de líneas de vida
+#### Hora y días inmediatamente después 
+- Incorporar las medidas de recuperación/resiliencia en los futuros planes de desarrollo
+- Continuar con la reparación y reconstrucción de líneas de vida
 
+_Tabla 5: Acciones relacionadas con el sistema de transporte (Fuente: Autor)_
 
+#### Meses y años antes del desastre 
+- Definición de las partes vulnerables de la red de transporte (análisis de vulnerabilidad de red vial y ferroviaria, las estaciones principales de autobús tubo, tren, autobús público y)
+- Proximidad de las partes vulnerables del sistema de transporte a las zonas de riesgo
+- Proximidad de las partes vulnerables del sistema de transporte a las zonas vulnerables en el tejido urbano
+- Proximidad de las partes vulnerables del sistema de transporte a las instalaciones públicas
+- Dar prioridad a las partes vulnerables teniendo en cuenta la función de todo el sistema
+- Provisión y aplicación de medidas estructurales y no estructurales de mitigación
+- La definición de la red de carreteras de emergencia
 
+#### Horas y días antes 
+- Evacuación de personas y mascotas
+- Organización de autobuses y conductores de autobuses para evacuar a las personas
+- Movilización de materiales y personal de emergencia 
+- Proporcionar caminos de evacuación seguros y evitar los atascos de tráfico 
 
-Tabla 4: acciones post-desastre en tres períodos (Fuente: Atun, F and Menoni, S.)
-
-
-Corto Plazo (2 semanas - 3 meses)
-Plazo medio (4-9 meses)
-Hora y días inmediatamente después 
-Análisis detallado de los daños
-Continuar con la reparación y reconstrucción de las líneas de vida
-Empezar con la reparación y reconstrucción de las zonas edificadas
-Decidir sobre los códigos de construcción y reequipamiento de las nuevas construcciones
-La curación de las personas traumatizadas y de los heridos
-Reunificación de las familias separadas
-Reinicio de vida normal
-Restaurar la situación económica/ servicios financieros y de atención médica a la situación pre-desastre
-Proporcionar puestos de trabajo
-Facilitar el retorno permanente de los residentes
-Continuar con la reparación y reconstrucción de líneas de vida
-Continuar con la reparación y reconstrucción del entorno urbano
-
-Incorporar las medidas de recuperación/resiliencia en los futuros planes de desarrollo
-Continuar con la reparación y reconstrucción de líneas de vida
-
-
-
-
-Tabla 5: Acciones relacionadas con el sistema de transporte (Fuente: Autor)
-Meses y años antes del desastre 
-Horas y días antes 
-Horas y días inmediatamente después 
-Definición de las partes vulnerables de la red de transporte (análisis de vulnerabilidad de red vial y ferroviaria, las estaciones principales de autobús tubo, tren, autobús público y)
-Proximidad de las partes vulnerables del sistema de transporte a las zonas de riesgo
-Proximidad de las partes vulnerables del sistema de transporte a las zonas vulnerables en el tejido urbano
-Proximidad de las partes vulnerables del sistema de transporte a las instalaciones públicas
-Dar prioridad a las partes vulnerables teniendo en cuenta la función de todo el sistema
-Provisión y aplicación de medidas estructurales y no estructurales de mitigación
-La definición de la red de carreteras de emergencia
-
-Evacuación de personas y mascotas
-Organización de autobuses y conductores de autobuses para evacuar a las personas
-Movilización de materiales y personal de emergencia 
-Proporcionar caminos de evacuación seguros y evitar los atascos de tráfico 
-La movilización de los primeros en responder
-Movilización de los equipos de búsqueda y rescate
-Envío de equipos a las áreas dañadas
-Movilización de maquinaria pesada
-La transferencia de la gente herida grave a los hospitales
-Evacuación de las personas rescatadas a zonas más seguras
-Proporcionar medios de transporte, como helicópteros para movilizar soporte de materiales, personal de emergencia y voluntarios
-Movilización de alimentos, agua, ropa, tiendas de campaña, mantas para las personas rescatadas
-Llevar los cadáveres a enterrar
-Movilización de equipos extranjeros en los aeropuertos y puertos
-Definición de los daños en la red de transporte
-Iniciar la reparación de los daños
-
+#### Horas y días inmediatamente después 
+- La movilización de los primeros en responder
+- Movilización de los equipos de búsqueda y rescate
+- Envío de equipos a las áreas dañadas
+- Movilización de maquinaria pesada
+- La transferencia de la gente herida grave a los hospitales
+- Evacuación de las personas rescatadas a zonas más seguras
+- Proporcionar medios de transporte, como helicópteros para movilizar soporte de materiales, personal de emergencia y voluntarios
+- Movilización de alimentos, agua, ropa, tiendas de campaña, mantas para las personas rescatadas
+- Llevar los cadáveres a enterrar
+- Movilización de equipos extranjeros en los aeropuertos y puertos
+- Definición de los daños en la red de transporte
+- Iniciar la reparación de los daños
 
 Queremos empezar a trabajar con el WP5 suministrándole información concreta de las infraestructuras (“hard infrastructures”) que afectan o influyen en la gestión del riesgo. 
 
 No sólo la presa de Puentes sino también, la carretera o la red ferroviaria en la que las asociaciones de vecinos están centrando sus esfuerzos reivindicando que tenga mayores pasos para el agua y que se actúe para que no vuelvan a actuar como "presas" del agua reteniendo todo el caudal en zonas habitadas.
 
- Caja 8
-Fotos caja 8 y Caja 9
+<div class="row">
+	<div class="col-sm-6">
+		<img alt="" src="/img/case-studies/lorca-18.jpg">
+	</div>
+	<div class="col-sm-6">
+		<img alt="Zonas Inundables según Sistema Nacional de Zonas Inundables (Fuente: SNCZI)" src="/img/case-studies/lorca-19.jpg">
+	</div>
+</div>
 
-Noticias relacionadas con Infraestructura en La Rambla [Noticia 1] (http://www.laverdad.es/murcia/201506/06/levantaran-otros-seis-diques-20150606003138-v.html) y[ Noticia 2] (http://www.noticiasdealmeria.com/noticia/90112/almera/la-chs-construye-once-grandes-diques-contra-avenidas-en-la-rambla-de-nogalte-en-vlez-rubio.html)
+Noticias relacionadas con Infraestructura en La Rambla [Noticia 1](http://www.laverdad.es/murcia/201506/06/levantaran-otros-seis-diques-20150606003138-v.html) y [ Noticia 2](http://www.noticiasdealmeria.com/noticia/90112/almera/la-chs-construye-once-grandes-diques-contra-avenidas-en-la-rambla-de-nogalte-en-vlez-rubio.html).
 
+## Métodos aplicados y lecciones aprendidas 
 
-
-Figura 12: 
-Zonas Inundables según Sistema Nacional de Zonas Inundables (FUENTE SNCZI
-
-
-##Métodos aplicados y lecciones aprendidas 
-
-
-###OBJETIVO 1: FORTALECER EL CAPITAL SOCIAL EN RRD MEDIANTE UNA MEJOR COMUNICACIÓN GRACIAS A UN MEJOR INTERCAMBIO DE INFORMACIÓN 
+### Objetivo 1: fortalecer el capital social en rrd mediante una mejor comunicación gracias a un mejor intercambio de información 
 
 Tradicionalmente las relaciones entre administraciones se han desarrollado mediante procedimientos a veces bastantes lentos e ineficaces, prima la independencia y el excesivo formalismo. A veces este “formalismo” se relaja por las relaciones personales entre técnicos de las administraciones que resultan claves para agilizar el tránsito de información.  
 
@@ -733,113 +725,58 @@ Pero estos problemas no suelen ser patrimonio en la relación entre administraci
 
 Podemos ver un esquema de las principales relaciones entre los actores que participan en una inundación, no solamente administraciones, si no bomberos, militares, protección civil, comunidad, etc.
 
-
-Figura 13: 
-Protocolo de Intervención
-
+<div class="col-sm-6 pull-right">
+	<img alt="Protocolo de Intervención" src="/img/case-studies/lorca-20.png">
+</div>
 
 Desde el punto de vista de la CHS, las principales relaciones serían las siguientes
+- El primer paso sería recibir la información  de la previsión meteorológica por parte de la AEMET
+- El SAIH emite información hacia la propia CHS y es donde se tiene el sistema de ayuda a la decisión. 
+- Si la situación se torna complicada, se forma el Comité Permanente, en la que están incluidos, Presidente, Director Técnico, Comisario de Aguas y Jefe de Explotación. Ellos serán los responsables de tomar cualquier decisión como puede ser la apertura o no de embalses. 
+- La información es transmitirá a la Delegación del Gobierno, de la administración estatal que será la responsable de difundirla. En principio no hay relación directa con la Protección Civil de la CCAA (que es la administración responsable hasta que inicia el nivel 2) , por tanto aquí nos encontramos con un punto crítico donde 
+- Las redes sociales han hecho evolucionar totalmente la gestión de las inundaciones. En nuestro caso la CHS aunque estaba presente en 2012 
 
-El primer paso sería recibir la información  de la previsión meteorológica por parte de la AEMET
-El SAIH emite información hacia la propia CHS y es donde se tiene el sistema de ayuda a la decisión. 
-Si la situación se torna complicada, se forma el Comité Permanente, en la que están incluidos, Presidente, Director Técnico, Comisario de Aguas y Jefe de Explotación. Ellos serán los responsables de tomar cualquier decisión como puede ser la apertura o no de embalses. 
-La información es transmitirá a la Delegación del Gobierno, de la administración estatal que será la responsable de difundirla. En principio no hay relación directa con la Protección Civil de la CCAA (que es la administración responsable hasta que inicia el nivel 2) , por tanto aquí nos encontramos con un punto crítico donde 
-Las redes sociales han hecho evolucionar totalmente la gestión de las inundaciones. En nuestro caso la CHS aunque estaba presente en 2012 
+### Objetivo 2: reforzar el papel de las redes sociales y culturales como apoyo a los organismos responsables de las emergencias
 
-
-
-Caja 9:  [App e información desarrollada por la CHS para que el ciudadano pueda saber si está en una zona inundable] (http://www.chsegura.es/chs/cuenca/gestioninundacion/)
-
-– hidden
-Datos desde el 28-9-2016 que se publicó a la calle:
- 
-Página
-Nº accesos
-Tamaño descarga
-/chs/cuenca/gestioninundacion/
-1.527
-16.20 KB
-/chs/cuenca/gestioninundacion/cartografia.html
-1.145
-20.02 KB
-/chs/cuenca/gestioninundacion/fase02.html
-758
-15.88 KB
-/chs/cuenca/gestioninundacion/fase03.html
-509
-16.94 KB
-/chs/cuenca/gestioninundacion/fase01.html
-243
-14.77 KB
-/chs/cuenca/gestioninundacion/visor_fluvialjs.jsp
-126
-48.41 KB
-/chs/cuenca/gestioninundacion/visor_marinojs.jsp
-11
-47.69 KB
-
-
-----
-
-###OBJETIVO 2: REFORZAR EL PAPEL DE LAS REDES SOCIALES Y CULTURALES COMO APOYO A LOS ORGANISMOS RESPONSABLES DE LAS EMERGENCIAS
-
-
-VOLUNTARIOS DIGITALES EN EMERGENCIAS
+**Voluntarios digitales en emergencias**
 
 Los equipos de voluntarios digitales o Virtual Operation Support Team, por sus siglas en inglés, tienen como objetivo apoyar a las cuentas de los servicios de emergencia en Twitter detectando y neutralizando bulos y rumores. También hacer protección civil en redes sociales.
-La Campaña de Incendios forestales de 2012 (una de las más devastadoras de los últimos 30 años) supuso el surgimiento de los VOST en nuestro país. Los incendios acaecidos en julio en la Comunidad Valenciana, en los que ardieron 50.000 hectáreas, vinieron acompañados de bulos muy dañinos en las redes sociales, especialmente en Twitter.
 
+La Campaña de Incendios forestales de 2012 (una de las más devastadoras de los últimos 30 años) supuso el surgimiento de los VOST en nuestro país. Los incendios acaecidos en julio en la Comunidad Valenciana, en los que ardieron 50.000 hectáreas, vinieron acompañados de bulos muy dañinos en las redes sociales, especialmente en Twitter.
 
 Tras estos acontecimientos un pequeño grupo de profesionales españoles de las emergencias, Rafael Gálvez @GalvezRivas y Javier Blanco @Tango_alfa2, crean @VOSTSpain y comienzan a actuar durante el resto de la campaña de incendios forestales de 2012 detectando y parando, conjuntamente con los centros de emergencia 112 y servicios de bomberos bulos en: Canarias, Cataluña y Madrid.
 
-
 Los actuales equipos de voluntarios digitales en emergencias están formados por profesionales remunerados o no del mundo de las emergencias que, en su tiempo libre, dan soporte altruistamente a esta actividad. Por lo tanto, entre ellos hay: bomberos, sanitarios, periodistas de emergencias con un objetivo común: hacer protección civil desde las redes sociales.
 
-
-###Cómo se detectan bulos y rumores en redes sociales. Recomendaciones para evitarlos
+### Cómo se detectan bulos y rumores en redes sociales. Recomendaciones para evitarlos
 
 La estrategia principal pasa por monitorizar las redes sociales cuando se producen situaciones de emergencia y catástrofe, atentos a la conversación que se genera por esos sucesos. Es importante liderar la información desde el primer instante tratando de agrupar la  actividad comunicativa bajo una etiqueta o hashtag que permita seguir la evolución de la conversación durante la crisis o emergencia. 
 
 Algunas recomendaciones extraídas de diferentes artículos del blog de Luis Serrano, periodista especializado en gestión de crisis, nos ofrece pistas para hacer frente a bulos y rumores en redes sociales. Estas son algunas de ellas:
+- Desconfíe de informaciones que no enlacen con una web oficial de la administración o de un medio de comunicación serio.
+- Desconfíe de los pantallazos de medios digitales de comunicación o webs oficiales. Compruebe si es cierto acudiendo a la web oficial o a su canal oficial en Twitter. Es fácil.
+- Ojo con las fotos que se publican en un tweet que no lleva adjunto un link a una fuente oficial o a un medio de comunicación serio. Pueden ser falsas, un montaje o corresponder a un hecho anterior en el tiempo. Puede verificar cuándo y dónde se publicó introduciendo el link en Google Search Images. Recuerde que el Photo Shop hace milagros.
+- Verifique los perfiles y las bios de las fuentes que divulgan el mensaje. Si no es una cuenta a la que sigue habitualmente desconfíe.
+- No dude en preguntar a las fuentes oficiales o a los medios de comunicación vía Twitter sobre informaciones sospechosas. Otra opción es preguntar a los equipos VOST de voluntarios digitales en emergencia que están repartidos en todo el Estado con @vostSPAIN a la cabeza. Están especialmente adiestrados y conectados para detectar y neutralizar bulos. Ayude a hacer #StopBulos y a evitar situaciones de alarma social.
+- Cuidado con el WhatsApp. Si la información alarmista le llega por esta vía desconfíe. Y sobre todo no la comparta si dudar de ella.
+- Los pantallazos de WhatsApp en Twitter tienen muchas papeletas de ser un bulo.
+- Compruebe los horarios de los tweets alarmistas. Si éste es de hace dos horas y usted no ve la información en un Medio de Comunicación profesional sin duda va a ser un bulo.
+- El primo, el amigo que le ha contado un familiar, que sabe de buena tinta… No es una fuente solvente. Va a ser por definición una fuente distorsionada, más aún si le entrega los datos por WhatsApp.
+- Y si tiene alguna duda espere. No contribuya a generar alarma social. La protección es cosas de todos y todos debemos hacer protección civil divulgando informaciones veraces.
 
-– Desconfíe de informaciones que no enlacen con una web oficial de la administración o de un medio de comunicación serio.
+### ¿Para qué?
+- Tomar conciencia del papel de las redes sociales y culturales en la RRD;
+- Identificar los intermediarios culturales, que pueden actuar como intermediario entre las autoridades y las redes sociales, con el fin de mejorar la información sobre los riesgos proceso de intercambio;
+- Identificar las similitudes y diferencias entre las distintas redes sociales y culturales en el sistema urbano;
+- Entender mejor cómo cambian las redes en situaciones de stress y cómo promover cambios positivos que permitan a estas redes funcionar durante un desastre 
+- Asignar mejor los recursos para fortalecer el capital social de una comunidad a través de sus redes sociales y culturales.
 
-– Desconfíe de los pantallazos de medios digitales de comunicación o webs oficiales. Compruebe si es cierto acudiendo a la web oficial o a su canal oficial en Twitter. Es fácil.
-
-– Ojo con las fotos que se publican en un tweet que no lleva adjunto un link a una fuente oficial o a un medio de comunicación serio. Pueden ser falsas, un montaje o corresponder a un hecho anterior en el tiempo. Puede verificar cuándo y dónde se publicó introduciendo el link en Google Search Images. Recuerde que el Photo Shop hace milagros.
-
-– Verifique los perfiles y las bios de las fuentes que divulgan el mensaje. Si no es una cuenta a la que sigue habitualmente desconfíe.
-
-– No dude en preguntar a las fuentes oficiales o a los medios de comunicación vía Twitter sobre informaciones sospechosas. Otra opción es preguntar a los equipos VOST de voluntarios digitales en emergencia que están repartidos en todo el Estado con @vostSPAIN a la cabeza. Están especialmente adiestrados y conectados para detectar y neutralizar bulos. Ayude a hacer #StopBulos y a evitar situaciones de alarma social.
-
-– Cuidado con el WhatsApp. Si la información alarmista le llega por esta vía desconfíe. Y sobre todo no la comparta si dudar de ella.
-– Los pantallazos de WhatsApp en Twitter tienen muchas papeletas de ser un bulo.
-
-– Compruebe los horarios de los tweets alarmistas. Si éste es de hace dos horas y usted no ve la información en un Medio de Comunicación profesional sin duda va a ser un bulo.
-
-– El primo, el amigo que le ha contado un familiar, que sabe de buena tinta… No es una fuente solvente. Va a ser por definición una fuente distorsionada, más aún si le entrega los datos por WhatsApp.
-
-– Y si tiene alguna duda espere. No contribuya a generar alarma social. La protección es cosas de todos y todos debemos hacer protección civil divulgando informaciones veraces.
-
-##¿Para qué?
-Tomar conciencia del papel de las redes sociales y culturales en la RRD;
-Identificar los intermediarios culturales, que pueden actuar como intermediario entre las autoridades y las redes sociales, con el fin de mejorar la información sobre los riesgos proceso de intercambio;
-Identificar las similitudes y diferencias entre las distintas redes sociales y culturales en el sistema urbano;
-Entender mejor cómo cambian las redes en situaciones de stress y cómo promover cambios positivos que permitan a estas redes funcionar durante un desastre 
-Asignar mejor los recursos para fortalecer el capital social de una comunidad a través de sus redes sociales y culturales.
-##¿Cómo?
-Validación de los mapas de las redes culturales y de confianza institucionales e informales de Lorca y la identificación de los grupos más vulnerables
-Mejora de los protocolos de actuación entre las administraciones para la comunicación y el intercambio de información.
-Desarrollar herramientas y procedimientos para el intercambio de información con la población local de mejor calidad.
-Establecer procedimientos para la organización de talleres dirigidos a los habitantes de zonas inundables y herramientas  como p.e. juegos-serios para apoyar estas actividades.
+### ¿Cómo?
+- Validación de los mapas de las redes culturales y de confianza institucionales e informales de Lorca y la identificación de los grupos más vulnerables
+- Mejora de los protocolos de actuación entre las administraciones para la comunicación y el intercambio de información.
+- Desarrollar herramientas y procedimientos para el intercambio de información con la población local de mejor calidad.
+- Establecer procedimientos para la organización de talleres dirigidos a los habitantes de zonas inundables y herramientas  como p.e. juegos-serios para apoyar estas actividades.
 
 Como resultado secundario, se tendrá información más actualizada para demarcar mejor los límites del lecho del río en los episodios extremos de inundación y la identificación y cuantificación de posibles trabajos y actividades en las zonas más vulnerables
 
-Anexo I. Listado de las inundaciones históricas de Lorca.
-
---hidden
-
-Anex Lorca
-Fuente: elaboración propia a partir de la “Cronología de las Riadas en la Cuenca” del Segura de la CHS y del Archivo Municipal (Número 4-5).
-
---
+<img style="width: 634px !important; height: 823px !important; max-height: 823px !important" alt="Listado de las inundaciones históricas de Lorca.. Fuente: elaboración propia a partir de la “Cronología de las Riadas en la Cuenca” del Segura de la CHS y del Archivo Municipal (Número 4-5)" src="/img/case-studies/lorca-21.jpg">
