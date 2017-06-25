@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="laquila-map.svg"
+   sodipodi:docname="l'aquila-map.svg"
    width="390"
    height="260"
    inkscape:export-filename="/home/guus/Pulse/Cirrus/o/educen/img/laquila-map.png"
@@ -45,10 +45,10 @@
      id="namedview34"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="112.80131"
+     inkscape:cx="-7.0532862"
      inkscape:cy="128.69052"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="g8"
      fit-margin-top="0"
@@ -93,13 +93,6 @@
        title="San Marino"
        class="land"
        d="m 193.25407,543.34155 0,0 0.29432,-1.90584 -1.92379,0.90088 0.10049,1.29568 0,0 0.0144,0.0359 z"
-       inkscape:connector-curvature="0"
-       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1.279;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       id="FR-H"
-       title="Corsica,  France"
-       class="land"
-       d="m 136.77865,566.21526 0.74655,0.62811 0.54196,4.52952 -0.85422,3.34868 1.6223,3.33074 0.36251,10.265 -2.62368,4.19931 -0.41993,7.27882 -1.98122,1.25979 0.12204,0.75373 0.56349,-0.73937 0.91524,0.3302 -1.72998,1.49309 0.0861,1.61871 -1.14135,1.34235 0.79321,-0.10409 -1.46797,1.21314 -1.59,-0.7286 0.46659,-1.18442 -6.10516,-2.77083 0.061,-1.78741 2.25758,-1.52898 -2.42268,-0.20817 -0.12562,-1.01573 -2.13555,0.0215 2.07812,-1.75151 0.57427,-2.06376 -0.38045,-0.67476 -3.2123,0.71424 -0.27637,-1.76228 1.0265,-0.0861 0.21535,-1.08033 1.60436,-0.91883 -0.87217,-1.55052 -0.75013,0.29073 -1.87355,-1.11264 0.42711,-1.48233 -0.75372,-0.78602 2.84979,-0.72501 -1.66537,-0.96549 0.21894,-1.07674 -1.06239,0.42352 -0.28354,-0.89011 2.06376,-1.17725 0.45583,-1.33158 -0.57427,-0.24047 1.42131,-2.63803 1.1593,0.77526 0.24406,-1.21314 3.91936,-0.96548 2.01711,-2.25041 1.7874,-0.0933 1.41413,1.46078 0.84704,-1.47873 -0.64964,-2.42627 0.95472,-2.27553 -0.38763,-1.75151 1.5218,-0.44147 z"
        inkscape:connector-curvature="0"
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1.279;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
