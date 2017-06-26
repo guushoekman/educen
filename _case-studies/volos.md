@@ -124,6 +124,8 @@ To pass from knowing the history of the city and past disasters to DRR, EDUCEN b
 
 Although cultural aspects are more obviously manifested in the response phase of a disaster, both literature and practice indicate strong cultural dimensions in recovery and reconstruction. To explore these, a Workshop was organized with the aim to trigger discussion on soft (non-engineering) aspects of earthquake reconstruction based on past disasters in Greece. The cases of Volos recovery from the disasters of the ‘50s, the reconstruction of Kefalonia island after the devastating earthquake disaster of 1953, the successful reconstruction of Kalamata after the earthquakes of 1986, the changes in urban tissue and street network after the Great Fire of Thessaloniki in 1917, offered the canvas for fruitful discussions among scholars, practitioners and the general public. 
 
+<iframe frameborder="0" src="https://uploads.knightlab.com/storymapjs/13ea205705454a6951a6b648ffc2c09d/disaster-recovery-and-reconstruction-greece/index.html" width="750" height="800"></iframe>
+
 ## Policy exercises and serious games	
 
 A serious game for teenagers is developed linked with the Museum of the City of Volos. The aim is to raise disaster awareness of teenagers who have visited the Museum and to motivate them towards taking disaster protection measures. The game is developing with the collaboration of the Museum of the City of Volos.
