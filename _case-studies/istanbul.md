@@ -3,7 +3,7 @@ layout: casestudy
 name: istanbul
 title: Istanbul
 image: istanbul.jpg
-author: Caglar Akundor (AKUT Association)
+author: Caglar Akgungor (AKUT Association)
 active: case-studies
 ---
 ## Prologue
