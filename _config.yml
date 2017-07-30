@@ -6,13 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+name: EDUCEN
+description: Handbook on Culture and Urban Disaster
+url: http://educen.cultureanddisaster.eu/
+
 title: EDUCEN
 email: jeroen.warner@wur.nl
-url:
+url: http://educen.cultureanddisaster.eu/
+description: Handbook on Culture and Urban Disaster
 twitter:
   username: EDUCEN_EU
-baseurl: 
-description: Handbook on Culture and Urban Disaster
 logo: /img/logo.png
 
 gems:
